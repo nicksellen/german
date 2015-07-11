@@ -1,5 +1,16 @@
+haben:
+  tags:
+    - hilfsverb
+  strong:
+    weak endings: true
+    stem consonants:
+      präteritum: t
+  stems:
+    präsens du/es: ha
 
 sein:
+  tags:
+    - hilfsverb
   hilfsverb: sein
   partizip: gewesen
   strong:
@@ -14,6 +25,8 @@ sein:
       ihr: seid
 
 werden:
+  tags:
+    - hilfsverb
   partizip: geworden
   hilfsverb: sein
   strong:
@@ -30,6 +43,8 @@ werden:
       es: wurde
 
 können:
+  tags:
+    - modal
   strong:
     weak endings: true
   stems:
@@ -42,6 +57,8 @@ können:
       es: kann
 
 müssen:
+  tags:
+    - modal
   strong:
     weak endings: true
   stems:
@@ -55,6 +72,7 @@ müssen:
 
 wollen:
   tags:
+    - modal
     - strong
   irregular:
     präsens:
@@ -64,6 +82,7 @@ wollen:
 
 sollen:
   tags:
+    - modal
     - strong
   irregular:
     präsens:
@@ -71,6 +90,8 @@ sollen:
       es: soll
 
 dürfen:
+  tags:
+    - modal
   strong:
     weak endings: true
   stems:
@@ -83,6 +104,8 @@ dürfen:
       es: darf
 
 mögen:
+  tags:
+    - modal
   strong:
     weak endings: true
   stems:
@@ -256,11 +279,3 @@ weak example:
     strong endings: true
   present singular stem: bomp
   drop ending mode: true
-
-haben:
-  strong:
-    weak endings: true
-    stem consonants:
-      präteritum: t
-  stems:
-    präsens du/es: ha
