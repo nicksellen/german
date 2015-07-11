@@ -1,4 +1,242 @@
 
+sein:
+  hilfsverb: sein
+  partizip: gewesen
+  strong:
+  stems:
+    präteritum: war
+  irregular:
+    präsens:
+      ich: bin
+      du: bist
+      es: ist
+      wir: sind
+      ihr: seid
+
+werden:
+  partizip: geworden
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: wurd
+    k2präsens: würd
+  irregular:
+    präsens:
+      du: wirst
+      es: wird
+    präteritum:
+      ich: wurde
+      du: wurdest
+      es: wurde
+
+können:
+  strong:
+    weak endings: true
+  stems:
+    präteritum: konn
+    partizip: konn
+  irregular:
+    präsens:
+      ich: kann
+      du: kannst
+      es: kann
+
+müssen:
+  strong:
+    weak endings: true
+  stems:
+    präteritum: muss
+    partizip: muss
+  irregular:
+    präsens:
+      ich: muss
+      du: musst
+      es: muss
+
+wollen:
+  tags:
+    - strong
+  irregular:
+    präsens:
+      ich: will
+      du: willst
+      es: will
+
+sollen:
+  tags:
+    - strong
+  irregular:
+    präsens:
+      ich: soll
+      es: soll
+
+dürfen:
+  strong:
+    weak endings: true
+  stems:
+    präteritum: durf
+    partizip: durf
+  irregular:
+    präsens:
+      ich: darf
+      du: darfst
+      es: darf
+
+mögen:
+  strong:
+    weak endings: true
+  stems:
+    präteritum: moch
+    partizip: moch
+  irregular:
+    präsens:
+      ich: mag
+      du: magst
+      es: mag
+
+wissen:
+  strong:
+    weak endings: true
+  stems:
+    präteritum: wuss
+    partizip: wuss
+  irregular:
+    präsens:
+      ich: weiß
+      du: weißt
+      es: weiß
+
+heißen:
+  strong:
+  stems:
+    präteritum: hieß
+    k2präsens: hieß
+
+tun:
+  strong:
+  stems:
+    präteritum: tat
+    partizip: ta
+
+stehen:
+  strong:
+  stems:
+    präteritum: stand
+    k2präsens: ständ
+    partizip: stand
+
+liegen:
+  strong:
+  stems:
+    präteritum: lag
+    k2präsens: läg
+    partizip: leg
+
+denken:
+  strong:
+    weak endings: true
+  stems:
+    präteritum: dach
+    partizip: dach
+
+bringen:
+  strong:
+    weak endings: true
+  stems:
+    präteritum: brach
+    partizip: brach
+
+nehmen:
+  strong:
+  stems:
+    präsens du/es: nimm
+    präteritum: nahm
+    partizip: nomm
+
+finden:
+  strong:
+  stems:
+    präteritum: fand
+    partizip: fund
+
+lassen:
+  strong:
+  stems:
+    präsens du/es: läss
+    präteritum: ließ
+    k2präsens: ließ
+
+geben:
+  strong:
+  stems:
+    präsens du/es: gib
+    präteritum: gab
+
+sehen:
+  strong:
+  stems:
+    präsens du/es: sieh
+    präteritum: sah
+
+gehen:
+  strong:
+  hilfsverb: sein
+  stems:
+    präteritum: ging
+    k2präsens: ging
+    partizip: gang
+
+essen:
+  strong:
+  stems:
+    präsens du/es: iss
+    präteritum: aß
+    partizip: gess
+
+bleiben:
+  strong:
+  hilfsverb: sein
+  stems:
+    präteritum: blieb
+    k2präsens: blieb
+    partizip: blieb
+
+fahren:
+  strong:
+  hilfsverb: sein
+  stems:
+    präsens du/es: fähr
+    präteritum: fuhr
+
+sprechen:
+  strong:
+  pp: gesprochen
+  stems:
+    präsens du/es: sprich
+    präteritum: sprach
+    partizip: sproch
+
+sagen:
+spielen:
+machen:
+fragen:
+glauben:
+leben:
+lernen:
+reden:
+bedeuten:
+gehören:
+kaufen:
+schmecken:
+warten:
+wohnen:
+arbeiten:
+
+testen:
+  tags:
+    - for testing
+
+
 strong example:
   ignore: true
   tags:
@@ -6,11 +244,12 @@ strong example:
   strong:
     weak endings: true
     k2 vowel: ä
-    du/es stem: mag
     stem consonants:
       du/es präsens: bom
       präteritum: woah
       pp: ok
+  stems:
+    präsens du/es: mag
 
 weak example:
   ignore: true
@@ -22,54 +261,7 @@ weak example:
 haben:
   strong:
     weak endings: true
-    du/es stem: ha
     stem consonants:
       präteritum: t
-
-sein:
-  strong:
-    stems:
-      präteritum: war
-    irregular:
-      präsens:
-        ich: bin
-        du: bist
-        es: ist
-        wir: sind
-        ihr: seid
-
-werden:
-  # hmmm I think I should be able to do better on this one
-  strong:
-    stems:
-      präteritum: wurd
-      k2präsens: würd
-    irregular:
-      präsens:
-        du: wirst
-        es: wird
-      präteritum:
-        ich: wurde
-        du: wurdest
-        es: wurde
-
-sagen:
-spielen:
-warten:
-
-können:
-  strong:
-    weak endings: true
-    stems:
-      präteritum: konn
-    irregular:
-      präsens:
-        ich: kann
-        du: kannst
-        es: kann
-
-müssen:
-
-testen:
-  tags:
-    - for testing
+  stems:
+    präsens du/es: ha
