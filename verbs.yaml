@@ -1,5 +1,5 @@
 
-boo:
+strong example:
   ignore: true
   tags:
     - yay
@@ -11,7 +11,8 @@ boo:
       du/es präsens: bom
       präteritum: woah
       pp: ok
-yay:
+
+weak example:
   ignore: true
   weak:
     strong endings: true
