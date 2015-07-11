@@ -1,0 +1,16 @@
+{
+  "name": "german2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conjugate.js",
+  "scripts": {
+    "start": "node conjugate.js",
+    "test": "./node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "columnify": "^1.5.1"
+  }
+}
