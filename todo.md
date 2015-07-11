@@ -1,6 +1,7 @@
 ## ideas
 
 * rank the unregularness for filtering/sorting
+* filter by type/hilfsverb/tag
 * build index of all conjugations for searching
 * record the modifications to each verb to use for highlighting
 * output prettily like the old one
