@@ -38,7 +38,7 @@ describe('conjuagtor', function(){
   var conjuagtor = require('../lib/conjugator');
   Object.keys(all).forEach(function(infinitive){
     var tests = all[infinitive];
-    describe(infinitive, function(){
+    describe('verb: ' + infinitive, function(){
       tests.forEach(function(test){
         if (test.partizip) {
           it('partizip', function(){
@@ -49,10 +49,10 @@ describe('conjuagtor', function(){
             assert.equal(conjuagtor.hilfsverb(infinitive), test.hilfsverb);
           });
         } else if (test.tense) {
-          describe(test.tense, function(){
+          describe('tense: ' + test.tense, function(){
             var result = conjuagtor(infinitive, test.tense);
             Object.keys(test.expect).forEach(function(pronoun){
-              it(pronoun, function(){
+              it(pronoun + ' ' + result[pronoun], function(){
                 assert.equal(result[pronoun], test.expect[pronoun]);
               });
             });

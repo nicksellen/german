@@ -11,6 +11,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "columnify": "^1.5.1"
+    "columnify": "^1.5.1",
+    "commander": "^2.8.1"
   }
 }
