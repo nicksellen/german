@@ -46,10 +46,10 @@ können:
     - modal
   strong:
     weak endings: true
-  drop ich/es präsens endings: true
   stems:
     präsens singular: a
     präteritum: o
+  drop ich/es präsens endings: true
 
 müssen:
   tags:
@@ -64,9 +64,9 @@ müssen:
 wollen:
   tags:
     - modal
-  drop ich/es präsens endings: true
   stems:
     präsens singular: i
+  drop ich/es präsens endings: true
 
 sollen:
   tags:
@@ -78,29 +78,29 @@ dürfen:
     - modal
   strong:
     weak endings: true
-  drop ich/es präsens endings: true
   stems:
     präsens singular: darf
     präteritum: u
     partizip: u
+  drop ich/es präsens endings: true
 
 mögen:
   tags:
     - modal
   strong:
     weak endings: true
-  drop ich/es präsens endings: true
   stems:
     präsens singular: mag
     präteritum: och
+  drop ich/es präsens endings: true
 
 wissen:
   strong:
     weak endings: true
-  drop ich/es präsens endings: true
   stems:
     präsens singular: weiß
     präteritum: u
+  drop ich/es präsens endings: true
 
 heißen:
   strong:
