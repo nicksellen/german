@@ -1,10 +1,14 @@
 {
   "name": "german",
   "version": "0.0.1",
-  "description": "",
+  "description": "german language tools",
   "main": "libgerman.js",
   "author": "Nick Sellen <git@nicksellen.co.uk>",
   "license": "MIT",
+  "repository" : {
+    "type": "git",
+    "url" : "git@github.com:nicksellen/german.git"
+  },
   "bin": {
     "german": "bin/german.js"
   },
