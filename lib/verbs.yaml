@@ -237,6 +237,18 @@ sprechen:
     präteritum: sprach
     partizip: sproch
 
+lesen:
+  strong:
+  stems:
+    präsens du/es: lies
+    präteritum: las
+
+kommen:
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: kam
+
 sagen:
 spielen:
 machen:

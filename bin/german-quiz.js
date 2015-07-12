@@ -65,7 +65,7 @@ if (app.top) {
   if (n < 1 || n > 100) throw new Error('top must be between 1 and 100');
   var top100verbs = require('../lib/data/top100verbs');
   filters.push(function(verb){
-    var rank = top100verbs.indexOf(verb.infinitive) + 1; // +1 for rank
+    var rank = top100verbs.indexOf(verb.infinitive) + 1; // rank is 1 indexed
     return rank && rank <= n;
   });
 }
@@ -94,19 +94,33 @@ if (app.includeTense) {
   tenses.push('präsens');
 }
 
-var positiveWords = ['Super!', 'Sehr gut!', 'Richtig!', 'Richtig!', 'Toll!'];
+var positiveWords = [
+  'Super!', 'Sehr gut!', 'Richtig!', 'Richtig!', 'Toll!', 
+  'Hammergeil!', 'Halleluja!', 'Perfekt!', 'Du machst das sehr gut!', 
+  'Deine Freunde werden beeindruckt sein!', 'Feine Sache!', 'Darauf stoßen wir an!', 
+  'Total toll!', 'Total super!', 'Ganz schön clever!'
+];
+
+var negativeWords = [
+  'Falsch!', 'Gaaaaaaaanz falsch!', 'Wer das liest is doof!', 'Macht nichts. Nochmal!', 
+  'Nicht ganz...', 'Wenn das deine Mutter wüsste!', 'Ja ja, deine Mudder!', 
+  'Iiih. Das ist doch kein Deutsch!'
+];
 
 var combinations = [];
 
 infinitives.forEach(function(infinitive){
+  var verb = verbs[infinitive];
   tenses.forEach(function(tense){
     var conjugations = conjugator(infinitive, tense);
     pronouns.forEach(function(pronoun){
+      var conjugation = conjugations[pronoun];
       combinations.push({
+        verb: verb,
         infinitive: infinitive,
         tense: tense,
         pronoun: pronoun,
-        conjugation: conjugations[pronoun]
+        conjugation: conjugation
       });
     });
   });
@@ -116,6 +130,7 @@ console.log('' + combinations.length, 'problems to complete');
 
 var nextCombination = createRandomPool(combinations);
 var nextPositiveWord = createRandomPool(positiveWords);
+var nextNegativeWord = createRandomPool(negativeWords);
 
 var errors = [];
 
@@ -125,7 +140,6 @@ function askQuestion() {
   var tense = combination.tense;
   var pronoun = combination.pronoun;
   var conjugation = combination.conjugation;
-  if (conjugation === infinitive) return askQuestion();
   ask('Conjugate ' + colors.bold(tenseName(tense)) + ' / ' + colors.bold(infinitive) +
       ' : ' + pronounName(pronoun) + ' ', function(answer) {
     if (answer === conjugation) {
@@ -133,7 +147,7 @@ function askQuestion() {
     } else {
       errors.push(combination);
       nextCombination.push(combination);
-      console.log(colors.red('Falsch ' + colors.bold('✕')), colors.grey('correct answer is', conjugation));
+      console.log(colors.red(nextNegativeWord() + ' ' + colors.bold('✕')), colors.grey('Die richtige Antwort ist:', conjugation));
       printFullConjugation(infinitive);
     }
     if (nextCombination.isEmpty()) {
