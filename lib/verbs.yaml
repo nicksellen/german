@@ -46,13 +46,10 @@ können:
     - modal
   strong:
     weak endings: true
+  drop ich/es präsens endings: true
   stems:
+    präsens singular: a
     präteritum: o
-  irregular:
-    präsens:
-      ich: kann
-      du: kannst
-      es: kann
 
 müssen:
   tags:
@@ -61,68 +58,49 @@ müssen:
     weak endings: true
   stems:
     präteritum: u
-  irregular:
-    präsens:
-      ich: muss
-      du: musst
-      es: muss
+    präsens singular: u
+  drop ich/es präsens endings: true
 
 wollen:
   tags:
     - modal
-    - strong
-  irregular:
-    präsens:
-      ich: will
-      du: willst
-      es: will
+  drop ich/es präsens endings: true
+  stems:
+    präsens singular: i
 
 sollen:
   tags:
     - modal
-    - strong
-  irregular:
-    präsens:
-      ich: soll
-      es: soll
+  drop ich/es präsens endings: true
 
 dürfen:
   tags:
     - modal
   strong:
     weak endings: true
+  drop ich/es präsens endings: true
   stems:
+    präsens singular: darf
     präteritum: u
     partizip: u
-  irregular:
-    präsens:
-      ich: darf
-      du: darfst
-      es: darf
 
 mögen:
   tags:
     - modal
   strong:
     weak endings: true
+  drop ich/es präsens endings: true
   stems:
+    präsens singular: mag
     präteritum: och
-  irregular:
-    präsens:
-      ich: mag
-      du: magst
-      es: mag
 
 wissen:
   strong:
     weak endings: true
+  drop ich/es präsens endings: true
   stems:
+    präsens singular: weiß
     präteritum: u
-  irregular:
-    präsens:
-      ich: weiß
-      du: weißt
-      es: weiß
 
 heißen:
   strong:
@@ -260,24 +238,3 @@ arbeiten:
 testen:
   tags:
     - test
-
-strong example:
-  ignore: true
-  tags:
-    - yay
-  strong:
-    weak endings: true
-    k2 vowel: ä
-    stem consonants:
-      du/es präsens: bom
-      präteritum: woah
-      pp: ok
-  stems:
-    präsens du/es: mag
-
-weak example:
-  ignore: true
-  weak:
-    strong endings: true
-  present singular stem: bomp
-  drop ending mode: true
