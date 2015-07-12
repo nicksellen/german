@@ -3,10 +3,10 @@ haben:
     - hilfsverb
   strong:
     weak endings: true
-    stem consonants:
-      präteritum: t
   stems:
     präsens du/es: ha
+    präteritum: t
+    partizip: b
 
 sein:
   tags:
@@ -27,11 +27,11 @@ sein:
 werden:
   tags:
     - hilfsverb
-  partizip: geworden
   hilfsverb: sein
   strong:
   stems:
-    präteritum: wurd
+    präteritum: u
+    partizip: o
   irregular:
     präsens:
       du: wirst
@@ -47,8 +47,7 @@ können:
   strong:
     weak endings: true
   stems:
-    präteritum: konn
-    partizip: konn
+    präteritum: o
   irregular:
     präsens:
       ich: kann
@@ -61,8 +60,7 @@ müssen:
   strong:
     weak endings: true
   stems:
-    präteritum: muss
-    partizip: muss
+    präteritum: u
   irregular:
     präsens:
       ich: muss
@@ -94,8 +92,8 @@ dürfen:
   strong:
     weak endings: true
   stems:
-    präteritum: durf
-    partizip: durf
+    präteritum: u
+    partizip: u
   irregular:
     präsens:
       ich: darf
@@ -108,8 +106,7 @@ mögen:
   strong:
     weak endings: true
   stems:
-    präteritum: moch
-    partizip: moch
+    präteritum: och
   irregular:
     präsens:
       ich: mag
@@ -120,8 +117,7 @@ wissen:
   strong:
     weak endings: true
   stems:
-    präteritum: wuss
-    partizip: wuss
+    präteritum: u
   irregular:
     präsens:
       ich: weiß
@@ -143,75 +139,71 @@ tun:
 stehen:
   strong:
   stems:
-    präteritum: stand
-    k2präsens: ständ
-    partizip: stand
+    präteritum: and
+    partizip: and
 
 liegen:
   strong:
   stems:
-    präteritum: lag
-    k2präsens: läg
-    partizip: leg
+    präteritum: a
+    partizip: e
 
 denken:
   strong:
     weak endings: true
   stems:
-    präteritum: dach
-    partizip: dach
+    präteritum: ach
 
 bringen:
   strong:
     weak endings: true
   stems:
-    präteritum: brach
-    partizip: brach
+    präteritum: ach
 
 nehmen:
   strong:
   stems:
-    präsens du/es: nimm
-    präteritum: nahm
-    partizip: nomm
+    präsens du/es: imm
+    präteritum: a
+    partizip: omm
 
 finden:
   strong:
   stems:
-    präteritum: fand
-    partizip: fund
+    präteritum: a
+    partizip: u
 
 lassen:
   strong:
   stems:
-    präsens du/es: läss
-    präteritum: ließ
-    k2präsens: ließ
+    präsens du/es: ä
+    präteritum: ieß
+    k2präsens: ieß
 
 geben:
   strong:
   stems:
-    präsens du/es: gib
-    präteritum: gab
+    präsens du/es: i
+    präteritum: a
 
 sehen:
   strong:
   stems:
-    präsens du/es: sieh
-    präteritum: sah
+    präsens du/es: ie
+    präteritum: a
 
 gehen:
   strong:
   hilfsverb: sein
   stems:
-    präteritum: ging
-    k2präsens: ging
-    partizip: gang
+    präteritum: ing
+    k2präsens: ing
+    partizip: ang
 
 essen:
   strong:
   stems:
-    präsens du/es: iss
+    präsens du/es: i
     präteritum: aß
     partizip: gess
 
@@ -219,35 +211,35 @@ bleiben:
   strong:
   hilfsverb: sein
   stems:
-    präteritum: blieb
-    k2präsens: blieb
-    partizip: blieb
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
 
 fahren:
   strong:
   hilfsverb: sein
   stems:
-    präsens du/es: fähr
-    präteritum: fuhr
+    präsens du/es: ä
+    präteritum: u
 
 sprechen:
   strong:
   stems:
-    präsens du/es: sprich
-    präteritum: sprach
-    partizip: sproch
+    präsens du/es: i
+    präteritum: a
+    partizip: o
 
 lesen:
   strong:
   stems:
-    präsens du/es: lies
-    präteritum: las
+    präsens du/es: ie
+    präteritum: a
 
 kommen:
   hilfsverb: sein
   strong:
   stems:
-    präteritum: kam
+    präteritum: am
 
 sagen:
 spielen:
