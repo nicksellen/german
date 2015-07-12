@@ -145,7 +145,7 @@ function askQuestion() {
       } else {
         resultText = colors.red(errors.length + ' errors');
       }
-      console.log(colors.green('Completed ' + nextCombination.length + ' problems'), resultText);
+      console.log(colors.green('Completed ' + combinations.length + ' problems'), resultText);
     } else {
       askQuestion();
     }
@@ -188,7 +188,6 @@ function createRandomPool(items) {
   next.isEmpty = function(){
     return picks.length === 0;
   };
-  next.length = items.length;
   return next;
 }
 
