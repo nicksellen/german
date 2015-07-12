@@ -2,7 +2,6 @@
 
 * need to handle trennbare verbs
 * and some more other prefix ones I suspect I don't handle right now
-* make the stem config so it is more powerful, so you can specify it partially
 
 ## ideas
 
