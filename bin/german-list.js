@@ -12,7 +12,7 @@ var verbs = Object.keys(verbs).map(function(infinitive){
 
 if (app.irregularity) {
   verbs = verbs.sort(function(a, b){
-    return a.irregularity - b.irregularity;
+    return a.irregularity - b.irregularity || a.infinitive.localeCompare(b.infinitive);
   });
 } else {
   verbs = verbs.sort(function(a, b){
