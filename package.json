@@ -2,9 +2,11 @@
   "name": "german",
   "version": "0.0.1",
   "description": "",
-  "main": "german.js",
+  "main": "libgerman.js",
+  "author": "Nick Sellen <git@nicksellen.co.uk>",
+  "license": "MIT",
   "bin": {
-    "german": "german.js"
+    "german": "bin/german.js"
   },
   "scripts": {
     "start": "node german.js",

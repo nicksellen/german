@@ -1,7 +1,7 @@
 
 const columnify = require('columnify');
 
-const conjugator = require('./lib/conjugator');
+const conjugator = require('../lib/conjugator');
 
 var infinitive = process.argv[2];
 var results = conjugator(infinitive, ['präsens', 'präteritum', 'perfekt', 'futur1', 'k2präsens', 'k2präteritum']);

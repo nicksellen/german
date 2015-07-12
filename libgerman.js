@@ -1,0 +1,1 @@
+exports.conjugator = require('./lib/conjugator');

@@ -35,22 +35,22 @@ fs.readFileSync(__dirname + '/test-verbs.txt', 'utf8').split("\n").map(function(
 });
 
 describe('conjuagtor', function(){
-  var conjuagtor = require('../lib/conjugator');
+  var conjugator = require('../libgerman').conjugator;
   Object.keys(all).forEach(function(infinitive){
     var tests = all[infinitive];
     describe('verb: ' + infinitive, function(){
       tests.forEach(function(test){
         if (test.partizip) {
           it('partizip', function(){
-            assert.equal(conjuagtor.partizip(infinitive), test.partizip);
+            assert.equal(conjugator.partizip(infinitive), test.partizip);
           });
         } else if (test.hilfsverb) {
           it('hilfsverb', function(){
-            assert.equal(conjuagtor.hilfsverb(infinitive), test.hilfsverb);
+            assert.equal(conjugator.hilfsverb(infinitive), test.hilfsverb);
           });
         } else if (test.tense) {
           describe('tense: ' + test.tense, function(){
-            var result = conjuagtor(infinitive, test.tense);
+            var result = conjugator(infinitive, test.tense);
             Object.keys(test.expect).forEach(function(pronoun){
               it(pronoun + ' ' + result[pronoun], function(){
                 assert.equal(result[pronoun], test.expect[pronoun]);
