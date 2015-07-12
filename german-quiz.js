@@ -27,43 +27,32 @@ infinitives = infinitives.filter(function(infinitive){
 
 var tenses = ['präsens'];
 
-function askQuestion() {
+var positiveWords = ['Super!', 'Sehr gut!', 'Richtig!', 'Richtig!', 'Toll!'];
 
-  var infinitive = pickRandomFrom(infinitives);
+var nextInfinitive = createRandomPool(infinitives);
+
+function askQuestion() {
+  var infinitive = nextInfinitive();
   var tense = pickRandomFrom(tenses);
   var pronoun = pickRandomFrom(pronounsWithoutWir);
   var conjugation = conjugator(infinitive, tense)[pronoun];
-
-  ask('What is the conjugation of ' + colors.bold(infinitive) + 
-      ' into ' + colors.bold(tenseName(tense)) + 
-      ' for ' + colors.bold(pronounName(pronoun)) + '? ', function(answer) {
-
+  ask('Conjugate ' + colors.bold(tenseName(tense)) + ' / ' + colors.bold(infinitive) +
+      ' : ' + pronounName(pronoun) + ' ', function(answer) {
     if (answer === conjugation) {
-      console.log(colors.green('correct ' + colors.bold('✓')));
+      console.log(colors.green(pickRandomFrom(positiveWords) + ' ' + colors.bold('✓')));
     } else {
-      console.log(colors.red('wrong'), colors.grey('correct answer is', conjugation));
+      nextInfinitive.push(infinitive);
+      console.log(colors.red('Falsch ' + colors.bold('✕')), colors.grey('correct answer is', conjugation));
       printFullConjugation(infinitive);
     }
     askQuestion();
   });
-
-  /*
-  ask('What is the infinitive form of ' + conjuagtion + '? ', function(answer) {
-    if (answer === infinitive) {
-      console.log(colors.green('correct'));
-    } else {
-      console.log(colors.red('wrong'), colors.grey('correct answer is', infinitive));
-    }
-    askQuestion();
-  });
-  */
 }
 askQuestion();
 
 function pickRandomFrom(ary) {
   return ary[getRandomInt(0, ary.length)];
 }
-
 
 function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
@@ -78,6 +67,23 @@ function ask(question, callback) {
     readline.close();
     callback(answer);
   });
+}
+
+function createRandomPool(items) {
+  var picks = [];
+  function next(){
+    if (picks.length === 0) {
+      picks = items;
+    }
+    var idx = getRandomInt(0, picks.length);
+    var pick = picks[idx];
+    picks.splice(idx, 1);
+    return pick;
+  };
+  next.push = function(item){
+    picks.push(item);
+  };
+  return next;
 }
 
 function tenseName(tense) {
