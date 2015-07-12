@@ -1,16 +1,16 @@
 
 const columnify = require('columnify');
 
-const conjuator = require('./lib/conjugator');
+const conjugator = require('./lib/conjugator');
 
 var infinitive = process.argv[2];
-var results = conjuator(infinitive, ['präsens', 'präteritum', 'perfekt', 'futur1', 'k2präsens', 'k2präteritum']);
+var results = conjugator(infinitive, ['präsens', 'präteritum', 'perfekt', 'futur1', 'k2präsens', 'k2präteritum']);
 var data = [];
-var partizip = conjuator.partizip(infinitive);
+var partizip = conjugator.partizip(infinitive);
 if (partizip) {
   data.push([infinitive, 'partizip', partizip]);
 }
-var hilfsverb = conjuator.hilfsverb(infinitive);
+var hilfsverb = conjugator.hilfsverb(infinitive);
 if (hilfsverb) {
   data.push([infinitive, 'hilfsverb', hilfsverb]);
 }

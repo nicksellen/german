@@ -1,17 +1,22 @@
 {
-  "name": "german2",
-  "version": "1.0.0",
+  "name": "german",
+  "version": "0.0.1",
   "description": "",
-  "main": "conjugate.js",
+  "main": "german.js",
+  "bin": {
+    "german": "german.js"
+  },
   "scripts": {
-    "start": "node conjugate.js",
+    "start": "node german.js",
     "test": "./node_modules/.bin/mocha"
   },
   "devDependencies": {
     "mocha": "^2.2.5"
   },
   "dependencies": {
+    "colors": "^1.1.2",
     "columnify": "^1.5.1",
-    "commander": "^2.8.1"
+    "commander": "^2.8.1",
+    "js-yaml": "^3.3.1"
   }
 }

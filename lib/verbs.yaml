@@ -233,7 +233,6 @@ fahren:
 
 sprechen:
   strong:
-  pp: gesprochen
   stems:
     präsens du/es: sprich
     präteritum: sprach
@@ -257,7 +256,7 @@ arbeiten:
 
 testen:
   tags:
-    - for testing
+    - test
 
 strong example:
   ignore: true
