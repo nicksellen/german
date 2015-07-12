@@ -11,6 +11,7 @@ app
    .option('-t, --type [type]', 'filter verb type strong or weak')
    .option('-w, --weird [n]', 'filter for weirdness n/n+/n-')
    .option('-i, --include-tense [tenses]', 'choose tenses (präsens,präteritum)')
+   .option('--top [topn]', 'filter by topn verbs')
    .parse(process.argv);
 
 var infinitives = Object.keys(verbs);
@@ -56,6 +57,17 @@ if (app.weird) {
       });
       break;
   }
+}
+
+if (app.top) {
+  if (!/^[0-9]+$/.test(app.top)) throw new Error('top must be a number');
+  var n = parseInt(app.top, 10);
+  if (n < 1 || n > 100) throw new Error('top must be between 1 and 100');
+  var top100verbs = require('../lib/data/top100verbs');
+  filters.push(function(verb){
+    var rank = top100verbs.indexOf(verb.infinitive) + 1; // +1 for rank
+    return rank && rank <= n;
+  });
 }
 
 infinitives = infinitives.filter(function(infinitive){

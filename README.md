@@ -48,6 +48,12 @@ Präsens with all verbs:
 german quiz
 ```
 
+Präsens with top 20 most common verbs:
+
+```
+german quiz --top 20
+```
+
 Präsens with weak verbs (i.e simple/regular ones):
 
 ```
