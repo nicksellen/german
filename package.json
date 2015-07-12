@@ -13,7 +13,7 @@
     "german": "bin/german.js"
   },
   "scripts": {
-    "start": "node german.js",
+    "start": "node bin/german.js",
     "test": "./node_modules/.bin/mocha"
   },
   "devDependencies": {
