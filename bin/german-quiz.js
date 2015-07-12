@@ -9,7 +9,8 @@ const pronouns = require('../lib/data/pronouns');
 var app = require('commander');
 app
    .option('-t, --type [type]', 'filter verb type strong or weak')
-   .option('-w, --weird [n]', 'filter for weirdness n/+n/-n')
+   .option('-w, --weird [n]', 'filter for weirdness n/n+/n-')
+   .option('-i, --include-tense [tenses]', 'choose tenses (präsens,präteritum)')
    .parse(process.argv);
 
 var infinitives = Object.keys(verbs);
@@ -34,10 +35,10 @@ if (app.type) {
 }
 
 if (app.weird) {
-  var m = app.weird.match(/^(\+|\-)?([0-9]+)$/);
+  var m = app.weird.match(/^([0-9]+)(\+|\-)?$/);
   if (!m) throw new Error('invalid wierd spec ' + app.weird);
-  var type = m[1];
-  var num = parseInt(m[2], 10);
+  var num = parseInt(m[1], 10);
+  var type = m[2];
   switch (type) {
     case '+':
       filters.push(function(verb){
@@ -73,8 +74,13 @@ if (infinitives.length === 0) {
   throw new Error('you filtered everything!');
 }
 
-var tenses = ['präsens', 'präteritum'];
-//var tenses = ['präteritum'];
+var tenses = [];
+
+if (app.includeTense) {
+  tenses = tenses.concat(app.includeTense.split(','));
+} else {
+  tenses.push('präsens');
+}
 
 var positiveWords = ['Super!', 'Sehr gut!', 'Richtig!', 'Richtig!', 'Toll!'];
 
@@ -159,14 +165,13 @@ function createRandomPool(items) {
   function next(){
     if (picks.length === 0) {
       picks = items.slice();
+      shuffle(picks);
     }
-    var idx = getRandomInt(0, picks.length);
-    var pick = picks[idx];
-    picks.splice(idx, 1);
-    return pick;
+    return picks.pop();
   };
   next.push = function(item){
-    picks.push(item);
+    var idx = getRandomInt(0, picks.length)
+    picks.splice(idx, 0, item);
   };
   next.isEmpty = function(){
     return picks.length === 0;
@@ -203,4 +208,10 @@ function printFullConjugation(infinitive) {
     showHeaders: false,
     columnSplitter: "  "
   }));
+}
+
+// http://stackoverflow.com/a/6274381
+function shuffle(o){
+    for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+    return o;
 }
