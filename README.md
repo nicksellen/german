@@ -8,6 +8,8 @@ It started out as a way to explore patterns in verb conjugations and it implemen
 
 It has a quiz feature too.
 
+![screenshot](http://nicksellen.co.uk/upld/german-example.png)
+
 ## Example usage
 
 ### list available verbs
