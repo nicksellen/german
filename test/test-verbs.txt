@@ -327,3 +327,9 @@ versuchen  hilfsverb   haben
 versuchen  präsens     versuche     versuchst    versucht   versuchen   versucht    
 versuchen  präteritum  versuchte    versuchtest  versuchte  versuchten  versuchtet  
 versuchen  k2präsens   versuchte    versuchtest  versuchte  versuchten  versuchtet  
+                                                                                    
+bauen      partizip    gebaut                                                       
+bauen      hilfsverb   haben                                                        
+bauen      präsens     baue         baust        baut       bauen       baut        
+bauen      präteritum  baute        bautest      baute      bauten      bautet      
+bauen      k2präsens   baute        bautest      baute      bauten      bautet      
