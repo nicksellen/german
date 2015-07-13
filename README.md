@@ -14,8 +14,6 @@ It has a quiz feature too.
 
 ### list available verbs
 
-Only 42 verbs at the moment. You can see the list with
-
 ```
 german list
 ```
