@@ -79,7 +79,7 @@ dürfen:
   strong:
     weak endings: true
   stems:
-    präsens singular: darf
+    präsens singular: arf
     präteritum: u
     partizip: u
   drop ich/es präsens endings: true
@@ -90,7 +90,7 @@ mögen:
   strong:
     weak endings: true
   stems:
-    präsens singular: mag
+    präsens singular: ag
     präteritum: och
   drop ich/es präsens endings: true
 
@@ -98,21 +98,21 @@ wissen:
   strong:
     weak endings: true
   stems:
-    präsens singular: weiß
+    präsens singular: eiß
     präteritum: u
   drop ich/es präsens endings: true
 
 heißen:
   strong:
   stems:
-    präteritum: hieß
-    k2präsens: hieß
+    präteritum: ie
+    k2präsens: ie
 
 tun:
   strong:
   stems:
-    präteritum: tat
-    partizip: ta
+    präteritum: at
+    partizip: a
 
 stehen:
   strong:
@@ -219,6 +219,44 @@ kommen:
   stems:
     präteritum: am
 
+laufen:
+  hilfsverb: sein
+  strong:
+  stems:
+    präsens du/es: äu
+    präteritum: ie
+    k2präsens: ie
+
+schreiben:
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+folgen:
+  hilfsverb: sein
+
+helfen:
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: a
+    partizip: o
+
+schließen:
+  strong:
+  stems:
+    präteritum: oss
+    partizip: oss
+
+treffen:
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: af
+    partizip: o
+
 sagen:
 spielen:
 machen:
@@ -234,6 +272,10 @@ schmecken:
 warten:
 wohnen:
 arbeiten:
+brauchen:
+setzen:
+suchen:
+versuchen:
 
 testen:
   tags:
