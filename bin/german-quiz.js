@@ -11,6 +11,7 @@ app
    .option('-t, --type [type]', 'filter verb type strong or weak')
    .option('-w, --weird [n]', 'filter for weirdness n/n+/n-')
    .option('-i, --include-tense [tenses]', 'choose tenses (präsens,präteritum)')
+   .option('-l, --limit [limit]', 'limit the number of questions')
    .option('--top [topn]', 'filter by topn verbs')
    .parse(process.argv);
 
@@ -126,6 +127,12 @@ infinitives.forEach(function(infinitive){
   });
 });
 
+shuffle(combinations);
+
+if (app.limit) {
+  combinations.splice(0, combinations.length - app.limit);
+}
+
 console.log('' + combinations.length, 'problems to complete');
 
 var nextCombination = createRandomPool(combinations);
@@ -237,6 +244,5 @@ function printFullConjugation(infinitive) {
 
 // http://stackoverflow.com/a/6274381
 function shuffle(o){
-    for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
-    return o;
+    for (var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
 }

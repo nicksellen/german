@@ -46,6 +46,12 @@ Präsens with all verbs:
 german quiz
 ```
 
+Limit the number of questions
+
+```
+german quiz --limit 10
+```
+
 Präsens with top 20 most common verbs:
 
 ```
