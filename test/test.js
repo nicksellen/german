@@ -1,5 +1,6 @@
 var fs = require('fs');
 var assert = require('assert');
+var ignored = require('../lib/verbs').ignored;
 
 var all = {};
 
@@ -37,15 +38,16 @@ fs.readFileSync(__dirname + '/test-verbs.txt', 'utf8').split("\n").map(function(
 describe('conjuagtor', function(){
   var conjugator = require('../libgerman').conjugator;
   Object.keys(all).forEach(function(infinitive){
+    if (ignored[infinitive]) return;
     var tests = all[infinitive];
     describe('verb: ' + infinitive, function(){
       tests.forEach(function(test){
         if (test.partizip) {
-          it('partizip', function(){
+          it('partizip: ' + conjugator.partizip(infinitive), function(){
             assert.equal(conjugator.partizip(infinitive), test.partizip);
           });
         } else if (test.hilfsverb) {
-          it('hilfsverb', function(){
+          it('hilfsverb: ' + conjugator.hilfsverb(infinitive), function(){
             assert.equal(conjugator.hilfsverb(infinitive), test.hilfsverb);
           });
         } else if (test.tense) {
