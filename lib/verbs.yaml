@@ -238,6 +238,7 @@ folgen:
   hilfsverb: sein
 
 helfen:
+  en: help
   strong:
   stems:
     präsens du/es: i
@@ -245,16 +246,248 @@ helfen:
     partizip: o
 
 schließen:
+  en: close
   strong:
   stems:
     präteritum: oss
     partizip: oss
 
 treffen:
+  en: meet, hit, strike
   strong:
   stems:
     präsens du/es: i
     präteritum: af
+    partizip: o
+
+beißen:
+  en: bite
+  strong:
+  stems:
+    präteritum: iss
+    k2präsens: iss
+    partizip: iss
+
+greifen:
+  en: grasp, grab, snatch, reach for
+  strong:
+  stems:
+    präteritum: iff
+    k2präsens: iff
+    partizip: iff
+
+leihen:
+  en: borrow
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+pfeifen:
+  en: whistle
+  strong:
+  stems:
+    präteritum: iff
+    k2präsens: iff
+    partizip: iff
+
+scheinen:
+  en: shine
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+schreien:
+  # this doesn't work yet....
+  # conjugator doesn't know the rules to remove the double-e sometimes
+  ignore: true
+  en: cry out, scream
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+bieten:
+  en: offer, provide
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+
+schieben:
+  en: push, ?
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+
+ziehen:
+  en: move to, ?
+  strong:
+  stems:
+    präteritum: og
+    partizip: og
+
+gelingen:
+  # does not handle this because it needs to remove the prefix
+  # and for the stem changes...
+  ignore: true
+  en:
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
+
+beginnen:
+  # does not handle this because it needs to remove the prefix
+  # and for the stem changes...
+  ignore: true
+  en: begin
+  strong:
+  stems:
+    präteritum: a
+    partizip: o
+
+gebären:
+  # does not handle this because it needs to remove the prefix
+  # and for the stem changes...
+  ignore: true
+  strong: true
+
+brennen:
+  en: burn, shine, distil
+  strong: 
+    weak endings: true
+  stems:
+    präteritum: a
+    k2präsens: e
+    partizip: a
+
+hängen:
+  en:
+  strong:
+  stems:
+    präteritum: i
+    k2präsens: i
+    partizip: a
+
+gießen:
+  en: pour
+  strong:
+  stems:
+    präteritum: oss
+    partizip: oss
+
+kennen:
+  en: know
+  strong: 
+    weak endings: true
+  stems:
+    präteritum: a
+    k2präsens: e
+    partizip: a
+
+leiden:
+  en: suffer
+  strong:
+  stems:
+    präteritum: itt
+    k2präsens: itt
+    partizip: itt
+
+lügen:
+  en: lie
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+
+halten:
+  # du/es endings don't work yet...
+  
+  # expect du hältst
+  #    get du hältest
+  # expect es hält
+  #    get es hältet
+
+  ignore: true
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: ie
+    k2präsens: ie
+
+treten:
+  # like halten
+
+  # expect trittest
+  #    got trittst
+  # expect tritt
+  #    got trittet
+
+  ignore: true
+  strong:
+  stems:
+    präsens du/es: itt
+    präteritum: a
+
+beraten:
+  # fails because it has prefix, and we don't take it into account when stem changing
+  ignore: true
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: ie
+    k2präsens: ie
+
+schlafen:
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: ie
+    k2präsens: ie
+
+schlagen:
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: u
+
+schmelzen:
+  hilfsverb: sein
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: o
+    partizip: o
+
+stechen:
+  en: stab, sting, jab, prick
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: a
+    partizip: o
+
+stehlen:
+  en: steal
+  strong:
+  stems:
+    präsens du/es: ie
+    präteritum: a
+    partizip: o
+
+sterben:
+  en: die
+  hilfsverb: sein
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: a
     partizip: o
 
 sagen:
@@ -277,6 +510,7 @@ setzen:
 suchen:
 versuchen:
 bauen:
+tagen:
 
 testen:
   tags:
