@@ -332,19 +332,20 @@ ziehen:
     präteritum: og
     partizip: og
 
+# prefix error verbs
+#-------------------------------------------------------------------------------------
+
 gelingen:
-  # does not handle this because it needs to remove the prefix
-  # and for the stem changes...
   ignore: true
+  prefix: inseparable
   en:
+  hilfsverb: sein
   strong:
   stems:
     präteritum: a
     partizip: u
 
 beginnen:
-  # does not handle this because it needs to remove the prefix
-  # and for the stem changes...
   ignore: true
   en: begin
   strong:
@@ -353,10 +354,18 @@ beginnen:
     partizip: o
 
 gebären:
-  # does not handle this because it needs to remove the prefix
-  # and for the stem changes...
   ignore: true
   strong: true
+
+beraten:
+  ignore: true
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: ie
+    k2präsens: ie
+
+#-------------------------------------------------------------------------------------
 
 brennen:
   en: burn, shine, distil
@@ -408,7 +417,7 @@ lügen:
 
 halten:
   # du/es endings don't work yet...
-  
+
   # expect du hältst
   #    get du hältest
   # expect es hält
@@ -422,7 +431,7 @@ halten:
     k2präsens: ie
 
 treten:
-  # like halten
+  # like
 
   # expect trittest
   #    got trittst
@@ -434,15 +443,6 @@ treten:
   stems:
     präsens du/es: itt
     präteritum: a
-
-beraten:
-  # fails because it has prefix, and we don't take it into account when stem changing
-  ignore: true
-  strong:
-  stems:
-    präsens du/es: ä
-    präteritum: ie
-    k2präsens: ie
 
 schlafen:
   strong:
@@ -511,6 +511,8 @@ suchen:
 versuchen:
 bauen:
 tagen:
+deuten:
+hören:
 
 testen:
   tags:

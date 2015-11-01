@@ -503,3 +503,15 @@ treten     präsens     trete        trittst      tritt      treten      tretet
 treten     präteritum  trat         tratest      trat       traten      tratet      
 treten     k2präsens   träte        trätest      träte      träten      trätet      
                                                                                     
+hören      partizip    gehört                                                       
+hören      hilfsverb   haben                                                        
+hören      präsens     höre         hörst        hört       hören       hört        
+hören      präteritum  hörte        hörtest      hörte      hörten      hörtet      
+hören      k2präsens   hörte        hörtest      hörte      hörten      hörtet      
+                                                                                    
+deuten     partizip    gedeutet                                                     
+deuten     hilfsverb   haben                                                        
+deuten     präsens     deute        deutest      deutet     deuten      deutet      
+deuten     präteritum  deutete      deutetest    deutete    deuteten    deutetet    
+deuten     k2präsens   deutete      deutetest    deutete    deuteten    deutetet    
+                                                                                    
