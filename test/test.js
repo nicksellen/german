@@ -4,6 +4,8 @@ var ignored = require('../lib/verbs').ignored;
 
 var all = {};
 
+var includeUndefined = false;
+
 fs.readFileSync(__dirname + '/test-verbs.txt', 'utf8').split("\n").map(function(line){
   if (/^#/.test(line)) return;
   if (!line) return;
@@ -41,26 +43,36 @@ describe('conjuagtor', function(){
     if (ignored[infinitive]) return;
     var tests = all[infinitive];
     describe('verb: ' + infinitive, function(){
-      tests.forEach(function(test){
-        if (test.partizip) {
-          it('partizip: ' + conjugator.partizip(infinitive), function(){
-            assert.equal(conjugator.partizip(infinitive), test.partizip);
-          });
-        } else if (test.hilfsverb) {
-          it('hilfsverb: ' + conjugator.hilfsverb(infinitive), function(){
-            assert.equal(conjugator.hilfsverb(infinitive), test.hilfsverb);
-          });
-        } else if (test.tense) {
-          describe('tense: ' + test.tense, function(){
-            var result = conjugator(infinitive, test.tense);
-            Object.keys(test.expect).forEach(function(pronoun){
-              it(pronoun + ' ' + result[pronoun], function(){
-                assert.equal(result[pronoun], test.expect[pronoun]);
-              });
-            });
+      if (!conjugator.hasVerb(infinitive)) {
+        if (includeUndefined) {
+          it('is defined', function(){
+            assert.fail(undefined, undefined, 'missing');
           });
         }
-      });
+      } else {
+        it('is defined', function(){
+        });
+        tests.forEach(function(test){
+          if (test.partizip) {
+            it('partizip: ' + conjugator.partizip(infinitive), function(){
+              assert.equal(conjugator.partizip(infinitive), test.partizip);
+            });
+          } else if (test.hilfsverb) {
+            it('hilfsverb: ' + conjugator.hilfsverb(infinitive), function(){
+              assert.equal(conjugator.hilfsverb(infinitive), test.hilfsverb);
+            });
+          } else if (test.tense) {
+            describe('tense: ' + test.tense, function(){
+              var result = conjugator(infinitive, test.tense);
+              Object.keys(test.expect).forEach(function(pronoun){
+                it(pronoun + ' ' + result[pronoun], function(){
+                  assert.equal(result[pronoun], test.expect[pronoun]);
+                });
+              });
+            });
+          }
+        });
+      }
     });
   });
 });

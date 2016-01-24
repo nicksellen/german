@@ -1,8 +1,9 @@
 const columnify = require('columnify');
 
-var verbs = require('../lib/verbs');
+var verbs = require('../lib/verbs').verbs;
 
 var app = require('commander');
+
 app
    .option('-r, --irregularity', 'Sort by irregularity')
    .option('-a, --hilfsverb [verb]', 'Filter by hilfsverb')
@@ -45,7 +46,7 @@ if (app.irregularity) {
 }
 
 verbs.forEach(function(verb){
-  data.push([verb.infinitive, verb.irregularity]);
+  data.push([verb.infinitive, verb.irregularity, verb.en]);
 });
 
 console.log(columnify(data, {

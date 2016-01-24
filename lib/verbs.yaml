@@ -1,4 +1,5 @@
 haben:
+  en: to have
   tags:
     - hilfsverb
   strong:
@@ -9,6 +10,7 @@ haben:
     partizip: b
 
 sein:
+  en: to be
   tags:
     - hilfsverb
   hilfsverb: sein
@@ -25,6 +27,7 @@ sein:
       ihr: seid
 
 werden:
+  en: to become, to grow
   tags:
     - hilfsverb
   hilfsverb: sein
@@ -42,6 +45,7 @@ werden:
       es: wurde
 
 können:
+  en: can, may, are able to, to know
   tags:
     - modal
   strong:
@@ -52,6 +56,7 @@ können:
   drop ich/es präsens endings: true
 
 müssen:
+  en: to have to
   tags:
     - modal
   strong:
@@ -62,6 +67,7 @@ müssen:
   drop ich/es präsens endings: true
 
 wollen:
+  en: to want to
   tags:
     - modal
   stems:
@@ -69,11 +75,13 @@ wollen:
   drop ich/es präsens endings: true
 
 sollen:
+  en: to be expected to
   tags:
     - modal
   drop ich/es präsens endings: true
 
 dürfen:
+  en: to be authorized to, must
   tags:
     - modal
   strong:
@@ -85,6 +93,7 @@ dürfen:
   drop ich/es präsens endings: true
 
 mögen:
+  en: to like to
   tags:
     - modal
   strong:
@@ -95,6 +104,7 @@ mögen:
   drop ich/es präsens endings: true
 
 wissen:
+  en: to know
   strong:
     weak endings: true
   stems:
@@ -103,74 +113,22 @@ wissen:
   drop ich/es präsens endings: true
 
 heißen:
+  en: to be called
   strong:
   stems:
     präteritum: ie
     k2präsens: ie
 
-tun:
-  strong:
-  stems:
-    präteritum: at
-    partizip: a
-
-stehen:
-  strong:
-  stems:
-    präteritum: and
-    partizip: and
-
-liegen:
-  strong:
-  stems:
-    präteritum: a
-    partizip: e
-
-denken:
-  strong:
-    weak endings: true
-  stems:
-    präteritum: ach
-
-bringen:
-  strong:
-    weak endings: true
-  stems:
-    präteritum: ach
-
-nehmen:
-  strong:
-  stems:
-    präsens du/es: imm
-    präteritum: a
-    partizip: omm
-
-finden:
-  strong:
-  stems:
-    präteritum: a
-    partizip: u
-
 lassen:
+  en: to let
   strong:
   stems:
     präsens du/es: ä
     präteritum: ieß
     k2präsens: ieß
 
-geben:
-  strong:
-  stems:
-    präsens du/es: i
-    präteritum: a
-
-sehen:
-  strong:
-  stems:
-    präsens du/es: ie
-    präteritum: a
-
 gehen:
+  en: to go
   strong:
   hilfsverb: sein
   stems:
@@ -178,48 +136,8 @@ gehen:
     k2präsens: ing
     partizip: ang
 
-essen:
-  strong:
-  stems:
-    präsens du/es: i
-    präteritum: aß
-    partizip: gess
-
-bleiben:
-  strong:
-  hilfsverb: sein
-  stems:
-    präteritum: ie
-    k2präsens: ie
-    partizip: ie
-
-fahren:
-  strong:
-  hilfsverb: sein
-  stems:
-    präsens du/es: ä
-    präteritum: u
-
-sprechen:
-  strong:
-  stems:
-    präsens du/es: i
-    präteritum: a
-    partizip: o
-
-lesen:
-  strong:
-  stems:
-    präsens du/es: ie
-    präteritum: a
-
-kommen:
-  hilfsverb: sein
-  strong:
-  stems:
-    präteritum: am
-
 laufen:
+  en: to run
   hilfsverb: sein
   strong:
   stems:
@@ -228,6 +146,7 @@ laufen:
     k2präsens: ie
 
 schreiben:
+  en: to write
   strong:
   stems:
     präteritum: ie
@@ -235,7 +154,528 @@ schreiben:
     partizip: ie
 
 folgen:
+  en: to follow
   hilfsverb: sein
+
+greifen:
+  en: to grasp, to grab
+  strong:
+  stems:
+    präteritum: iff
+    k2präsens: iff
+    partizip: iff
+
+pfeifen:
+  en: to whistle
+  strong:
+  stems:
+    präteritum: iff
+    k2präsens: iff
+    partizip: iff
+
+schreien:
+  # this doesn't work yet....
+  # conjugator doesn't know the rules to remove the double-e sometimes
+  ignore: true
+  en: to cry out, to scream
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+# prefix error verbs
+#-------------------------------------------------------------------------------------
+
+gelingen:
+  en: to succeed
+  ignore: true
+  prefix: inseparable
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
+
+gebären:
+  en: to give birth
+  ignore: true
+  strong: true
+
+beraten:
+  ignore: true
+  en: to advise, to discuss
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: ie
+    k2präsens: ie
+
+#-------------------------------------------------------------------------------------
+
+hängen:
+  en: to hang
+  strong:
+  stems:
+    präteritum: i
+    k2präsens: i
+    partizip: a
+
+leiden:
+  en: to suffer
+  strong:
+  stems:
+    präteritum: itt
+    k2präsens: itt
+    partizip: itt
+
+halten:
+  en: to hold, to keep
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: ie
+    k2präsens: ie
+
+schlafen:
+  en: to sleep
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: ie
+    k2präsens: ie
+
+sagen:
+  en: to say
+  
+spielen:
+  en: to play
+  
+machen:
+  en: to make
+  
+fragen:
+  en: to ask
+  
+glauben:
+  en: to believe, to reckon
+  
+leben:
+  en: to live
+  
+lernen:
+  en: to learn
+  
+reden:
+  en: to speak
+  
+bedeuten:
+  en: to mean
+  
+gehören:
+  en: to belong
+  
+kaufen:
+  en: to buy
+  
+schmecken:
+  en: to taste
+  
+warten:
+  en: to wait
+  
+wohnen:
+  en: to live (somewhere)
+  
+arbeiten:
+  en: to work
+  
+brauchen:
+  en: to need
+  
+setzen:
+  en: to put, to set
+  
+suchen:
+  en: to search
+  
+versuchen:
+  en: to attempt, to try
+  
+bauen:
+  en: to build
+  
+tagen:
+  en: to sit?
+  
+deuten:
+  en: to construe, to interpret
+  
+hören:
+  en: to hear, to listen
+  
+#-------------------------------------------------------------------------------
+# TUBA ones from smarter german
+
+fahren:
+  en: to drive, to ride
+  strong:
+  hilfsverb: sein
+  stems:
+    präsens du/es: ä
+    präteritum: u
+
+graben:
+  en: to dig
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: u
+
+schlagen:
+  en: to strike
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: u
+
+waschen:
+  en: to wash
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: u
+    
+wachsen:
+  en: to grow
+  hilfsverb: sein
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: u
+    
+tragen:
+  en: to carry
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: u
+
+laden:
+  en: to load
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: u
+
+#-------------------------------------------------------------------------------
+# BARREL ones from smarter german
+
+liegen:
+  en: to lie
+  strong:
+  stems:
+    präteritum: a
+    partizip: e
+
+bitten:
+  en: to ask for
+  strong:
+  stems:
+    präteritum: at
+    partizip: et
+
+sitzen:
+  en: to sit
+  strong:
+  stems:
+    präteritum: aß
+    partizip: ess
+
+geben:
+  en: to give
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: a
+    
+lesen:
+  en: to read
+  strong:
+  stems:
+    präsens du/es: ie
+    präteritum: a
+
+treten:
+  en: to kick
+  strong:
+  stems:
+    präsens du/es: itt
+    präteritum: a
+
+essen:
+  en: to eat
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: aß
+    partizip: gess
+
+sehen:
+  en: to see
+  strong:
+  stems:
+    präsens du/es: ie
+    präteritum: a
+
+
+#-------------------------------------------------------------------------------
+# POLO ones from smarter german
+
+fliegen:
+  en: to fly
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+
+fliehen:
+  en: to flee
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+
+fließen:
+  en: to flow
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: oss
+    partizip: oss
+
+frieren:
+  en: to freeze
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+    
+biegen:
+  en: to bend
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+    
+bieten:
+  en: to offer
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+    
+ziehen:
+  en: to pull
+  strong:
+  stems:
+    präteritum: og
+    partizip: og
+
+wiegen:
+  en: to weigh
+  stems:
+    präteritum: ie
+    partizip: ie
+    
+gießen:
+  en: to pour
+  strong:
+  stems:
+    präteritum: oss
+    partizip: oss
+
+riechen:
+  en: to smell
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+
+schieben:
+  en: to push
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+
+schießen:
+  en: to shoot
+  strong:
+  stems:
+    präteritum: oss
+    partizip: oss
+
+schließen:
+  en: to close
+  strong:
+  stems:
+    präteritum: oss
+    partizip: oss
+
+heben:
+  en: to lift
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+
+saufen:
+  en: to booze
+  strong:
+  stems:
+    präsens du/es: äu
+    präteritum: off
+    partizip: off
+
+lügen:
+  en: to tell lies
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
+
+schmelzen:
+  en: to melt
+  hilfsverb: sein
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: o
+    partizip: o
+
+#-------------------------------------------------------------------------------
+# "MIRROR" ones from smarter german
+
+bleiben:
+  en: to remain, to stay
+  strong:
+  hilfsverb: sein
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+reiben:
+  en: to rub
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+gleiten:
+  en: to glide
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: itt
+    k2präsens: itt
+    partizip: itt
+
+reiten:
+  en: to ride
+  strong:
+  stems:
+    präteritum: itt
+    k2präsens: itt
+    partizip: itt
+
+reißen:
+  en: to tear
+  strong:
+  stems:
+    präteritum: iss
+    k2präsens: iss
+    partizip: iss
+
+beißen:
+  en: to bite
+  strong:
+  stems:
+    präteritum: iss
+    k2präsens: iss
+    partizip: iss
+
+scheißen:
+  en: to shit
+  strong:
+  stems:
+    präteritum: iss
+    k2präsens: iss
+    partizip: iss
+    
+leihen:
+  en: to lend, to borrow
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+    
+scheinen:
+  en: to shine
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+#-------------------------------------------------------------------------------
+# LASSO ones from smarter german
+
+beginnen:
+  en: to begin
+  ignore: true
+  strong:
+  stems:
+    präteritum: a
+    partizip: o
+
+kommen:
+  en: to come
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: am
+
+nehmen:
+  en: to take
+  strong:
+  stems:
+    präsens du/es: imm
+    präteritum: a
+    partizip: omm
+
+sterben:
+  en: to die
+  hilfsverb: sein
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: a
+    partizip: o
+
+brechen:
+  en: to break
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: a
+    partizip: o
 
 helfen:
   en: help
@@ -245,228 +685,16 @@ helfen:
     präteritum: a
     partizip: o
 
-schließen:
-  en: close
-  strong:
-  stems:
-    präteritum: oss
-    partizip: oss
-
-treffen:
-  en: meet, hit, strike
+sprechen:
+  en: to speak
   strong:
   stems:
     präsens du/es: i
-    präteritum: af
-    partizip: o
-
-beißen:
-  en: bite
-  strong:
-  stems:
-    präteritum: iss
-    k2präsens: iss
-    partizip: iss
-
-greifen:
-  en: grasp, grab, snatch, reach for
-  strong:
-  stems:
-    präteritum: iff
-    k2präsens: iff
-    partizip: iff
-
-leihen:
-  en: borrow
-  strong:
-  stems:
-    präteritum: ie
-    k2präsens: ie
-    partizip: ie
-
-pfeifen:
-  en: whistle
-  strong:
-  stems:
-    präteritum: iff
-    k2präsens: iff
-    partizip: iff
-
-scheinen:
-  en: shine
-  strong:
-  stems:
-    präteritum: ie
-    k2präsens: ie
-    partizip: ie
-
-schreien:
-  # this doesn't work yet....
-  # conjugator doesn't know the rules to remove the double-e sometimes
-  ignore: true
-  en: cry out, scream
-  strong:
-  stems:
-    präteritum: ie
-    k2präsens: ie
-    partizip: ie
-
-bieten:
-  en: offer, provide
-  strong:
-  stems:
-    präteritum: o
-    partizip: o
-
-schieben:
-  en: push, ?
-  strong:
-  stems:
-    präteritum: o
-    partizip: o
-
-ziehen:
-  en: move to, ?
-  strong:
-  stems:
-    präteritum: og
-    partizip: og
-
-# prefix error verbs
-#-------------------------------------------------------------------------------------
-
-gelingen:
-  ignore: true
-  prefix: inseparable
-  en:
-  hilfsverb: sein
-  strong:
-  stems:
     präteritum: a
-    partizip: u
-
-beginnen:
-  ignore: true
-  en: begin
-  strong:
-  stems:
-    präteritum: a
-    partizip: o
-
-gebären:
-  ignore: true
-  strong: true
-
-beraten:
-  ignore: true
-  strong:
-  stems:
-    präsens du/es: ä
-    präteritum: ie
-    k2präsens: ie
-
-#-------------------------------------------------------------------------------------
-
-brennen:
-  en: burn, shine, distil
-  strong: 
-    weak endings: true
-  stems:
-    präteritum: a
-    k2präsens: e
-    partizip: a
-
-hängen:
-  en:
-  strong:
-  stems:
-    präteritum: i
-    k2präsens: i
-    partizip: a
-
-gießen:
-  en: pour
-  strong:
-  stems:
-    präteritum: oss
-    partizip: oss
-
-kennen:
-  en: know
-  strong: 
-    weak endings: true
-  stems:
-    präteritum: a
-    k2präsens: e
-    partizip: a
-
-leiden:
-  en: suffer
-  strong:
-  stems:
-    präteritum: itt
-    k2präsens: itt
-    partizip: itt
-
-lügen:
-  en: lie
-  strong:
-  stems:
-    präteritum: o
-    partizip: o
-
-halten:
-  # du/es endings don't work yet...
-
-  # expect du hältst
-  #    get du hältest
-  # expect es hält
-  #    get es hältet
-
-  ignore: true
-  strong:
-  stems:
-    präsens du/es: ä
-    präteritum: ie
-    k2präsens: ie
-
-treten:
-  # like
-
-  # expect trittest
-  #    got trittst
-  # expect tritt
-  #    got trittet
-
-  ignore: true
-  strong:
-  stems:
-    präsens du/es: itt
-    präteritum: a
-
-schlafen:
-  strong:
-  stems:
-    präsens du/es: ä
-    präteritum: ie
-    k2präsens: ie
-
-schlagen:
-  strong:
-  stems:
-    präsens du/es: ä
-    präteritum: u
-
-schmelzen:
-  hilfsverb: sein
-  strong:
-  stems:
-    präsens du/es: i
-    präteritum: o
     partizip: o
 
 stechen:
-  en: stab, sting, jab, prick
+  en: to stab, to sting, to jab
   strong:
   stems:
     präsens du/es: i
@@ -474,46 +702,178 @@ stechen:
     partizip: o
 
 stehlen:
-  en: steal
+  en: to steal
   strong:
   stems:
     präsens du/es: ie
     präteritum: a
     partizip: o
 
-sterben:
-  en: die
-  hilfsverb: sein
+
+treffen:
+  en: to meet, to hit, to strike
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: af
+    partizip: o
+
+werfen:
+  en: to throw
   strong:
   stems:
     präsens du/es: i
     präteritum: a
+    k2präsens: ü
     partizip: o
 
-sagen:
-spielen:
-machen:
-fragen:
-glauben:
-leben:
-lernen:
-reden:
-bedeuten:
-gehören:
-kaufen:
-schmecken:
-warten:
-wohnen:
-arbeiten:
-brauchen:
-setzen:
-suchen:
-versuchen:
-bauen:
-tagen:
-deuten:
-hören:
+schwimmen:
+  en: to swim
+  hilfsverb: sein
+  strong:
+  stems:
+    partizip: o
+    präteritum: a
+
+# prefix error...
+empfehlen:
+  en: to recommend
+  ignore: true
+  strong:
+  stems:
+    partizip: o
+    präteritum: a
+
+#-------------------------------------------------------------------------------
+# SAUNA A U ones from smarter german
+
+binden:
+  en: to bind
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
+
+finden:
+  en: to find
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
+
+# prefix error
+# gelingen:
+#   ignore: true
+#   strong:
+#   stems:
+#     präteritum: a
+#     partizip: u
+
+trinken:
+  en: to drink
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
+
+stinken:
+  en: to stink
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
+
+sinken:
+  en: to sink
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
+
+springen:
+  en: to jump
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
+
+singen:
+  en: to sing
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
+
+#-------------------------------------------------------------------------------
+# ANACONDA ones from smarter german
+
+
+brennen:
+  en: to burn, to shine, to distil
+  strong: 
+    weak endings: true
+  stems:
+    präteritum: a
+    k2präsens: e
+    partizip: a
+
+kennen:
+  en: to know
+  strong: 
+    weak endings: true
+  stems:
+    präteritum: a
+    k2präsens: e
+    partizip: a
+
+denken:
+  en: to think, to guess
+  strong:
+    weak endings: true
+  stems:
+    präteritum: ach
+
+bringen:
+  en: to bring, to take
+  strong:
+    weak endings: true
+  stems:
+    präteritum: ach
+
+stehen:
+  en: to stand
+  strong:
+  stems:
+    präteritum: and
+    partizip: and
+    
+tun:
+  en: to do
+  strong:
+  stems:
+    präteritum: at
+    partizip: a
+
+rennen:
+  en: to run, to race
+  hilfsverb: sein
+  stems:
+    präteritum: a
+    k2präsens: e
+    partizip: a
+
+nennen:
+  en: to name
+  stems:
+    präteritum: a
+    k2präsens: e
+    partizip: a
+
+#-------------------------------------------------------------------------------
 
 testen:
+  en: to test
   tags:
     - test
