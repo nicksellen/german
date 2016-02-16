@@ -1,6 +1,6 @@
 {
   "name": "german",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "german language tools",
   "main": "libgerman.js",
   "author": "Nick Sellen <git@nicksellen.co.uk>",
