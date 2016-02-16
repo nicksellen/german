@@ -2,7 +2,7 @@ const colors = require('colors/safe');
 const columnify = require('columnify');
 
 const conjugator = require('../lib/conjugator');
-const verbs = require('../lib/verbs');
+const verbs = require('../lib/verbs').verbs;
 const Tenses = require('../lib/data/tenses');
 const pronouns = require('../lib/data/pronouns');
 

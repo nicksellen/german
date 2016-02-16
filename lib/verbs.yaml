@@ -314,6 +314,39 @@ deuten:
 hören:
   en: to hear, to listen
   
+fallen:
+  en: to fall
+  strong:
+  hilfsverb: sein
+  stems:
+    präsens du/es: ä
+    präteritum: iel
+    k2präsens: iel
+  
+fangen:
+  en: to catch
+  strong:
+  stems:
+    präsens du/es: ä
+    präteritum: i
+    k2präsens: i
+  
+braten:
+  en: to fry
+  strong:  
+  stems:
+    präsens du/es: ä
+    präteritum: ie
+    k2präsens: ie
+  
+raten:
+  en: to guess, to advise  
+  strong:  
+  stems:
+    präsens du/es: ä
+    präteritum: ie
+    k2präsens: ie
+  
 #-------------------------------------------------------------------------------
 # TUBA ones from smarter german
 
@@ -333,7 +366,7 @@ graben:
     präteritum: u
 
 schlagen:
-  en: to strike
+  en: to strike, to bash, to hit, to beat
   strong:
   stems:
     präsens du/es: ä
@@ -398,7 +431,7 @@ geben:
   stems:
     präsens du/es: i
     präteritum: a
-    
+
 lesen:
   en: to read
   strong:
@@ -428,6 +461,9 @@ sehen:
     präsens du/es: ie
     präteritum: a
 
+geschehen:
+  en: to happen
+  ignore: true
 
 #-------------------------------------------------------------------------------
 # POLO ones from smarter german
@@ -487,9 +523,6 @@ ziehen:
 
 wiegen:
   en: to weigh
-  stems:
-    präteritum: ie
-    partizip: ie
     
 gießen:
   en: to pour
@@ -556,6 +589,14 @@ schmelzen:
     präsens du/es: i
     präteritum: o
     partizip: o
+
+genießen:
+  en: to enjoy
+  ignore: true
+
+verlieren:
+  en: to lose
+  ignore: true
 
 #-------------------------------------------------------------------------------
 # "MIRROR" ones from smarter german
@@ -633,6 +674,29 @@ scheinen:
     präteritum: ie
     k2präsens: ie
     partizip: ie
+
+meiden:
+  en: to avoid
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+steigen:
+  en: to rise
+  hilfsverb: sein
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
+
+verzeihen:
+  en: to forgive
+  ignore: true
+  
+
 
 #-------------------------------------------------------------------------------
 # LASSO ones from smarter german
@@ -744,6 +808,10 @@ empfehlen:
     partizip: o
     präteritum: a
 
+gewinnen:
+  en: to win
+  ignore: true
+
 #-------------------------------------------------------------------------------
 # SAUNA A U ones from smarter german
 
@@ -805,10 +873,16 @@ singen:
   stems:
     präteritum: a
     partizip: u
+    
+zwingen:
+  en: to force
+  strong:
+  stems:
+    präteritum: a
+    partizip: u
 
 #-------------------------------------------------------------------------------
 # ANACONDA ones from smarter german
-
 
 brennen:
   en: to burn, to shine, to distil

@@ -6,6 +6,8 @@ var all = {};
 
 var includeUndefined = false;
 
+//includeUndefined = true;
+
 fs.readFileSync(__dirname + '/test-verbs.txt', 'utf8').split("\n").map(function(line){
   if (/^#/.test(line)) return;
   if (!line) return;
