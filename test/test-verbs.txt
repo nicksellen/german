@@ -400,12 +400,6 @@ beginnen   präsens     beginne      beginnst     beginnt    beginnen    beginnt
 beginnen   präteritum  begann       begannst     begann     begannen    begannt   
 beginnen   k2präsens   begänne      begännest    begänne    begännen    begännet  
                                                                                   
-gebären    partizip    gegebärt                                                   
-gebären    hilfsverb   haben                                                      
-gebären    präsens     gebäre       gebärst      gebärt     gebären     gebärt    
-gebären    präteritum  gebärte      gebärtest    gebärte    gebärten    gebärtet  
-gebären    k2präsens   gebärte      gebärtest    gebärte    gebärten    gebärtet  
-                                                                                  
 brennen    partizip    gebrannt                                                   
 brennen    hilfsverb   haben                                                      
 brennen    präsens     brenne       brennst      brennt     brennen     brennt    
@@ -819,4 +813,10 @@ fliehen    hilfsverb   sein
 fliehen    präsens     fliehe       fliehst      flieht     fliehen     flieht    
 fliehen    präteritum  floh         flohst       floh       flohen      floht     
 fliehen    k2präsens   flöhe        flöhest      flöhe      flöhen      flöhet    
+                                                                                  
+gebären    partizip    geboren                                                    
+gebären    hilfsverb   haben                                                      
+gebären    präsens     gebäre       gebärst      gebärt     gebären     gebärt    
+gebären    präteritum  gebar        gebarst      gebar      gebaren     gebart    
+gebären    k2präsens   gebäre       gebärest     gebäre     gebären     gebäret   
                                                                                   

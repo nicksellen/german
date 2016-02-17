@@ -14,7 +14,7 @@ if (!force && hasTestFor(infinitive)) {
 }
 
 var url = 'http://www.verbformen.net/conjugation/' + 
-  infinitive.replace(/ß/g,'s:').replace(/ö/g,'o:').replace(/ü/g, 'u:') + 
+  infinitive.replace(/ß/g,'s:').replace(/ö/g,'o:').replace(/ü/g, 'u:').replace  (/ä/g, 'a:') + 
   '.htm';
 
 var cachefilename = '/tmp/de.' + new Buffer(infinitive).toString('base64') + '.html';
@@ -32,7 +32,13 @@ if (fs.existsSync(cachefilename)) {
   });
 }
 
+
+
 function transformWord(type, word, pronoun) {
+  
+  // replace random - at end (not sure what it means actually, see
+  // http://www.verbformen.net/conjugation/geba:ren.htm for example)
+  //word = word.replace(/\-$/, '');
   
   // turn "(e)+" into "e"
   word = word.replace( /\(([e])\)\+/, '$1');
@@ -50,6 +56,11 @@ function transformWord(type, word, pronoun) {
   
   // replace "(e)t" with "t"
   word = word.replace(/\(e\)t$/, 't');
+  
+  word = {
+    'gebärst/gebierst-' : 'gebärst',
+    'gebärt/gebiert-'   : 'gebärt'
+  }[word] || word;
   
   if (/[\(\/]/.test(word)) {
     throw new Error('must deal with () or / thing [' + word + '] in ' + type + ' ' + pronoun);

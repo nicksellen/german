@@ -174,9 +174,6 @@ pfeifen:
     partizip: iff
 
 schreien:
-  # this doesn't work yet....
-  # conjugator doesn't know the rules to remove the double-e sometimes
-  ignore: true
   en: to cry out, to scream
   strong:
   stems:
@@ -184,13 +181,10 @@ schreien:
     k2präsens: ie
     partizip: ie
 
-# prefix error verbs
 #-------------------------------------------------------------------------------------
 
 gelingen:
   en: to succeed
-  ignore: true
-  prefix: inseparable
   hilfsverb: sein
   strong:
   stems:
@@ -199,11 +193,12 @@ gelingen:
 
 gebären:
   en: to give birth
-  ignore: true
   strong: true
+  stems:
+    präteritum: a
+    partizip: o
 
 beraten:
-  ignore: true
   en: to advise, to discuss
   strong:
   stems:
@@ -463,7 +458,11 @@ sehen:
 
 geschehen:
   en: to happen
-  ignore: true
+  hilfsverb: sein
+  strong:
+  stems:
+    präsens du/es: ie
+    präteritum: a
 
 #-------------------------------------------------------------------------------
 # POLO ones from smarter german
@@ -592,11 +591,17 @@ schmelzen:
 
 genießen:
   en: to enjoy
-  ignore: true
+  strong:
+  stems:
+    präteritum: oss
+    partizip: oss
 
 verlieren:
   en: to lose
-  ignore: true
+  strong:
+  stems:
+    präteritum: o
+    partizip: o
 
 #-------------------------------------------------------------------------------
 # "MIRROR" ones from smarter german
@@ -694,7 +699,11 @@ steigen:
 
 verzeihen:
   en: to forgive
-  ignore: true
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+    partizip: ie
   
 
 
@@ -703,7 +712,6 @@ verzeihen:
 
 beginnen:
   en: to begin
-  ignore: true
   strong:
   stems:
     präteritum: a
@@ -799,18 +807,20 @@ schwimmen:
     partizip: o
     präteritum: a
 
-# prefix error...
 empfehlen:
   en: to recommend
-  ignore: true
   strong:
   stems:
+    präsens du/es: ie
     partizip: o
     präteritum: a
 
 gewinnen:
   en: to win
-  ignore: true
+  strong:
+  stems:
+    partizip: o
+    präteritum: a
 
 #-------------------------------------------------------------------------------
 # SAUNA A U ones from smarter german
@@ -828,14 +838,6 @@ finden:
   stems:
     präteritum: a
     partizip: u
-
-# prefix error
-# gelingen:
-#   ignore: true
-#   strong:
-#   stems:
-#     präteritum: a
-#     partizip: u
 
 trinken:
   en: to drink
