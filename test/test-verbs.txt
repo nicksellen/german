@@ -1084,3 +1084,13 @@ erinnern       präsens     erinnere       erinnerst        erinnert       erinn
 erinnern       präteritum  erinnerte      erinnertest      erinnerte      erinnerten      erinnertet    
 erinnern       k2präsens   erinnerte      erinnertest      erinnerte      erinnerten      erinnertet    
                                                                                                         
+lehren  partizip    gelehrt                                    
+lehren  hilfsverb   haben                                      
+lehren  präsens     lehre    lehrst    lehrt   lehren   lehrt  
+lehren  präteritum  lehrte   lehrtest  lehrte  lehrten  lehrtet
+lehren  k2präsens   lehrte   lehrtest  lehrte  lehrten  lehrtet
+kosten  partizip    gekostet                                        
+kosten  hilfsverb   haben                                           
+kosten  präsens     koste     kostest    kostet   kosten    kostet  
+kosten  präteritum  kostete   kostetest  kostete  kosteten  kostetet
+kosten  k2präsens   kostete   kostetest  kostete  kosteten  kostetet
