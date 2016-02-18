@@ -1,888 +1,1083 @@
-haben        partizip    gehabt                                                       
-haben        hilfsverb   haben                                                        
-haben        präsens     habe           hast         hat        haben       habt      
-haben        präteritum  hatte          hattest      hatte      hatten      hattet    
-haben        k2präsens   hätte          hättest      hätte      hätten      hättet    
-                                                                                      
-sein         partizip    gewesen                                                      
-sein         hilfsverb   sein                                                         
-sein         präsens     bin            bist         ist        sind        seid      
-sein         präteritum  war            warst        war        waren       wart      
-sein         k2präsens   wäre           wärest       wäre       wären       wäret     
-                                                                                      
-werden       partizip    geworden                                                     
-werden       hilfsverb   sein                                                         
-werden       präsens     werde          wirst        wird       werden      werdet    
-werden       präteritum  wurde          wurdest      wurde      wurden      wurdet    
-werden       k2präsens   würde          würdest      würde      würden      würdet    
-                                                                                      
-können       partizip    gekonnt                                                      
-können       hilfsverb   haben                                                        
-können       präsens     kann           kannst       kann       können      könnt     
-können       präteritum  konnte         konntest     konnte     konnten     konntet   
-können       k2präsens   könnte         könntest     könnte     könnten     könntet   
-                                                                                      
-müssen       partizip    gemusst                                                      
-müssen       hilfsverb   haben                                                        
-müssen       präsens     muss           musst        muss       müssen      müsst     
-müssen       präteritum  musste         musstest     musste     mussten     musstet   
-müssen       k2präsens   müsste         müsstest     müsste     müssten     müsstet   
-                                                                                      
-wollen       partizip    gewollt                                                      
-wollen       hilfsverb   haben                                                        
-wollen       präsens     will           willst       will       wollen      wollt     
-wollen       präteritum  wollte         wolltest     wollte     wollten     wolltet   
-wollen       k2präsens   wollte         wolltest     wollte     wollten     wolltet   
-                                                                                      
-sollen       partizip    gesollt                                                      
-sollen       hilfsverb   haben                                                        
-sollen       präsens     soll           sollst       soll       sollen      sollt     
-sollen       präteritum  sollte         solltest     sollte     sollten     solltet   
-sollen       k2präsens   sollte         solltest     sollte     sollten     solltet   
-                                                                                      
-dürfen       partizip    gedurft                                                      
-dürfen       hilfsverb   haben                                                        
-dürfen       präsens     darf           darfst       darf       dürfen      dürft     
-dürfen       präteritum  durfte         durftest     durfte     durften     durftet   
-dürfen       k2präsens   dürfte         dürftest     dürfte     dürften     dürftet   
-                                                                                      
-mögen        partizip    gemocht                                                      
-mögen        hilfsverb   haben                                                        
-mögen        präsens     mag            magst        mag        mögen       mögt      
-mögen        präteritum  mochte         mochtest     mochte     mochten     mochtet   
-mögen        k2präsens   möchte         möchtest     möchte     möchten     möchtet   
-                                                                                      
-wissen       partizip    gewusst                                                      
-wissen       hilfsverb   haben                                                        
-wissen       präsens     weiß           weißt        weiß       wissen      wisst     
-wissen       präteritum  wusste         wusstest     wusste     wussten     wusstet   
-wissen       k2präsens   wüsste         wüsstest     wüsste     wüssten     wüsstet   
-                                                                                      
-machen       partizip    gemacht                                                      
-machen       hilfsverb   haben                                                        
-machen       präsens     mache          machst       macht      machen      macht     
-machen       präteritum  machte         machtest     machte     machten     machtet   
-machen       k2präsens   machte         machtest     machte     machten     machtet   
-                                                                                      
-sagen        partizip    gesagt                                                       
-sagen        hilfsverb   haben                                                        
-sagen        präsens     sage           sagst        sagt       sagen       sagt      
-sagen        präteritum  sagte          sagtest      sagte      sagten      sagtet    
-sagen        k2präsens   sagte          sagtest      sagte      sagten      sagtet    
-                                                                                      
-spielen      partizip    gespielt                                                     
-spielen      hilfsverb   haben                                                        
-spielen      präsens     spiele         spielst      spielt     spielen     spielt    
-spielen      präteritum  spielte        spieltest    spielte    spielten    spieltet  
-spielen      k2präsens   spielte        spieltest    spielte    spielten    spieltet  
-                                                                                      
-warten       partizip    gewartet                                                     
-warten       hilfsverb   haben                                                        
-warten       präsens     warte          wartest      wartet     warten      wartet    
-warten       präteritum  wartete        wartetest    wartete    warteten    wartetet  
-warten       k2präsens   wartete        wartetest    wartete    warteten    wartetet  
-                                                                                      
-arbeiten     partizip    gearbeitet                                                   
-arbeiten     hilfsverb   haben                                                        
-arbeiten     präsens     arbeite        arbeitest    arbeitet   arbeiten    arbeitet  
-arbeiten     präteritum  arbeitete      arbeitetest  arbeitete  arbeiteten  arbeitetet
-arbeiten     k2präsens   arbeitete      arbeitetest  arbeitete  arbeiteten  arbeitetet
-                                                                                      
-testen       partizip    getestet                                                     
-testen       hilfsverb   haben                                                        
-testen       präsens     teste          testest      testet     testen      testet    
-testen       präteritum  testete        testetest    testete    testeten    testetet  
-testen       k2präsens   testete        testetest    testete    testeten    testetet  
-                                                                                      
-arbeiten     partizip    gearbeitet                                                   
-arbeiten     hilfsverb   haben                                                        
-arbeiten     präsens     arbeite        arbeitest    arbeitet   arbeiten    arbeitet  
-arbeiten     präteritum  arbeitete      arbeitetest  arbeitete  arbeiteten  arbeitetet
-arbeiten     k2präsens   arbeitete      arbeitetest  arbeitete  arbeiteten  arbeitetet
-                                                                                      
-heißen       partizip    geheißen                                                     
-heißen       hilfsverb   haben                                                        
-heißen       präsens     heiße          heißt        heißt      heißen      heißt     
-heißen       präteritum  hieß           hießest      hieß       hießen      hießt     
-heißen       k2präsens   hieße          hießest      hieße      hießen      hießet    
-                                                                                      
-bedeuten     partizip    bedeutet                                                     
-bedeuten     hilfsverb   haben                                                        
-bedeuten     präsens     bedeute        bedeutest    bedeutet   bedeuten    bedeutet  
-bedeuten     präteritum  bedeutete      bedeutetest  bedeutete  bedeuteten  bedeutetet
-bedeuten     k2präsens   bedeutete      bedeutetest  bedeutete  bedeuteten  bedeutetet
-                                                                                      
-fragen       partizip    gefragt                                                      
-fragen       hilfsverb   haben                                                        
-fragen       präsens     frage          fragst       fragt      fragen      fragt     
-fragen       präteritum  fragte         fragtest     fragte     fragten     fragtet   
-fragen       k2präsens   fragte         fragtest     fragte     fragten     fragtet   
-                                                                                      
-glauben      partizip    geglaubt                                                     
-glauben      hilfsverb   haben                                                        
-glauben      präsens     glaube         glaubst      glaubt     glauben     glaubt    
-glauben      präteritum  glaubte        glaubtest    glaubte    glaubten    glaubtet  
-glauben      k2präsens   glaubte        glaubtest    glaubte    glaubten    glaubtet  
-                                                                                      
-tun          partizip    getan                                                        
-tun          hilfsverb   haben                                                        
-tun          präsens     tue            tust         tut        tun         tut       
-tun          präteritum  tat            tatest       tat        taten       tatet     
-tun          k2präsens   täte           tätest       täte       täten       tätet     
-                                                                                      
-leben        partizip    gelebt                                                       
-leben        hilfsverb   haben                                                        
-leben        präsens     lebe           lebst        lebt       leben       lebt      
-leben        präteritum  lebte          lebtest      lebte      lebten      lebtet    
-leben        k2präsens   lebte          lebtest      lebte      lebten      lebtet    
-                                                                                      
-lernen       partizip    gelernt                                                      
-lernen       hilfsverb   haben                                                        
-lernen       präsens     lerne          lernst       lernt      lernen      lernt     
-lernen       präteritum  lernte         lerntest     lernte     lernten     lerntet   
-lernen       k2präsens   lernte         lerntest     lernte     lernten     lerntet   
-                                                                                      
-reden        partizip    geredet                                                      
-reden        hilfsverb   haben                                                        
-reden        präsens     rede           redest       redet      reden       redet     
-reden        präteritum  redete         redetest     redete     redeten     redetet   
-reden        k2präsens   redete         redetest     redete     redeten     redetet   
-                                                                                      
-gehören      partizip    gehört                                                       
-gehören      hilfsverb   haben                                                        
-gehören      präsens     gehöre         gehörst      gehört     gehören     gehört    
-gehören      präteritum  gehörte        gehörtest    gehörte    gehörten    gehörtet  
-gehören      k2präsens   gehörte        gehörtest    gehörte    gehörten    gehörtet  
-                                                                                      
-kaufen       partizip    gekauft                                                      
-kaufen       hilfsverb   haben                                                        
-kaufen       präsens     kaufe          kaufst       kauft      kaufen      kauft     
-kaufen       präteritum  kaufte         kauftest     kaufte     kauften     kauftet   
-kaufen       k2präsens   kaufte         kauftest     kaufte     kauften     kauftet   
-                                                                                      
-schmecken    partizip    geschmeckt                                                   
-schmecken    hilfsverb   haben                                                        
-schmecken    präsens     schmecke       schmeckst    schmeckt   schmecken   schmeckt  
-schmecken    präteritum  schmeckte      schmecktest  schmeckte  schmeckten  schmecktet
-schmecken    k2präsens   schmeckte      schmecktest  schmeckte  schmeckten  schmecktet
-                                                                                      
-wohnen       partizip    gewohnt                                                      
-wohnen       hilfsverb   haben                                                        
-wohnen       präsens     wohne          wohnst       wohnt      wohnen      wohnt     
-wohnen       präteritum  wohnte         wohntest     wohnte     wohnten     wohntet   
-wohnen       k2präsens   wohnte         wohntest     wohnte     wohnten     wohntet   
-                                                                                      
-stehen       partizip    gestanden                                                    
-stehen       hilfsverb   haben                                                        
-stehen       präsens     stehe          stehst       steht      stehen      steht     
-stehen       präteritum  stand          standest     stand      standen     standet   
-stehen       k2präsens   stände         ständest     stände     ständen     ständet   
-                                                                                      
-liegen       partizip    gelegen                                                      
-liegen       hilfsverb   haben                                                        
-liegen       präsens     liege          liegst       liegt      liegen      liegt     
-liegen       präteritum  lag            lagst        lag        lagen       lagt      
-liegen       k2präsens   läge           lägest       läge       lägen       läget     
-                                                                                      
-denken       partizip    gedacht                                                      
-denken       hilfsverb   haben                                                        
-denken       präsens     denke          denkst       denkt      denken      denkt     
-denken       präteritum  dachte         dachtest     dachte     dachten     dachtet   
-denken       k2präsens   dächte         dächtest     dächte     dächten     dächtet   
-                                                                                      
-bringen      partizip    gebracht                                                     
-bringen      hilfsverb   haben                                                        
-bringen      präsens     bringe         bringst      bringt     bringen     bringt    
-bringen      präteritum  brachte        brachtest    brachte    brachten    brachtet  
-bringen      k2präsens   brächte        brächtest    brächte    brächten    brächtet  
-                                                                                      
-nehmen       partizip    genommen                                                     
-nehmen       hilfsverb   haben                                                        
-nehmen       präsens     nehme          nimmst       nimmt      nehmen      nehmt     
-nehmen       präteritum  nahm           nahmst       nahm       nahmen      nahmt     
-nehmen       k2präsens   nähme          nähmest      nähme      nähmen      nähmet    
-                                                                                      
-finden       partizip    gefunden                                                     
-finden       hilfsverb   haben                                                        
-finden       präsens     finde          findest      findet     finden      findet    
-finden       präteritum  fand           fandest      fand       fanden      fandet    
-finden       k2präsens   fände          fändest      fände      fänden      fändet    
-                                                                                      
-lassen       partizip    gelassen                                                     
-lassen       hilfsverb   haben                                                        
-lassen       präsens     lasse          lässt        lässt      lassen      lasst     
-lassen       präteritum  ließ           ließest      ließ       ließen      ließt     
-lassen       k2präsens   ließe          ließest      ließe      ließen      ließet    
-                                                                                      
-geben        partizip    gegeben                                                      
-geben        hilfsverb   haben                                                        
-geben        präsens     gebe           gibst        gibt       geben       gebt      
-geben        präteritum  gab            gabst        gab        gaben       gabt      
-geben        k2präsens   gäbe           gäbest       gäbe       gäben       gäbet     
-                                                                                      
-sehen        partizip    gesehen                                                      
-sehen        hilfsverb   haben                                                        
-sehen        präsens     sehe           siehst       sieht      sehen       seht      
-sehen        präteritum  sah            sahst        sah        sahen       saht      
-sehen        k2präsens   sähe           sähest       sähe       sähen       sähet     
-                                                                                      
-gehen        partizip    gegangen                                                     
-gehen        hilfsverb   sein                                                         
-gehen        präsens     gehe           gehst        geht       gehen       geht      
-gehen        präteritum  ging           gingst       ging       gingen      gingt     
-gehen        k2präsens   ginge          gingest      ginge      gingen      ginget    
-                                                                                      
-essen        partizip    gegessen                                                     
-essen        hilfsverb   haben                                                        
-essen        präsens     esse           isst         isst       essen       esst      
-essen        präteritum  aß             aßest        aß         aßen        aßt       
-essen        k2präsens   äße            äßest        äße        äßen        äßet      
-                                                                                      
-bleiben      partizip    geblieben                                                    
-bleiben      hilfsverb   sein                                                         
-bleiben      präsens     bleibe         bleibst      bleibt     bleiben     bleibt    
-bleiben      präteritum  blieb          bliebst      blieb      blieben     bliebt    
-bleiben      k2präsens   bliebe         bliebest     bliebe     blieben     bliebet   
-                                                                                      
-fahren       partizip    gefahren                                                     
-fahren       hilfsverb   sein                                                         
-fahren       präsens     fahre          fährst       fährt      fahren      fahrt     
-fahren       präteritum  fuhr           fuhrst       fuhr       fuhren      fuhrt     
-fahren       k2präsens   führe          führest      führe      führen      führet    
-                                                                                      
-sprechen     partizip    gesprochen                                                   
-sprechen     hilfsverb   haben                                                        
-sprechen     präsens     spreche        sprichst     spricht    sprechen    sprecht   
-sprechen     präteritum  sprach         sprachst     sprach     sprachen    spracht   
-sprechen     k2präsens   spräche        sprächest    spräche    sprächen    sprächet  
-                                                                                      
-lesen        partizip    gelesen                                                      
-lesen        hilfsverb   haben                                                        
-lesen        präsens     lese           liest        liest      lesen       lest      
-lesen        präteritum  las            lasest       las        lasen       last      
-lesen        k2präsens   läse           läsest       läse       läsen       läset     
-                                                                                      
-kommen       partizip    gekommen                                                     
-kommen       hilfsverb   sein                                                         
-kommen       präsens     komme          kommst       kommt      kommen      kommt     
-kommen       präteritum  kam            kamst        kam        kamen       kamt      
-kommen       k2präsens   käme           kämest       käme       kämen       kämet     
-                                                                                      
-brauchen     partizip    gebraucht                                                    
-brauchen     hilfsverb   haben                                                        
-brauchen     präsens     brauche        brauchst     braucht    brauchen    braucht   
-brauchen     präteritum  brauchte       brauchtest   brauchte   brauchten   brauchtet 
-brauchen     k2präsens   brauchte       brauchtest   brauchte   brauchten   brauchtet 
-                                                                                      
-setzen       partizip    gesetzt                                                      
-setzen       hilfsverb   haben                                                        
-setzen       präsens     setze          setzt        setzt      setzen      setzt     
-setzen       präteritum  setzte         setztest     setzte     setzten     setztet   
-setzen       k2präsens   setzte         setztest     setzte     setzten     setztet   
-                                                                                      
-laufen       partizip    gelaufen                                                     
-laufen       hilfsverb   sein                                                         
-laufen       präsens     laufe          läufst       läuft      laufen      lauft     
-laufen       präteritum  lief           liefst       lief       liefen      lieft     
-laufen       k2präsens   liefe          liefest      liefe      liefen      liefet    
-                                                                                      
-schreiben    partizip    geschrieben                                                  
-schreiben    hilfsverb   haben                                                        
-schreiben    präsens     schreibe       schreibst    schreibt   schreiben   schreibt  
-schreiben    präteritum  schrieb        schriebst    schrieb    schrieben   schriebt  
-schreiben    k2präsens   schriebe       schriebest   schriebe   schrieben   schriebet 
-                                                                                      
-folgen       partizip    gefolgt                                                      
-folgen       hilfsverb   sein                                                         
-folgen       präsens     folge          folgst       folgt      folgen      folgt     
-folgen       präteritum  folgte         folgtest     folgte     folgten     folgtet   
-folgen       k2präsens   folgte         folgtest     folgte     folgten     folgtet   
-                                                                                      
-suchen       partizip    gesucht                                                      
-suchen       hilfsverb   haben                                                        
-suchen       präsens     suche          suchst       sucht      suchen      sucht     
-suchen       präteritum  suchte         suchtest     suchte     suchten     suchtet   
-suchen       k2präsens   suchte         suchtest     suchte     suchten     suchtet   
-                                                                                      
-helfen       partizip    geholfen                                                     
-helfen       hilfsverb   haben                                                        
-helfen       präsens     helfe          hilfst       hilft      helfen      helft     
-helfen       präteritum  half           halfst       half       halfen      halft     
-helfen       k2präsens   hälfe          hälfest      hälfe      hälfen      hälfet    
-                                                                                      
-schließen    partizip    geschlossen                                                  
-schließen    hilfsverb   haben                                                        
-schließen    präsens     schließe       schließt     schließt   schließen   schließt  
-schließen    präteritum  schloss        schlossest   schloss    schlossen   schlosst  
-schließen    k2präsens   schlösse       schlössest   schlösse   schlössen   schlösset 
-                                                                                      
-treffen      partizip    getroffen                                                    
-treffen      hilfsverb   haben                                                        
-treffen      präsens     treffe         triffst      trifft     treffen     trefft    
-treffen      präteritum  traf           trafst       traf       trafen      traft     
-treffen      k2präsens   träfe          träfest      träfe      träfen      träfet    
-                                                                                      
-versuchen    partizip    versucht                                                     
-versuchen    hilfsverb   haben                                                        
-versuchen    präsens     versuche       versuchst    versucht   versuchen   versucht  
-versuchen    präteritum  versuchte      versuchtest  versuchte  versuchten  versuchtet
-versuchen    k2präsens   versuchte      versuchtest  versuchte  versuchten  versuchtet
-                                                                                      
-bauen        partizip    gebaut                                                       
-bauen        hilfsverb   haben                                                        
-bauen        präsens     baue           baust        baut       bauen       baut      
-bauen        präteritum  baute          bautest      baute      bauten      bautet    
-bauen        k2präsens   baute          bautest      baute      bauten      bautet    
-                                                                                      
-beißen       partizip    gebissen                                                     
-beißen       hilfsverb   haben                                                        
-beißen       präsens     beiße          beißt        beißt      beißen      beißt     
-beißen       präteritum  biss           bissest      biss       bissen      bisst     
-beißen       k2präsens   bisse          bissest      bisse      bissen      bisset    
-                                                                                      
-greifen      partizip    gegriffen                                                    
-greifen      hilfsverb   haben                                                        
-greifen      präsens     greife         greifst      greift     greifen     greift    
-greifen      präteritum  griff          griffst      griff      griffen     grifft    
-greifen      k2präsens   griffe         griffest     griffe     griffen     griffet   
-                                                                                      
-leihen       partizip    geliehen                                                     
-leihen       hilfsverb   haben                                                        
-leihen       präsens     leihe          leihst       leiht      leihen      leiht     
-leihen       präteritum  lieh           liehst       lieh       liehen      lieht     
-leihen       k2präsens   liehe          liehest      liehe      liehen      liehet    
-                                                                                      
-pfeifen      partizip    gepfiffen                                                    
-pfeifen      hilfsverb   haben                                                        
-pfeifen      präsens     pfeife         pfeifst      pfeift     pfeifen     pfeift    
-pfeifen      präteritum  pfiff          pfiffst      pfiff      pfiffen     pfifft    
-pfeifen      k2präsens   pfiffe         pfiffest     pfiffe     pfiffen     pfiffet   
-                                                                                      
-scheinen     partizip    geschienen                                                   
-scheinen     hilfsverb   haben                                                        
-scheinen     präsens     scheine        scheinst     scheint    scheinen    scheint   
-scheinen     präteritum  schien         schienst     schien     schienen    schient   
-scheinen     k2präsens   schiene        schienest    schiene    schienen    schienet  
-                                                                                      
-schreien     partizip    geschrien                                                    
-schreien     hilfsverb   haben                                                        
-schreien     präsens     schreie        schreist     schreit    schreien    schreit   
-schreien     präteritum  schrie         schriest     schrie     schrien     schriet   
-schreien     k2präsens   schriee        schrieest    schriee    schrien     schrieet  
-                                                                                      
-bieten       partizip    geboten                                                      
-bieten       hilfsverb   haben                                                        
-bieten       präsens     biete          bietest      bietet     bieten      bietet    
-bieten       präteritum  bot            botest       bot        boten       botet     
-bieten       k2präsens   böte           bötest       böte       böten       bötet     
-                                                                                      
-schieben     partizip    geschoben                                                    
-schieben     hilfsverb   haben                                                        
-schieben     präsens     schiebe        schiebst     schiebt    schieben    schiebt   
-schieben     präteritum  schob          schobst      schob      schoben     schobt    
-schieben     k2präsens   schöbe         schöbest     schöbe     schöben     schöbet   
-                                                                                      
-ziehen       partizip    gezogen                                                      
-ziehen       hilfsverb   haben                                                        
-ziehen       präsens     ziehe          ziehst       zieht      ziehen      zieht     
-ziehen       präteritum  zog            zogst        zog        zogen       zogt      
-ziehen       k2präsens   zöge           zögest       zöge       zögen       zöget     
-                                                                                      
-gelingen     partizip    gelungen                                                     
-gelingen     hilfsverb   sein                                                         
-gelingen     präsens     gelinge        gelingst     gelingt    gelingen    gelingt   
-gelingen     präteritum  gelang         gelangst     gelang     gelangen    gelangt   
-gelingen     k2präsens   gelänge        gelängest    gelänge    gelängen    gelänget  
-                                                                                      
-beginnen     partizip    begonnen                                                     
-beginnen     hilfsverb   haben                                                        
-beginnen     präsens     beginne        beginnst     beginnt    beginnen    beginnt   
-beginnen     präteritum  begann         begannst     begann     begannen    begannt   
-beginnen     k2präsens   begänne        begännest    begänne    begännen    begännet  
-                                                                                      
-brennen      partizip    gebrannt                                                     
-brennen      hilfsverb   haben                                                        
-brennen      präsens     brenne         brennst      brennt     brennen     brennt    
-brennen      präteritum  brannte        branntest    brannte    brannten    branntet  
-brennen      k2präsens   brennte        brenntest    brennte    brennten    brenntet  
-                                                                                      
-hängen       partizip    gehangen                                                     
-hängen       hilfsverb   haben                                                        
-hängen       präsens     hänge          hängst       hängt      hängen      hängt     
-hängen       präteritum  hing           hingst       hing       hingen      hingt     
-hängen       k2präsens   hinge          hingest      hinge      hingen      hinget    
-                                                                                      
-gießen       partizip    gegossen                                                     
-gießen       hilfsverb   haben                                                        
-gießen       präsens     gieße          gießt        gießt      gießen      gießt     
-gießen       präteritum  goss           gossest      goss       gossen      gosst     
-gießen       k2präsens   gösse          gössest      gösse      gössen      gösset    
-                                                                                      
-kennen       partizip    gekannt                                                      
-kennen       hilfsverb   haben                                                        
-kennen       präsens     kenne          kennst       kennt      kennen      kennt     
-kennen       präteritum  kannte         kanntest     kannte     kannten     kanntet   
-kennen       k2präsens   kennte         kenntest     kennte     kennten     kenntet   
-                                                                                      
-leiden       partizip    gelitten                                                     
-leiden       hilfsverb   haben                                                        
-leiden       präsens     leide          leidest      leidet     leiden      leidet    
-leiden       präteritum  litt           littest      litt       litten      littet    
-leiden       k2präsens   litte          littest      litte      litten      littet    
-                                                                                      
-lügen        partizip    gelogen                                                      
-lügen        hilfsverb   haben                                                        
-lügen        präsens     lüge           lügst        lügt       lügen       lügt      
-lügen        präteritum  log            logst        log        logen       logt      
-lügen        k2präsens   löge           lögest       löge       lögen       löget     
-                                                                                      
-halten       partizip    gehalten                                                     
-halten       hilfsverb   haben                                                        
-halten       präsens     halte          hältst       hält       halten      haltet    
-halten       präteritum  hielt          hieltest     hielt      hielten     hieltet   
-halten       k2präsens   hielte         hieltest     hielte     hielten     hieltet   
-                                                                                      
-beraten      partizip    beraten                                                      
-beraten      hilfsverb   haben                                                        
-beraten      präsens     berate         berätst      berät      beraten     beratet   
-beraten      präteritum  beriet         berietest    beriet     berieten    berietet  
-beraten      k2präsens   beriete        berietest    beriete    berieten    berietet  
-                                                                                      
-schlafen     partizip    geschlafen                                                   
-schlafen     hilfsverb   haben                                                        
-schlafen     präsens     schlafe        schläfst     schläft    schlafen    schlaft   
-schlafen     präteritum  schlief        schliefst    schlief    schliefen   schlieft  
-schlafen     k2präsens   schliefe       schliefest   schliefe   schliefen   schliefet 
-                                                                                      
-schlagen     partizip    geschlagen                                                   
-schlagen     hilfsverb   haben                                                        
-schlagen     präsens     schlage        schlägst     schlägt    schlagen    schlagt   
-schlagen     präteritum  schlug         schlugst     schlug     schlugen    schlugt   
-schlagen     k2präsens   schlüge        schlügest    schlüge    schlügen    schlüget  
-                                                                                      
-schmelzen    partizip    geschmolzen                                                  
-schmelzen    hilfsverb   sein                                                         
-schmelzen    präsens     schmelze       schmilzt     schmilzt   schmelzen   schmelzt  
-schmelzen    präteritum  schmolz        schmolzest   schmolz    schmolzen   schmolzt  
-schmelzen    k2präsens   schmölze       schmölzest   schmölze   schmölzen   schmölzet 
-                                                                                      
-stechen      partizip    gestochen                                                    
-stechen      hilfsverb   haben                                                        
-stechen      präsens     steche         stichst      sticht     stechen     stecht    
-stechen      präteritum  stach          stachst      stach      stachen     stacht    
-stechen      k2präsens   stäche         stächest     stäche     stächen     stächet   
-                                                                                      
-stehlen      partizip    gestohlen                                                    
-stehlen      hilfsverb   haben                                                        
-stehlen      präsens     stehle         stiehlst     stiehlt    stehlen     stehlt    
-stehlen      präteritum  stahl          stahlst      stahl      stahlen     stahlt    
-stehlen      k2präsens   stähle         stählest     stähle     stählen     stählet   
-                                                                                      
-sterben      partizip    gestorben                                                    
-sterben      hilfsverb   sein                                                         
-sterben      präsens     sterbe         stirbst      stirbt     sterben     sterbt    
-sterben      präteritum  starb          starbst      starb      starben     starbt    
-sterben      k2präsens   stärbe         stärbest     stärbe     stärben     stärbet   
-                                                                                      
-tagen        partizip    getagt                                                       
-tagen        hilfsverb   haben                                                        
-tagen        präsens     tage           tagst        tagt       tagen       tagt      
-tagen        präteritum  tagte          tagtest      tagte      tagten      tagtet    
-tagen        k2präsens   tagte          tagtest      tagte      tagten      tagtet    
-                                                                                      
-treten       partizip    getreten                                                     
-treten       hilfsverb   haben                                                        
-treten       präsens     trete          trittst      tritt      treten      tretet    
-treten       präteritum  trat           tratest      trat       traten      tratet    
-treten       k2präsens   träte          trätest      träte      träten      trätet    
-                                                                                      
-hören        partizip    gehört                                                       
-hören        hilfsverb   haben                                                        
-hören        präsens     höre           hörst        hört       hören       hört      
-hören        präteritum  hörte          hörtest      hörte      hörten      hörtet    
-hören        k2präsens   hörte          hörtest      hörte      hörten      hörtet    
-                                                                                      
-deuten       partizip    gedeutet                                                     
-deuten       hilfsverb   haben                                                        
-deuten       präsens     deute          deutest      deutet     deuten      deutet    
-deuten       präteritum  deutete        deutetest    deutete    deuteten    deutetet  
-deuten       k2präsens   deutete        deutetest    deutete    deuteten    deutetet  
-                                                                                      
-braten       partizip    gebraten                                                     
-braten       hilfsverb   haben                                                        
-braten       präsens     brate          brätst       brät       braten      bratet    
-braten       präteritum  briet          brietest     briet      brieten     brietet   
-braten       k2präsens   briete         brietest     briete     brieten     brietet   
-                                                                                      
-fallen       partizip    gefallen                                                     
-fallen       hilfsverb   sein                                                         
-fallen       präsens     falle          fällst       fällt      fallen      fallt     
-fallen       präteritum  fiel           fielst       fiel       fielen      fielt     
-fallen       k2präsens   fiele          fielest      fiele      fielen      fielet    
-                                                                                      
-fangen       partizip    gefangen                                                     
-fangen       hilfsverb   haben                                                        
-fangen       präsens     fange          fängst       fängt      fangen      fangt     
-fangen       präteritum  fing           fingst       fing       fingen      fingt     
-fangen       k2präsens   finge          fingest      finge      fingen      finget    
-                                                                                      
-raten        partizip    geraten                                                      
-raten        hilfsverb   haben                                                        
-raten        präsens     rate           rätst        rät        raten       ratet     
-raten        präteritum  riet           rietest      riet       rieten      rietet    
-raten        k2präsens   riete          rietest      riete      rieten      rietet    
-                                                                                      
-graben       partizip    gegraben                                                     
-graben       hilfsverb   haben                                                        
-graben       präsens     grabe          gräbst       gräbt      graben      grabt     
-graben       präteritum  grub           grubst       grub       gruben      grubt     
-graben       k2präsens   grübe          grübest      grübe      grüben      grübet    
-                                                                                      
-waschen      partizip    gewaschen                                                    
-waschen      hilfsverb   haben                                                        
-waschen      präsens     wasche         wäschst      wäscht     waschen     wascht    
-waschen      präteritum  wusch          wuschst      wusch      wuschen     wuscht    
-waschen      k2präsens   wüsche         wüschest     wüsche     wüschen     wüschet   
-                                                                                      
-wachsen      partizip    gewachsen                                                    
-wachsen      hilfsverb   sein                                                         
-wachsen      präsens     wachse         wächst       wächst     wachsen     wachst    
-wachsen      präteritum  wuchs          wuchsest     wuchs      wuchsen     wuchst    
-wachsen      k2präsens   wüchse         wüchsest     wüchse     wüchsen     wüchset   
-                                                                                      
-tragen       partizip    getragen                                                     
-tragen       hilfsverb   haben                                                        
-tragen       präsens     trage          trägst       trägt      tragen      tragt     
-tragen       präteritum  trug           trugst       trug       trugen      trugt     
-tragen       k2präsens   trüge          trügest      trüge      trügen      trüget    
-                                                                                      
-laden        partizip    geladen                                                      
-laden        hilfsverb   haben                                                        
-laden        präsens     lade           lädst        lädt       laden       ladet     
-laden        präteritum  lud            ludest       lud        luden       ludet     
-laden        k2präsens   lüde           lüdest       lüde       lüden       lüdet     
-                                                                                      
-bitten       partizip    gebeten                                                      
-bitten       hilfsverb   haben                                                        
-bitten       präsens     bitte          bittest      bittet     bitten      bittet    
-bitten       präteritum  bat            batest       bat        baten       batet     
-bitten       k2präsens   bäte           bätest       bäte       bäten       bätet     
-                                                                                      
-sitzen       partizip    gesessen                                                     
-sitzen       hilfsverb   haben                                                        
-sitzen       präsens     sitze          sitzt        sitzt      sitzen      sitzt     
-sitzen       präteritum  saß            saßest       saß        saßen       saßt      
-sitzen       k2präsens   säße           säßest       säße       säßen       säßet     
-                                                                                      
-fliegen      partizip    geflogen                                                     
-fliegen      hilfsverb   sein                                                         
-fliegen      präsens     fliege         fliegst      fliegt     fliegen     fliegt    
-fliegen      präteritum  flog           flogst       flog       flogen      flogt     
-fliegen      k2präsens   flöge          flögest      flöge      flögen      flöget    
-                                                                                      
-fließen      partizip    geflossen                                                    
-fließen      hilfsverb   sein                                                         
-fließen      präsens     fließe         fließt       fließt     fließen     fließt    
-fließen      präteritum  floss          flossest     floss      flossen     flosst    
-fließen      k2präsens   flösse         flössest     flösse     flössen     flösset   
-                                                                                      
-flieren      partizip    fliert                                                       
-flieren      hilfsverb   sein                                                         
-flieren      präsens     fliere         flierst      fliert     flieren     fliert    
-flieren      präteritum  flierte        fliertest    flierte    flierten    fliertet  
-flieren      k2präsens   flierte        fliertest    flierte    flierten    fliertet  
-                                                                                      
-biegen       partizip    gebogen                                                      
-biegen       hilfsverb   haben                                                        
-biegen       präsens     biege          biegst       biegt      biegen      biegt     
-biegen       präteritum  bog            bogst        bog        bogen       bogt      
-biegen       k2präsens   böge           bögest       böge       bögen       böget     
-                                                                                      
-wiegen       partizip    gewiegt                                                      
-wiegen       hilfsverb   haben                                                        
-wiegen       präsens     wiege          wiegst       wiegt      wiegen      wiegt     
-wiegen       präteritum  wiegte         wiegtest     wiegte     wiegten     wiegtet   
-wiegen       k2präsens   wiegte         wiegtest     wiegte     wiegten     wiegtet   
-                                                                                      
-genießen     partizip    genossen                                                     
-genießen     hilfsverb   haben                                                        
-genießen     präsens     genieße        genießt      genießt    genießen    genießt   
-genießen     präteritum  genoss         genossest    genoss     genossen    genosst   
-genießen     k2präsens   genösse        genössest    genösse    genössen    genösset  
-                                                                                      
-giesen       partizip    gegiest                                                      
-giesen       hilfsverb   sein                                                         
-giesen       präsens     giese          giest        giest      giesen      giest     
-giesen       präteritum  gieste         giestest     gieste     giesten     giestet   
-giesen       k2präsens   gieste         giestest     gieste     giesten     giestet   
-                                                                                      
-riechen      partizip    gerochen                                                     
-riechen      hilfsverb   haben                                                        
-riechen      präsens     rieche         riechst      riecht     riechen     riecht    
-riechen      präteritum  roch           rochst       roch       rochen      rocht     
-riechen      k2präsens   röche          röchest      röche      röchen      röchet    
-                                                                                      
-schießen     partizip    geschossen                                                   
-schießen     hilfsverb   haben                                                        
-schießen     präsens     schieße        schießt      schießt    schießen    schießt   
-schießen     präteritum  schoss         schossest    schoss     schossen    schosst   
-schießen     k2präsens   schösse        schössest    schösse    schössen    schösset  
-                                                                                      
-scliesen     partizip    gescliest                                                    
-scliesen     hilfsverb   sein                                                         
-scliesen     präsens     scliese        scliest      scliest    scliesen    scliest   
-scliesen     präteritum  sclieste       scliestest   sclieste   scliesten   scliestet 
-scliesen     k2präsens   sclieste       scliestest   sclieste   scliesten   scliestet 
-                                                                                      
-scließen     partizip    gescließt                                                    
-scließen     hilfsverb   sein                                                         
-scließen     präsens     scließe        scließt      scließt    scließen    scließt   
-scließen     präteritum  scließte       scließtest   scließte   scließten   scließtet 
-scließen     k2präsens   scließte       scließtest   scließte   scließten   scließtet 
-                                                                                      
-verlieren    partizip    verloren                                                     
-verlieren    hilfsverb   haben                                                        
-verlieren    präsens     verliere       verlierst    verliert   verlieren   verliert  
-verlieren    präteritum  verlor         verlorst     verlor     verloren    verlort   
-verlieren    k2präsens   verlöre        verlörest    verlöre    verlören    verlöret  
-                                                                                      
-heben        partizip    gehoben                                                      
-heben        hilfsverb   haben                                                        
-heben        präsens     hebe           hebst        hebt       heben       hebt      
-heben        präteritum  hob            hobst        hob        hoben       hobt      
-heben        k2präsens   höbe           höbest       höbe       höben       höbet     
-                                                                                      
-saufen       partizip    gesoffen                                                     
-saufen       hilfsverb   haben                                                        
-saufen       präsens     saufe          säufst       säuft      saufen      sauft     
-saufen       präteritum  soff           soffst       soff       soffen      sofft     
-saufen       k2präsens   söffe          söffest      söffe      söffen      söffet    
-                                                                                      
-scheiben     partizip    gescheibt                                                    
-scheiben     hilfsverb   haben                                                        
-scheiben     präsens     scheibe        scheibst     scheibt    scheiben    scheibt   
-scheiben     präteritum  scheibte       scheibtest   scheibte   scheibten   scheibtet 
-scheiben     k2präsens   scheibte       scheibtest   scheibte   scheibten   scheibtet 
-                                                                                      
-meiden       partizip    gemieden                                                     
-meiden       hilfsverb   haben                                                        
-meiden       präsens     meide          meidest      meidet     meiden      meidet    
-meiden       präteritum  mied           miedest      mied       mieden      miedet    
-meiden       k2präsens   miede          miedest      miede      mieden      miedet    
-                                                                                      
-steigen      partizip    gestiegen                                                    
-steigen      hilfsverb   sein                                                         
-steigen      präsens     steige         steigst      steigt     steigen     steigt    
-steigen      präteritum  stieg          stiegst      stieg      stiegen     stiegt    
-steigen      k2präsens   stiege         stiegest     stiege     stiegen     stieget   
-                                                                                      
-reiben       partizip    gerieben                                                     
-reiben       hilfsverb   haben                                                        
-reiben       präsens     reibe          reibst       reibt      reiben      reibt     
-reiben       präteritum  rieb           riebst       rieb       rieben      riebt     
-reiben       k2präsens   riebe          riebest      riebe      rieben      riebet    
-                                                                                      
-gleiten      partizip    geglitten                                                    
-gleiten      hilfsverb   sein                                                         
-gleiten      präsens     gleite         gleitest     gleitet    gleiten     gleitet   
-gleiten      präteritum  glitt          glittest     glitt      glitten     glittet   
-gleiten      k2präsens   glitte         glittest     glitte     glitten     glittet   
-                                                                                      
-reiten       partizip    geritten                                                     
-reiten       hilfsverb   haben                                                        
-reiten       präsens     reite          reitest      reitet     reiten      reitet    
-reiten       präteritum  ritt           rittest      ritt       ritten      rittet    
-reiten       k2präsens   ritte          rittest      ritte      ritten      rittet    
-                                                                                      
-reißen       partizip    gerissen                                                     
-reißen       hilfsverb   haben                                                        
-reißen       präsens     reiße          reißt        reißt      reißen      reißt     
-reißen       präteritum  riss           rissest      riss       rissen      risst     
-reißen       k2präsens   risse          rissest      risse      rissen      risset    
-                                                                                      
-scheißen     partizip    geschissen                                                   
-scheißen     hilfsverb   haben                                                        
-scheißen     präsens     scheiße        scheißt      scheißt    scheißen    scheißt   
-scheißen     präteritum  schiss         schissest    schiss     schissen    schisst   
-scheißen     k2präsens   schisse        schissest    schisse    schissen    schisset  
-                                                                                      
-beinnen      partizip    gebeinnt                                                     
-beinnen      hilfsverb   sein                                                         
-beinnen      präsens     beinne         beinnst      beinnt     beinnen     beinnt    
-beinnen      präteritum  beinnte        beinntest    beinnte    beinnten    beinntet  
-beinnen      k2präsens   beinnte        beinntest    beinnte    beinnten    beinntet  
-                                                                                      
-beiginnen    partizip    beigeginnen                                                  
-beiginnen    hilfsverb   haben                                                        
-beiginnen    präsens     ginne          ginnst       ginnt      ginnen      ginnt     
-beiginnen    präteritum  ginn           ginnst       ginn       ginnen      ginnt     
-beiginnen    k2präsens   ginne          ginnest      ginne      ginnen      ginnet    
-                                                                                      
-brechen      partizip    gebrochen                                                    
-brechen      hilfsverb   haben                                                        
-brechen      präsens     breche         brichst      bricht     brechen     brecht    
-brechen      präteritum  brach          brachst      brach      brachen     bracht    
-brechen      k2präsens   bräche         brächest     bräche     brächen     brächet   
-                                                                                      
-werfen       partizip    geworfen                                                     
-werfen       hilfsverb   haben                                                        
-werfen       präsens     werfe          wirfst       wirft      werfen      werft     
-werfen       präteritum  warf           warfst       warf       warfen      warft     
-werfen       k2präsens   würfe          würfest      würfe      würfen      würfet    
-                                                                                      
-gewinnen     partizip    gewonnen                                                     
-gewinnen     hilfsverb   haben                                                        
-gewinnen     präsens     gewinne        gewinnst     gewinnt    gewinnen    gewinnt   
-gewinnen     präteritum  gewann         gewannst     gewann     gewannen    gewannt   
-gewinnen     k2präsens   gewänne        gewännest    gewänne    gewännen    gewännet  
-                                                                                      
-schwimmen    partizip    geschwommen                                                  
-schwimmen    hilfsverb   sein                                                         
-schwimmen    präsens     schwimme       schwimmst    schwimmt   schwimmen   schwimmt  
-schwimmen    präteritum  schwamm        schwammst    schwamm    schwammen   schwammt  
-schwimmen    k2präsens   schwämme       schwämmest   schwämme   schwämmen   schwämmet 
-                                                                                      
-empfehlen    partizip    empfohlen                                                    
-empfehlen    hilfsverb   haben                                                        
-empfehlen    präsens     empfehle       empfiehlst   empfiehlt  empfehlen   empfehlt  
-empfehlen    präteritum  empfahl        empfahlst    empfahl    empfahlen   empfahlt  
-empfehlen    k2präsens   empfähle       empfählest   empfähle   empfählen   empfählet 
-                                                                                      
-binden       partizip    gebunden                                                     
-binden       hilfsverb   haben                                                        
-binden       präsens     binde          bindest      bindet     binden      bindet    
-binden       präteritum  band           bandest      band       banden      bandet    
-binden       k2präsens   bände          bändest      bände      bänden      bändet    
-                                                                                      
-springen     partizip    gesprungen                                                   
-springen     hilfsverb   sein                                                         
-springen     präsens     springe        springst     springt    springen    springt   
-springen     präteritum  sprang         sprangst     sprang     sprangen    sprangt   
-springen     k2präsens   spränge        sprängest    spränge    sprängen    spränget  
-                                                                                      
-singen       partizip    gesungen                                                     
-singen       hilfsverb   haben                                                        
-singen       präsens     singe          singst       singt      singen      singt     
-singen       präteritum  sang           sangst       sang       sangen      sangt     
-singen       k2präsens   sänge          sängest      sänge      sängen      sänget    
-                                                                                      
-sinken       partizip    gesunken                                                     
-sinken       hilfsverb   sein                                                         
-sinken       präsens     sinke          sinkst       sinkt      sinken      sinkt     
-sinken       präteritum  sank           sankst       sank       sanken      sankt     
-sinken       k2präsens   sänke          sänkest      sänke      sänken      sänket    
-                                                                                      
-stinken      partizip    gestunken                                                    
-stinken      hilfsverb   haben                                                        
-stinken      präsens     stinke         stinkst      stinkt     stinken     stinkt    
-stinken      präteritum  stank          stankst      stank      stanken     stankt    
-stinken      k2präsens   stänke         stänkest     stänke     stänken     stänket   
-                                                                                      
-trinken      partizip    getrunken                                                    
-trinken      hilfsverb   haben                                                        
-trinken      präsens     trinke         trinkst      trinkt     trinken     trinkt    
-trinken      präteritum  trank          trankst      trank      tranken     trankt    
-trinken      k2präsens   tränke         tränkest     tränke     tränken     tränket   
-                                                                                      
-nennen       partizip    genannt                                                      
-nennen       hilfsverb   haben                                                        
-nennen       präsens     nenne          nennst       nennt      nennen      nennt     
-nennen       präteritum  nannte         nanntest     nannte     nannten     nanntet   
-nennen       k2präsens   nennte         nenntest     nennte     nennten     nenntet   
-                                                                                      
-rennen       partizip    gerannt                                                      
-rennen       hilfsverb   sein                                                         
-rennen       präsens     renne          rennst       rennt      rennen      rennt     
-rennen       präteritum  rannte         ranntest     rannte     rannten     ranntet   
-rennen       k2präsens   rennte         renntest     rennte     rennten     renntet   
-                                                                                      
-verzeihen    partizip    verziehen                                                    
-verzeihen    hilfsverb   haben                                                        
-verzeihen    präsens     verzeihe       verzeihst    verzeiht   verzeihen   verzeiht  
-verzeihen    präteritum  verzieh        verziehst    verzieh    verziehen   verzieht  
-verzeihen    k2präsens   verziehe       verziehest   verziehe   verziehen   verziehet 
-                                                                                      
-geschehen    partizip    geschehen                                                    
-geschehen    hilfsverb   sein                                                         
-geschehen    präsens     geschehe       geschiehst   geschieht  geschehen   gescheht  
-geschehen    präteritum  geschah        geschahst    geschah    geschahen   geschaht  
-geschehen    k2präsens   geschähe       geschähest   geschähe   geschähen   geschähet 
-                                                                                      
-fliehen      partizip    geflohen                                                     
-fliehen      hilfsverb   sein                                                         
-fliehen      präsens     fliehe         fliehst      flieht     fliehen     flieht    
-fliehen      präteritum  floh           flohst       floh       flohen      floht     
-fliehen      k2präsens   flöhe          flöhest      flöhe      flöhen      flöhet    
-                                                                                      
-gebären      partizip    geboren                                                      
-gebären      hilfsverb   haben                                                        
-gebären      präsens     gebäre         gebärst      gebärt     gebären     gebärt    
-gebären      präteritum  gebar          gebarst      gebar      gebaren     gebart    
-gebären      k2präsens   gebäre         gebärest     gebäre     gebären     gebäret   
-                                                                                      
-aufwachen    partizip    aufgewacht                                                   
-aufwachen    hilfsverb   sein                                                         
-aufwachen    präsens     wache          wachst       wacht      wachen      wacht     
-aufwachen    präteritum  wachte         wachtest     wachte     wachten     wachtet   
-aufwachen    k2präsens   wachte         wachtest     wachte     wachten     wachtet   
-                                                                                      
-einkaufen    partizip    eingekauft                                                   
-einkaufen    hilfsverb   haben                                                        
-einkaufen    präsens     kaufe          kaufst       kauft      kaufen      kauft     
-einkaufen    präteritum  kaufte         kauftest     kaufte     kauften     kauftet   
-einkaufen    k2präsens   kaufte         kauftest     kaufte     kauften     kauftet   
-                                                                                      
-aufstehen    partizip    aufgestanden                                                 
-aufstehen    hilfsverb   sein                                                         
-aufstehen    präsens     stehe          stehst       steht      stehen      steht     
-aufstehen    präteritum  stand          standest     stand      standen     standet   
-aufstehen    k2präsens   stände         ständest     stände     ständen     ständet   
-                                                                                      
-einschlafen  partizip    eingeschlafen                                                
-einschlafen  hilfsverb   sein                                                         
-einschlafen  präsens     schlafe        schläfst     schläft    schlafen    schlaft   
-einschlafen  präteritum  schlief        schliefst    schlief    schliefen   schlieft  
-einschlafen  k2präsens   schliefe       schliefest   schliefe   schliefen   schliefet 
-                                                                                      
-wachen       partizip    gewacht                                                      
-wachen       hilfsverb   haben                                                        
-wachen       präsens     wache          wachst       wacht      wachen      wacht     
-wachen       präteritum  wachte         wachtest     wachte     wachten     wachtet   
-wachen       k2präsens   wachte         wachtest     wachte     wachten     wachtet   
-                                                                                      
-einbrechen   partizip    eingebrochen                                                 
-einbrechen   hilfsverb   sein                                                         
-einbrechen   präsens     breche         brichst      bricht     brechen     brecht    
-einbrechen   präteritum  brach          brachst      brach      brachen     bracht    
-einbrechen   k2präsens   bräche         brächest     bräche     brächen     brächet   
-                                                                                      
-aufsteigen   partizip    aufgestiegen                                                 
-aufsteigen   hilfsverb   sein                                                         
-aufsteigen   präsens     steige         steigst      steigt     steigen     steigt    
-aufsteigen   präteritum  stieg          stiegst      stieg      stiegen     stiegt    
-aufsteigen   k2präsens   stiege         stiegest     stiege     stiegen     stieget   
-                                                                                      
-absteigen    partizip    abgestiegen                                                  
-absteigen    hilfsverb   sein                                                         
-absteigen    präsens     steige         steigst      steigt     steigen     steigt    
-absteigen    präteritum  stieg          stiegst      stieg      stiegen     stiegt    
-absteigen    k2präsens   stiege         stiegest     stiege     stiegen     stieget   
-                                                                                      
-rutschen     partizip    gerutscht                                                    
-rutschen     hilfsverb   sein                                                         
-rutschen     präsens     rutsche        rutschst     rutscht    rutschen    rutscht   
-rutschen     präteritum  rutschte       rutschtest   rutschte   rutschten   rutschtet 
-rutschen     k2präsens   rutschte       rutschtest   rutschte   rutschten   rutschtet 
-                                                                                      
-aufwachsen   partizip    aufgewachsen                                                 
-aufwachsen   hilfsverb   sein                                                         
-aufwachsen   präsens     wachse         wächst       wächst     wachsen     wachst    
-aufwachsen   präteritum  wuchs          wuchsest     wuchs      wuchsen     wuchst    
-aufwachsen   k2präsens   wüchse         wüchsest     wüchse     wüchsen     wüchset   
-                                                                                      
-aufwaschen   partizip    aufgewaschen                                                 
-aufwaschen   hilfsverb   haben                                                        
-aufwaschen   präsens     wasche         wäschst      wäscht     waschen     wascht    
-aufwaschen   präteritum  wusch          wuschst      wusch      wuschen     wuscht    
-aufwaschen   k2präsens   wüsche         wüschest     wüsche     wüschen     wüschet   
-                                                                                      
+haben          partizip    gehabt                                                                       
+haben          hilfsverb   haben                                                                        
+haben          präsens     habe           hast             hat            haben           habt          
+haben          präteritum  hatte          hattest          hatte          hatten          hattet        
+haben          k2präsens   hätte          hättest          hätte          hätten          hättet        
+                                                                                                        
+sein           partizip    gewesen                                                                      
+sein           hilfsverb   sein                                                                         
+sein           präsens     bin            bist             ist            sind            seid          
+sein           präteritum  war            warst            war            waren           wart          
+sein           k2präsens   wäre           wärest           wäre           wären           wäret         
+                                                                                                        
+werden         partizip    geworden                                                                     
+werden         hilfsverb   sein                                                                         
+werden         präsens     werde          wirst            wird           werden          werdet        
+werden         präteritum  wurde          wurdest          wurde          wurden          wurdet        
+werden         k2präsens   würde          würdest          würde          würden          würdet        
+                                                                                                        
+können         partizip    gekonnt                                                                      
+können         hilfsverb   haben                                                                        
+können         präsens     kann           kannst           kann           können          könnt         
+können         präteritum  konnte         konntest         konnte         konnten         konntet       
+können         k2präsens   könnte         könntest         könnte         könnten         könntet       
+                                                                                                        
+müssen         partizip    gemusst                                                                      
+müssen         hilfsverb   haben                                                                        
+müssen         präsens     muss           musst            muss           müssen          müsst         
+müssen         präteritum  musste         musstest         musste         mussten         musstet       
+müssen         k2präsens   müsste         müsstest         müsste         müssten         müsstet       
+                                                                                                        
+wollen         partizip    gewollt                                                                      
+wollen         hilfsverb   haben                                                                        
+wollen         präsens     will           willst           will           wollen          wollt         
+wollen         präteritum  wollte         wolltest         wollte         wollten         wolltet       
+wollen         k2präsens   wollte         wolltest         wollte         wollten         wolltet       
+                                                                                                        
+sollen         partizip    gesollt                                                                      
+sollen         hilfsverb   haben                                                                        
+sollen         präsens     soll           sollst           soll           sollen          sollt         
+sollen         präteritum  sollte         solltest         sollte         sollten         solltet       
+sollen         k2präsens   sollte         solltest         sollte         sollten         solltet       
+                                                                                                        
+dürfen         partizip    gedurft                                                                      
+dürfen         hilfsverb   haben                                                                        
+dürfen         präsens     darf           darfst           darf           dürfen          dürft         
+dürfen         präteritum  durfte         durftest         durfte         durften         durftet       
+dürfen         k2präsens   dürfte         dürftest         dürfte         dürften         dürftet       
+                                                                                                        
+mögen          partizip    gemocht                                                                      
+mögen          hilfsverb   haben                                                                        
+mögen          präsens     mag            magst            mag            mögen           mögt          
+mögen          präteritum  mochte         mochtest         mochte         mochten         mochtet       
+mögen          k2präsens   möchte         möchtest         möchte         möchten         möchtet       
+                                                                                                        
+wissen         partizip    gewusst                                                                      
+wissen         hilfsverb   haben                                                                        
+wissen         präsens     weiß           weißt            weiß           wissen          wisst         
+wissen         präteritum  wusste         wusstest         wusste         wussten         wusstet       
+wissen         k2präsens   wüsste         wüsstest         wüsste         wüssten         wüsstet       
+                                                                                                        
+machen         partizip    gemacht                                                                      
+machen         hilfsverb   haben                                                                        
+machen         präsens     mache          machst           macht          machen          macht         
+machen         präteritum  machte         machtest         machte         machten         machtet       
+machen         k2präsens   machte         machtest         machte         machten         machtet       
+                                                                                                        
+sagen          partizip    gesagt                                                                       
+sagen          hilfsverb   haben                                                                        
+sagen          präsens     sage           sagst            sagt           sagen           sagt          
+sagen          präteritum  sagte          sagtest          sagte          sagten          sagtet        
+sagen          k2präsens   sagte          sagtest          sagte          sagten          sagtet        
+                                                                                                        
+spielen        partizip    gespielt                                                                     
+spielen        hilfsverb   haben                                                                        
+spielen        präsens     spiele         spielst          spielt         spielen         spielt        
+spielen        präteritum  spielte        spieltest        spielte        spielten        spieltet      
+spielen        k2präsens   spielte        spieltest        spielte        spielten        spieltet      
+                                                                                                        
+warten         partizip    gewartet                                                                     
+warten         hilfsverb   haben                                                                        
+warten         präsens     warte          wartest          wartet         warten          wartet        
+warten         präteritum  wartete        wartetest        wartete        warteten        wartetet      
+warten         k2präsens   wartete        wartetest        wartete        warteten        wartetet      
+                                                                                                        
+testen         partizip    getestet                                                                     
+testen         hilfsverb   haben                                                                        
+testen         präsens     teste          testest          testet         testen          testet        
+testen         präteritum  testete        testetest        testete        testeten        testetet      
+testen         k2präsens   testete        testetest        testete        testeten        testetet      
+                                                                                                        
+arbeiten       partizip    gearbeitet                                                                   
+arbeiten       hilfsverb   haben                                                                        
+arbeiten       präsens     arbeite        arbeitest        arbeitet       arbeiten        arbeitet      
+arbeiten       präteritum  arbeitete      arbeitetest      arbeitete      arbeiteten      arbeitetet    
+arbeiten       k2präsens   arbeitete      arbeitetest      arbeitete      arbeiteten      arbeitetet    
+                                                                                                        
+heißen         partizip    geheißen                                                                     
+heißen         hilfsverb   haben                                                                        
+heißen         präsens     heiße          heißt            heißt          heißen          heißt         
+heißen         präteritum  hieß           hießest          hieß           hießen          hießt         
+heißen         k2präsens   hieße          hießest          hieße          hießen          hießet        
+                                                                                                        
+bedeuten       partizip    bedeutet                                                                     
+bedeuten       hilfsverb   haben                                                                        
+bedeuten       präsens     bedeute        bedeutest        bedeutet       bedeuten        bedeutet      
+bedeuten       präteritum  bedeutete      bedeutetest      bedeutete      bedeuteten      bedeutetet    
+bedeuten       k2präsens   bedeutete      bedeutetest      bedeutete      bedeuteten      bedeutetet    
+                                                                                                        
+fragen         partizip    gefragt                                                                      
+fragen         hilfsverb   haben                                                                        
+fragen         präsens     frage          fragst           fragt          fragen          fragt         
+fragen         präteritum  fragte         fragtest         fragte         fragten         fragtet       
+fragen         k2präsens   fragte         fragtest         fragte         fragten         fragtet       
+                                                                                                        
+glauben        partizip    geglaubt                                                                     
+glauben        hilfsverb   haben                                                                        
+glauben        präsens     glaube         glaubst          glaubt         glauben         glaubt        
+glauben        präteritum  glaubte        glaubtest        glaubte        glaubten        glaubtet      
+glauben        k2präsens   glaubte        glaubtest        glaubte        glaubten        glaubtet      
+                                                                                                        
+tun            partizip    getan                                                                        
+tun            hilfsverb   haben                                                                        
+tun            präsens     tue            tust             tut            tun             tut           
+tun            präteritum  tat            tatest           tat            taten           tatet         
+tun            k2präsens   täte           tätest           täte           täten           tätet         
+                                                                                                        
+leben          partizip    gelebt                                                                       
+leben          hilfsverb   haben                                                                        
+leben          präsens     lebe           lebst            lebt           leben           lebt          
+leben          präteritum  lebte          lebtest          lebte          lebten          lebtet        
+leben          k2präsens   lebte          lebtest          lebte          lebten          lebtet        
+                                                                                                        
+lernen         partizip    gelernt                                                                      
+lernen         hilfsverb   haben                                                                        
+lernen         präsens     lerne          lernst           lernt          lernen          lernt         
+lernen         präteritum  lernte         lerntest         lernte         lernten         lerntet       
+lernen         k2präsens   lernte         lerntest         lernte         lernten         lerntet       
+                                                                                                        
+reden          partizip    geredet                                                                      
+reden          hilfsverb   haben                                                                        
+reden          präsens     rede           redest           redet          reden           redet         
+reden          präteritum  redete         redetest         redete         redeten         redetet       
+reden          k2präsens   redete         redetest         redete         redeten         redetet       
+                                                                                                        
+gehören        partizip    gehört                                                                       
+gehören        hilfsverb   haben                                                                        
+gehören        präsens     gehöre         gehörst          gehört         gehören         gehört        
+gehören        präteritum  gehörte        gehörtest        gehörte        gehörten        gehörtet      
+gehören        k2präsens   gehörte        gehörtest        gehörte        gehörten        gehörtet      
+                                                                                                        
+kaufen         partizip    gekauft                                                                      
+kaufen         hilfsverb   haben                                                                        
+kaufen         präsens     kaufe          kaufst           kauft          kaufen          kauft         
+kaufen         präteritum  kaufte         kauftest         kaufte         kauften         kauftet       
+kaufen         k2präsens   kaufte         kauftest         kaufte         kauften         kauftet       
+                                                                                                        
+schmecken      partizip    geschmeckt                                                                   
+schmecken      hilfsverb   haben                                                                        
+schmecken      präsens     schmecke       schmeckst        schmeckt       schmecken       schmeckt      
+schmecken      präteritum  schmeckte      schmecktest      schmeckte      schmeckten      schmecktet    
+schmecken      k2präsens   schmeckte      schmecktest      schmeckte      schmeckten      schmecktet    
+                                                                                                        
+wohnen         partizip    gewohnt                                                                      
+wohnen         hilfsverb   haben                                                                        
+wohnen         präsens     wohne          wohnst           wohnt          wohnen          wohnt         
+wohnen         präteritum  wohnte         wohntest         wohnte         wohnten         wohntet       
+wohnen         k2präsens   wohnte         wohntest         wohnte         wohnten         wohntet       
+                                                                                                        
+stehen         partizip    gestanden                                                                    
+stehen         hilfsverb   haben                                                                        
+stehen         präsens     stehe          stehst           steht          stehen          steht         
+stehen         präteritum  stand          standest         stand          standen         standet       
+stehen         k2präsens   stände         ständest         stände         ständen         ständet       
+                                                                                                        
+liegen         partizip    gelegen                                                                      
+liegen         hilfsverb   haben                                                                        
+liegen         präsens     liege          liegst           liegt          liegen          liegt         
+liegen         präteritum  lag            lagst            lag            lagen           lagt          
+liegen         k2präsens   läge           lägest           läge           lägen           läget         
+                                                                                                        
+denken         partizip    gedacht                                                                      
+denken         hilfsverb   haben                                                                        
+denken         präsens     denke          denkst           denkt          denken          denkt         
+denken         präteritum  dachte         dachtest         dachte         dachten         dachtet       
+denken         k2präsens   dächte         dächtest         dächte         dächten         dächtet       
+                                                                                                        
+bringen        partizip    gebracht                                                                     
+bringen        hilfsverb   haben                                                                        
+bringen        präsens     bringe         bringst          bringt         bringen         bringt        
+bringen        präteritum  brachte        brachtest        brachte        brachten        brachtet      
+bringen        k2präsens   brächte        brächtest        brächte        brächten        brächtet      
+                                                                                                        
+nehmen         partizip    genommen                                                                     
+nehmen         hilfsverb   haben                                                                        
+nehmen         präsens     nehme          nimmst           nimmt          nehmen          nehmt         
+nehmen         präteritum  nahm           nahmst           nahm           nahmen          nahmt         
+nehmen         k2präsens   nähme          nähmest          nähme          nähmen          nähmet        
+                                                                                                        
+finden         partizip    gefunden                                                                     
+finden         hilfsverb   haben                                                                        
+finden         präsens     finde          findest          findet         finden          findet        
+finden         präteritum  fand           fandest          fand           fanden          fandet        
+finden         k2präsens   fände          fändest          fände          fänden          fändet        
+                                                                                                        
+lassen         partizip    gelassen                                                                     
+lassen         hilfsverb   haben                                                                        
+lassen         präsens     lasse          lässt            lässt          lassen          lasst         
+lassen         präteritum  ließ           ließest          ließ           ließen          ließt         
+lassen         k2präsens   ließe          ließest          ließe          ließen          ließet        
+                                                                                                        
+geben          partizip    gegeben                                                                      
+geben          hilfsverb   haben                                                                        
+geben          präsens     gebe           gibst            gibt           geben           gebt          
+geben          präteritum  gab            gabst            gab            gaben           gabt          
+geben          k2präsens   gäbe           gäbest           gäbe           gäben           gäbet         
+                                                                                                        
+sehen          partizip    gesehen                                                                      
+sehen          hilfsverb   haben                                                                        
+sehen          präsens     sehe           siehst           sieht          sehen           seht          
+sehen          präteritum  sah            sahst            sah            sahen           saht          
+sehen          k2präsens   sähe           sähest           sähe           sähen           sähet         
+                                                                                                        
+gehen          partizip    gegangen                                                                     
+gehen          hilfsverb   sein                                                                         
+gehen          präsens     gehe           gehst            geht           gehen           geht          
+gehen          präteritum  ging           gingst           ging           gingen          gingt         
+gehen          k2präsens   ginge          gingest          ginge          gingen          ginget        
+                                                                                                        
+essen          partizip    gegessen                                                                     
+essen          hilfsverb   haben                                                                        
+essen          präsens     esse           isst             isst           essen           esst          
+essen          präteritum  aß             aßest            aß             aßen            aßt           
+essen          k2präsens   äße            äßest            äße            äßen            äßet          
+                                                                                                        
+bleiben        partizip    geblieben                                                                    
+bleiben        hilfsverb   sein                                                                         
+bleiben        präsens     bleibe         bleibst          bleibt         bleiben         bleibt        
+bleiben        präteritum  blieb          bliebst          blieb          blieben         bliebt        
+bleiben        k2präsens   bliebe         bliebest         bliebe         blieben         bliebet       
+                                                                                                        
+fahren         partizip    gefahren                                                                     
+fahren         hilfsverb   sein                                                                         
+fahren         präsens     fahre          fährst           fährt          fahren          fahrt         
+fahren         präteritum  fuhr           fuhrst           fuhr           fuhren          fuhrt         
+fahren         k2präsens   führe          führest          führe          führen          führet        
+                                                                                                        
+sprechen       partizip    gesprochen                                                                   
+sprechen       hilfsverb   haben                                                                        
+sprechen       präsens     spreche        sprichst         spricht        sprechen        sprecht       
+sprechen       präteritum  sprach         sprachst         sprach         sprachen        spracht       
+sprechen       k2präsens   spräche        sprächest        spräche        sprächen        sprächet      
+                                                                                                        
+lesen          partizip    gelesen                                                                      
+lesen          hilfsverb   haben                                                                        
+lesen          präsens     lese           liest            liest          lesen           lest          
+lesen          präteritum  las            lasest           las            lasen           last          
+lesen          k2präsens   läse           läsest           läse           läsen           läset         
+                                                                                                        
+kommen         partizip    gekommen                                                                     
+kommen         hilfsverb   sein                                                                         
+kommen         präsens     komme          kommst           kommt          kommen          kommt         
+kommen         präteritum  kam            kamst            kam            kamen           kamt          
+kommen         k2präsens   käme           kämest           käme           kämen           kämet         
+                                                                                                        
+brauchen       partizip    gebraucht                                                                    
+brauchen       hilfsverb   haben                                                                        
+brauchen       präsens     brauche        brauchst         braucht        brauchen        braucht       
+brauchen       präteritum  brauchte       brauchtest       brauchte       brauchten       brauchtet     
+brauchen       k2präsens   brauchte       brauchtest       brauchte       brauchten       brauchtet     
+                                                                                                        
+setzen         partizip    gesetzt                                                                      
+setzen         hilfsverb   haben                                                                        
+setzen         präsens     setze          setzt            setzt          setzen          setzt         
+setzen         präteritum  setzte         setztest         setzte         setzten         setztet       
+setzen         k2präsens   setzte         setztest         setzte         setzten         setztet       
+                                                                                                        
+laufen         partizip    gelaufen                                                                     
+laufen         hilfsverb   sein                                                                         
+laufen         präsens     laufe          läufst           läuft          laufen          lauft         
+laufen         präteritum  lief           liefst           lief           liefen          lieft         
+laufen         k2präsens   liefe          liefest          liefe          liefen          liefet        
+                                                                                                        
+schreiben      partizip    geschrieben                                                                  
+schreiben      hilfsverb   haben                                                                        
+schreiben      präsens     schreibe       schreibst        schreibt       schreiben       schreibt      
+schreiben      präteritum  schrieb        schriebst        schrieb        schrieben       schriebt      
+schreiben      k2präsens   schriebe       schriebest       schriebe       schrieben       schriebet     
+                                                                                                        
+folgen         partizip    gefolgt                                                                      
+folgen         hilfsverb   sein                                                                         
+folgen         präsens     folge          folgst           folgt          folgen          folgt         
+folgen         präteritum  folgte         folgtest         folgte         folgten         folgtet       
+folgen         k2präsens   folgte         folgtest         folgte         folgten         folgtet       
+                                                                                                        
+suchen         partizip    gesucht                                                                      
+suchen         hilfsverb   haben                                                                        
+suchen         präsens     suche          suchst           sucht          suchen          sucht         
+suchen         präteritum  suchte         suchtest         suchte         suchten         suchtet       
+suchen         k2präsens   suchte         suchtest         suchte         suchten         suchtet       
+                                                                                                        
+helfen         partizip    geholfen                                                                     
+helfen         hilfsverb   haben                                                                        
+helfen         präsens     helfe          hilfst           hilft          helfen          helft         
+helfen         präteritum  half           halfst           half           halfen          halft         
+helfen         k2präsens   hälfe          hälfest          hälfe          hälfen          hälfet        
+                                                                                                        
+schließen      partizip    geschlossen                                                                  
+schließen      hilfsverb   haben                                                                        
+schließen      präsens     schließe       schließt         schließt       schließen       schließt      
+schließen      präteritum  schloss        schlossest       schloss        schlossen       schlosst      
+schließen      k2präsens   schlösse       schlössest       schlösse       schlössen       schlösset     
+                                                                                                        
+treffen        partizip    getroffen                                                                    
+treffen        hilfsverb   haben                                                                        
+treffen        präsens     treffe         triffst          trifft         treffen         trefft        
+treffen        präteritum  traf           trafst           traf           trafen          traft         
+treffen        k2präsens   träfe          träfest          träfe          träfen          träfet        
+                                                                                                        
+versuchen      partizip    versucht                                                                     
+versuchen      hilfsverb   haben                                                                        
+versuchen      präsens     versuche       versuchst        versucht       versuchen       versucht      
+versuchen      präteritum  versuchte      versuchtest      versuchte      versuchten      versuchtet    
+versuchen      k2präsens   versuchte      versuchtest      versuchte      versuchten      versuchtet    
+                                                                                                        
+bauen          partizip    gebaut                                                                       
+bauen          hilfsverb   haben                                                                        
+bauen          präsens     baue           baust            baut           bauen           baut          
+bauen          präteritum  baute          bautest          baute          bauten          bautet        
+bauen          k2präsens   baute          bautest          baute          bauten          bautet        
+                                                                                                        
+beißen         partizip    gebissen                                                                     
+beißen         hilfsverb   haben                                                                        
+beißen         präsens     beiße          beißt            beißt          beißen          beißt         
+beißen         präteritum  biss           bissest          biss           bissen          bisst         
+beißen         k2präsens   bisse          bissest          bisse          bissen          bisset        
+                                                                                                        
+greifen        partizip    gegriffen                                                                    
+greifen        hilfsverb   haben                                                                        
+greifen        präsens     greife         greifst          greift         greifen         greift        
+greifen        präteritum  griff          griffst          griff          griffen         grifft        
+greifen        k2präsens   griffe         griffest         griffe         griffen         griffet       
+                                                                                                        
+leihen         partizip    geliehen                                                                     
+leihen         hilfsverb   haben                                                                        
+leihen         präsens     leihe          leihst           leiht          leihen          leiht         
+leihen         präteritum  lieh           liehst           lieh           liehen          lieht         
+leihen         k2präsens   liehe          liehest          liehe          liehen          liehet        
+                                                                                                        
+pfeifen        partizip    gepfiffen                                                                    
+pfeifen        hilfsverb   haben                                                                        
+pfeifen        präsens     pfeife         pfeifst          pfeift         pfeifen         pfeift        
+pfeifen        präteritum  pfiff          pfiffst          pfiff          pfiffen         pfifft        
+pfeifen        k2präsens   pfiffe         pfiffest         pfiffe         pfiffen         pfiffet       
+                                                                                                        
+scheinen       partizip    geschienen                                                                   
+scheinen       hilfsverb   haben                                                                        
+scheinen       präsens     scheine        scheinst         scheint        scheinen        scheint       
+scheinen       präteritum  schien         schienst         schien         schienen        schient       
+scheinen       k2präsens   schiene        schienest        schiene        schienen        schienet      
+                                                                                                        
+schreien       partizip    geschrien                                                                    
+schreien       hilfsverb   haben                                                                        
+schreien       präsens     schreie        schreist         schreit        schreien        schreit       
+schreien       präteritum  schrie         schriest         schrie         schrien         schriet       
+schreien       k2präsens   schriee        schrieest        schriee        schrien         schrieet      
+                                                                                                        
+bieten         partizip    geboten                                                                      
+bieten         hilfsverb   haben                                                                        
+bieten         präsens     biete          bietest          bietet         bieten          bietet        
+bieten         präteritum  bot            botest           bot            boten           botet         
+bieten         k2präsens   böte           bötest           böte           böten           bötet         
+                                                                                                        
+schieben       partizip    geschoben                                                                    
+schieben       hilfsverb   haben                                                                        
+schieben       präsens     schiebe        schiebst         schiebt        schieben        schiebt       
+schieben       präteritum  schob          schobst          schob          schoben         schobt        
+schieben       k2präsens   schöbe         schöbest         schöbe         schöben         schöbet       
+                                                                                                        
+ziehen         partizip    gezogen                                                                      
+ziehen         hilfsverb   haben                                                                        
+ziehen         präsens     ziehe          ziehst           zieht          ziehen          zieht         
+ziehen         präteritum  zog            zogst            zog            zogen           zogt          
+ziehen         k2präsens   zöge           zögest           zöge           zögen           zöget         
+                                                                                                        
+gelingen       partizip    gelungen                                                                     
+gelingen       hilfsverb   sein                                                                         
+gelingen       präsens     gelinge        gelingst         gelingt        gelingen        gelingt       
+gelingen       präteritum  gelang         gelangst         gelang         gelangen        gelangt       
+gelingen       k2präsens   gelänge        gelängest        gelänge        gelängen        gelänget      
+                                                                                                        
+beginnen       partizip    begonnen                                                                     
+beginnen       hilfsverb   haben                                                                        
+beginnen       präsens     beginne        beginnst         beginnt        beginnen        beginnt       
+beginnen       präteritum  begann         begannst         begann         begannen        begannt       
+beginnen       k2präsens   begänne        begännest        begänne        begännen        begännet      
+                                                                                                        
+brennen        partizip    gebrannt                                                                     
+brennen        hilfsverb   haben                                                                        
+brennen        präsens     brenne         brennst          brennt         brennen         brennt        
+brennen        präteritum  brannte        branntest        brannte        brannten        branntet      
+brennen        k2präsens   brennte        brenntest        brennte        brennten        brenntet      
+                                                                                                        
+hängen         partizip    gehangen                                                                     
+hängen         hilfsverb   haben                                                                        
+hängen         präsens     hänge          hängst           hängt          hängen          hängt         
+hängen         präteritum  hing           hingst           hing           hingen          hingt         
+hängen         k2präsens   hinge          hingest          hinge          hingen          hinget        
+                                                                                                        
+gießen         partizip    gegossen                                                                     
+gießen         hilfsverb   haben                                                                        
+gießen         präsens     gieße          gießt            gießt          gießen          gießt         
+gießen         präteritum  goss           gossest          goss           gossen          gosst         
+gießen         k2präsens   gösse          gössest          gösse          gössen          gösset        
+                                                                                                        
+kennen         partizip    gekannt                                                                      
+kennen         hilfsverb   haben                                                                        
+kennen         präsens     kenne          kennst           kennt          kennen          kennt         
+kennen         präteritum  kannte         kanntest         kannte         kannten         kanntet       
+kennen         k2präsens   kennte         kenntest         kennte         kennten         kenntet       
+                                                                                                        
+leiden         partizip    gelitten                                                                     
+leiden         hilfsverb   haben                                                                        
+leiden         präsens     leide          leidest          leidet         leiden          leidet        
+leiden         präteritum  litt           littest          litt           litten          littet        
+leiden         k2präsens   litte          littest          litte          litten          littet        
+                                                                                                        
+lügen          partizip    gelogen                                                                      
+lügen          hilfsverb   haben                                                                        
+lügen          präsens     lüge           lügst            lügt           lügen           lügt          
+lügen          präteritum  log            logst            log            logen           logt          
+lügen          k2präsens   löge           lögest           löge           lögen           löget         
+                                                                                                        
+halten         partizip    gehalten                                                                     
+halten         hilfsverb   haben                                                                        
+halten         präsens     halte          hältst           hält           halten          haltet        
+halten         präteritum  hielt          hieltest         hielt          hielten         hieltet       
+halten         k2präsens   hielte         hieltest         hielte         hielten         hieltet       
+                                                                                                        
+beraten        partizip    beraten                                                                      
+beraten        hilfsverb   haben                                                                        
+beraten        präsens     berate         berätst          berät          beraten         beratet       
+beraten        präteritum  beriet         berietest        beriet         berieten        berietet      
+beraten        k2präsens   beriete        berietest        beriete        berieten        berietet      
+                                                                                                        
+schlafen       partizip    geschlafen                                                                   
+schlafen       hilfsverb   haben                                                                        
+schlafen       präsens     schlafe        schläfst         schläft        schlafen        schlaft       
+schlafen       präteritum  schlief        schliefst        schlief        schliefen       schlieft      
+schlafen       k2präsens   schliefe       schliefest       schliefe       schliefen       schliefet     
+                                                                                                        
+schlagen       partizip    geschlagen                                                                   
+schlagen       hilfsverb   haben                                                                        
+schlagen       präsens     schlage        schlägst         schlägt        schlagen        schlagt       
+schlagen       präteritum  schlug         schlugst         schlug         schlugen        schlugt       
+schlagen       k2präsens   schlüge        schlügest        schlüge        schlügen        schlüget      
+                                                                                                        
+schmelzen      partizip    geschmolzen                                                                  
+schmelzen      hilfsverb   sein                                                                         
+schmelzen      präsens     schmelze       schmilzt         schmilzt       schmelzen       schmelzt      
+schmelzen      präteritum  schmolz        schmolzest       schmolz        schmolzen       schmolzt      
+schmelzen      k2präsens   schmölze       schmölzest       schmölze       schmölzen       schmölzet     
+                                                                                                        
+stechen        partizip    gestochen                                                                    
+stechen        hilfsverb   haben                                                                        
+stechen        präsens     steche         stichst          sticht         stechen         stecht        
+stechen        präteritum  stach          stachst          stach          stachen         stacht        
+stechen        k2präsens   stäche         stächest         stäche         stächen         stächet       
+                                                                                                        
+stehlen        partizip    gestohlen                                                                    
+stehlen        hilfsverb   haben                                                                        
+stehlen        präsens     stehle         stiehlst         stiehlt        stehlen         stehlt        
+stehlen        präteritum  stahl          stahlst          stahl          stahlen         stahlt        
+stehlen        k2präsens   stähle         stählest         stähle         stählen         stählet       
+                                                                                                        
+sterben        partizip    gestorben                                                                    
+sterben        hilfsverb   sein                                                                         
+sterben        präsens     sterbe         stirbst          stirbt         sterben         sterbt        
+sterben        präteritum  starb          starbst          starb          starben         starbt        
+sterben        k2präsens   stärbe         stärbest         stärbe         stärben         stärbet       
+                                                                                                        
+tagen          partizip    getagt                                                                       
+tagen          hilfsverb   haben                                                                        
+tagen          präsens     tage           tagst            tagt           tagen           tagt          
+tagen          präteritum  tagte          tagtest          tagte          tagten          tagtet        
+tagen          k2präsens   tagte          tagtest          tagte          tagten          tagtet        
+                                                                                                        
+treten         partizip    getreten                                                                     
+treten         hilfsverb   haben                                                                        
+treten         präsens     trete          trittst          tritt          treten          tretet        
+treten         präteritum  trat           tratest          trat           traten          tratet        
+treten         k2präsens   träte          trätest          träte          träten          trätet        
+                                                                                                        
+hören          partizip    gehört                                                                       
+hören          hilfsverb   haben                                                                        
+hören          präsens     höre           hörst            hört           hören           hört          
+hören          präteritum  hörte          hörtest          hörte          hörten          hörtet        
+hören          k2präsens   hörte          hörtest          hörte          hörten          hörtet        
+                                                                                                        
+deuten         partizip    gedeutet                                                                     
+deuten         hilfsverb   haben                                                                        
+deuten         präsens     deute          deutest          deutet         deuten          deutet        
+deuten         präteritum  deutete        deutetest        deutete        deuteten        deutetet      
+deuten         k2präsens   deutete        deutetest        deutete        deuteten        deutetet      
+                                                                                                        
+braten         partizip    gebraten                                                                     
+braten         hilfsverb   haben                                                                        
+braten         präsens     brate          brätst           brät           braten          bratet        
+braten         präteritum  briet          brietest         briet          brieten         brietet       
+braten         k2präsens   briete         brietest         briete         brieten         brietet       
+                                                                                                        
+fallen         partizip    gefallen                                                                     
+fallen         hilfsverb   sein                                                                         
+fallen         präsens     falle          fällst           fällt          fallen          fallt         
+fallen         präteritum  fiel           fielst           fiel           fielen          fielt         
+fallen         k2präsens   fiele          fielest          fiele          fielen          fielet        
+                                                                                                        
+fangen         partizip    gefangen                                                                     
+fangen         hilfsverb   haben                                                                        
+fangen         präsens     fange          fängst           fängt          fangen          fangt         
+fangen         präteritum  fing           fingst           fing           fingen          fingt         
+fangen         k2präsens   finge          fingest          finge          fingen          finget        
+                                                                                                        
+raten          partizip    geraten                                                                      
+raten          hilfsverb   haben                                                                        
+raten          präsens     rate           rätst            rät            raten           ratet         
+raten          präteritum  riet           rietest          riet           rieten          rietet        
+raten          k2präsens   riete          rietest          riete          rieten          rietet        
+                                                                                                        
+graben         partizip    gegraben                                                                     
+graben         hilfsverb   haben                                                                        
+graben         präsens     grabe          gräbst           gräbt          graben          grabt         
+graben         präteritum  grub           grubst           grub           gruben          grubt         
+graben         k2präsens   grübe          grübest          grübe          grüben          grübet        
+                                                                                                        
+waschen        partizip    gewaschen                                                                    
+waschen        hilfsverb   haben                                                                        
+waschen        präsens     wasche         wäschst          wäscht         waschen         wascht        
+waschen        präteritum  wusch          wuschst          wusch          wuschen         wuscht        
+waschen        k2präsens   wüsche         wüschest         wüsche         wüschen         wüschet       
+                                                                                                        
+wachsen        partizip    gewachsen                                                                    
+wachsen        hilfsverb   sein                                                                         
+wachsen        präsens     wachse         wächst           wächst         wachsen         wachst        
+wachsen        präteritum  wuchs          wuchsest         wuchs          wuchsen         wuchst        
+wachsen        k2präsens   wüchse         wüchsest         wüchse         wüchsen         wüchset       
+                                                                                                        
+tragen         partizip    getragen                                                                     
+tragen         hilfsverb   haben                                                                        
+tragen         präsens     trage          trägst           trägt          tragen          tragt         
+tragen         präteritum  trug           trugst           trug           trugen          trugt         
+tragen         k2präsens   trüge          trügest          trüge          trügen          trüget        
+                                                                                                        
+laden          partizip    geladen                                                                      
+laden          hilfsverb   haben                                                                        
+laden          präsens     lade           lädst            lädt           laden           ladet         
+laden          präteritum  lud            ludest           lud            luden           ludet         
+laden          k2präsens   lüde           lüdest           lüde           lüden           lüdet         
+                                                                                                        
+bitten         partizip    gebeten                                                                      
+bitten         hilfsverb   haben                                                                        
+bitten         präsens     bitte          bittest          bittet         bitten          bittet        
+bitten         präteritum  bat            batest           bat            baten           batet         
+bitten         k2präsens   bäte           bätest           bäte           bäten           bätet         
+                                                                                                        
+sitzen         partizip    gesessen                                                                     
+sitzen         hilfsverb   haben                                                                        
+sitzen         präsens     sitze          sitzt            sitzt          sitzen          sitzt         
+sitzen         präteritum  saß            saßest           saß            saßen           saßt          
+sitzen         k2präsens   säße           säßest           säße           säßen           säßet         
+                                                                                                        
+fliegen        partizip    geflogen                                                                     
+fliegen        hilfsverb   sein                                                                         
+fliegen        präsens     fliege         fliegst          fliegt         fliegen         fliegt        
+fliegen        präteritum  flog           flogst           flog           flogen          flogt         
+fliegen        k2präsens   flöge          flögest          flöge          flögen          flöget        
+                                                                                                        
+fließen        partizip    geflossen                                                                    
+fließen        hilfsverb   sein                                                                         
+fließen        präsens     fließe         fließt           fließt         fließen         fließt        
+fließen        präteritum  floss          flossest         floss          flossen         flosst        
+fließen        k2präsens   flösse         flössest         flösse         flössen         flösset       
+                                                                                                        
+biegen         partizip    gebogen                                                                      
+biegen         hilfsverb   haben                                                                        
+biegen         präsens     biege          biegst           biegt          biegen          biegt         
+biegen         präteritum  bog            bogst            bog            bogen           bogt          
+biegen         k2präsens   böge           bögest           böge           bögen           böget         
+                                                                                                        
+wiegen         partizip    gewiegt                                                                      
+wiegen         hilfsverb   haben                                                                        
+wiegen         präsens     wiege          wiegst           wiegt          wiegen          wiegt         
+wiegen         präteritum  wiegte         wiegtest         wiegte         wiegten         wiegtet       
+wiegen         k2präsens   wiegte         wiegtest         wiegte         wiegten         wiegtet       
+                                                                                                        
+genießen       partizip    genossen                                                                     
+genießen       hilfsverb   haben                                                                        
+genießen       präsens     genieße        genießt          genießt        genießen        genießt       
+genießen       präteritum  genoss         genossest        genoss         genossen        genosst       
+genießen       k2präsens   genösse        genössest        genösse        genössen        genösset      
+                                                                                                        
+riechen        partizip    gerochen                                                                     
+riechen        hilfsverb   haben                                                                        
+riechen        präsens     rieche         riechst          riecht         riechen         riecht        
+riechen        präteritum  roch           rochst           roch           rochen          rocht         
+riechen        k2präsens   röche          röchest          röche          röchen          röchet        
+                                                                                                        
+schießen       partizip    geschossen                                                                   
+schießen       hilfsverb   haben                                                                        
+schießen       präsens     schieße        schießt          schießt        schießen        schießt       
+schießen       präteritum  schoss         schossest        schoss         schossen        schosst       
+schießen       k2präsens   schösse        schössest        schösse        schössen        schösset      
+                                                                                                        
+verlieren      partizip    verloren                                                                     
+verlieren      hilfsverb   haben                                                                        
+verlieren      präsens     verliere       verlierst        verliert       verlieren       verliert      
+verlieren      präteritum  verlor         verlorst         verlor         verloren        verlort       
+verlieren      k2präsens   verlöre        verlörest        verlöre        verlören        verlöret      
+                                                                                                        
+heben          partizip    gehoben                                                                      
+heben          hilfsverb   haben                                                                        
+heben          präsens     hebe           hebst            hebt           heben           hebt          
+heben          präteritum  hob            hobst            hob            hoben           hobt          
+heben          k2präsens   höbe           höbest           höbe           höben           höbet         
+                                                                                                        
+saufen         partizip    gesoffen                                                                     
+saufen         hilfsverb   haben                                                                        
+saufen         präsens     saufe          säufst           säuft          saufen          sauft         
+saufen         präteritum  soff           soffst           soff           soffen          sofft         
+saufen         k2präsens   söffe          söffest          söffe          söffen          söffet        
+                                                                                                        
+scheiben       partizip    gescheibt                                                                    
+scheiben       hilfsverb   haben                                                                        
+scheiben       präsens     scheibe        scheibst         scheibt        scheiben        scheibt       
+scheiben       präteritum  scheibte       scheibtest       scheibte       scheibten       scheibtet     
+scheiben       k2präsens   scheibte       scheibtest       scheibte       scheibten       scheibtet     
+                                                                                                        
+meiden         partizip    gemieden                                                                     
+meiden         hilfsverb   haben                                                                        
+meiden         präsens     meide          meidest          meidet         meiden          meidet        
+meiden         präteritum  mied           miedest          mied           mieden          miedet        
+meiden         k2präsens   miede          miedest          miede          mieden          miedet        
+                                                                                                        
+steigen        partizip    gestiegen                                                                    
+steigen        hilfsverb   sein                                                                         
+steigen        präsens     steige         steigst          steigt         steigen         steigt        
+steigen        präteritum  stieg          stiegst          stieg          stiegen         stiegt        
+steigen        k2präsens   stiege         stiegest         stiege         stiegen         stieget       
+                                                                                                        
+reiben         partizip    gerieben                                                                     
+reiben         hilfsverb   haben                                                                        
+reiben         präsens     reibe          reibst           reibt          reiben          reibt         
+reiben         präteritum  rieb           riebst           rieb           rieben          riebt         
+reiben         k2präsens   riebe          riebest          riebe          rieben          riebet        
+                                                                                                        
+gleiten        partizip    geglitten                                                                    
+gleiten        hilfsverb   sein                                                                         
+gleiten        präsens     gleite         gleitest         gleitet        gleiten         gleitet       
+gleiten        präteritum  glitt          glittest         glitt          glitten         glittet       
+gleiten        k2präsens   glitte         glittest         glitte         glitten         glittet       
+                                                                                                        
+reiten         partizip    geritten                                                                     
+reiten         hilfsverb   haben                                                                        
+reiten         präsens     reite          reitest          reitet         reiten          reitet        
+reiten         präteritum  ritt           rittest          ritt           ritten          rittet        
+reiten         k2präsens   ritte          rittest          ritte          ritten          rittet        
+                                                                                                        
+reißen         partizip    gerissen                                                                     
+reißen         hilfsverb   haben                                                                        
+reißen         präsens     reiße          reißt            reißt          reißen          reißt         
+reißen         präteritum  riss           rissest          riss           rissen          risst         
+reißen         k2präsens   risse          rissest          risse          rissen          risset        
+                                                                                                        
+scheißen       partizip    geschissen                                                                   
+scheißen       hilfsverb   haben                                                                        
+scheißen       präsens     scheiße        scheißt          scheißt        scheißen        scheißt       
+scheißen       präteritum  schiss         schissest        schiss         schissen        schisst       
+scheißen       k2präsens   schisse        schissest        schisse        schissen        schisset      
+                                                                                                        
+brechen        partizip    gebrochen                                                                    
+brechen        hilfsverb   haben                                                                        
+brechen        präsens     breche         brichst          bricht         brechen         brecht        
+brechen        präteritum  brach          brachst          brach          brachen         bracht        
+brechen        k2präsens   bräche         brächest         bräche         brächen         brächet       
+                                                                                                        
+werfen         partizip    geworfen                                                                     
+werfen         hilfsverb   haben                                                                        
+werfen         präsens     werfe          wirfst           wirft          werfen          werft         
+werfen         präteritum  warf           warfst           warf           warfen          warft         
+werfen         k2präsens   würfe          würfest          würfe          würfen          würfet        
+                                                                                                        
+gewinnen       partizip    gewonnen                                                                     
+gewinnen       hilfsverb   haben                                                                        
+gewinnen       präsens     gewinne        gewinnst         gewinnt        gewinnen        gewinnt       
+gewinnen       präteritum  gewann         gewannst         gewann         gewannen        gewannt       
+gewinnen       k2präsens   gewänne        gewännest        gewänne        gewännen        gewännet      
+                                                                                                        
+schwimmen      partizip    geschwommen                                                                  
+schwimmen      hilfsverb   sein                                                                         
+schwimmen      präsens     schwimme       schwimmst        schwimmt       schwimmen       schwimmt      
+schwimmen      präteritum  schwamm        schwammst        schwamm        schwammen       schwammt      
+schwimmen      k2präsens   schwämme       schwämmest       schwämme       schwämmen       schwämmet     
+                                                                                                        
+empfehlen      partizip    empfohlen                                                                    
+empfehlen      hilfsverb   haben                                                                        
+empfehlen      präsens     empfehle       empfiehlst       empfiehlt      empfehlen       empfehlt      
+empfehlen      präteritum  empfahl        empfahlst        empfahl        empfahlen       empfahlt      
+empfehlen      k2präsens   empfähle       empfählest       empfähle       empfählen       empfählet     
+                                                                                                        
+binden         partizip    gebunden                                                                     
+binden         hilfsverb   haben                                                                        
+binden         präsens     binde          bindest          bindet         binden          bindet        
+binden         präteritum  band           bandest          band           banden          bandet        
+binden         k2präsens   bände          bändest          bände          bänden          bändet        
+                                                                                                        
+springen       partizip    gesprungen                                                                   
+springen       hilfsverb   sein                                                                         
+springen       präsens     springe        springst         springt        springen        springt       
+springen       präteritum  sprang         sprangst         sprang         sprangen        sprangt       
+springen       k2präsens   spränge        sprängest        spränge        sprängen        spränget      
+                                                                                                        
+singen         partizip    gesungen                                                                     
+singen         hilfsverb   haben                                                                        
+singen         präsens     singe          singst           singt          singen          singt         
+singen         präteritum  sang           sangst           sang           sangen          sangt         
+singen         k2präsens   sänge          sängest          sänge          sängen          sänget        
+                                                                                                        
+sinken         partizip    gesunken                                                                     
+sinken         hilfsverb   sein                                                                         
+sinken         präsens     sinke          sinkst           sinkt          sinken          sinkt         
+sinken         präteritum  sank           sankst           sank           sanken          sankt         
+sinken         k2präsens   sänke          sänkest          sänke          sänken          sänket        
+                                                                                                        
+stinken        partizip    gestunken                                                                    
+stinken        hilfsverb   haben                                                                        
+stinken        präsens     stinke         stinkst          stinkt         stinken         stinkt        
+stinken        präteritum  stank          stankst          stank          stanken         stankt        
+stinken        k2präsens   stänke         stänkest         stänke         stänken         stänket       
+                                                                                                        
+trinken        partizip    getrunken                                                                    
+trinken        hilfsverb   haben                                                                        
+trinken        präsens     trinke         trinkst          trinkt         trinken         trinkt        
+trinken        präteritum  trank          trankst          trank          tranken         trankt        
+trinken        k2präsens   tränke         tränkest         tränke         tränken         tränket       
+                                                                                                        
+nennen         partizip    genannt                                                                      
+nennen         hilfsverb   haben                                                                        
+nennen         präsens     nenne          nennst           nennt          nennen          nennt         
+nennen         präteritum  nannte         nanntest         nannte         nannten         nanntet       
+nennen         k2präsens   nennte         nenntest         nennte         nennten         nenntet       
+                                                                                                        
+rennen         partizip    gerannt                                                                      
+rennen         hilfsverb   sein                                                                         
+rennen         präsens     renne          rennst           rennt          rennen          rennt         
+rennen         präteritum  rannte         ranntest         rannte         rannten         ranntet       
+rennen         k2präsens   rennte         renntest         rennte         rennten         renntet       
+                                                                                                        
+verzeihen      partizip    verziehen                                                                    
+verzeihen      hilfsverb   haben                                                                        
+verzeihen      präsens     verzeihe       verzeihst        verzeiht       verzeihen       verzeiht      
+verzeihen      präteritum  verzieh        verziehst        verzieh        verziehen       verzieht      
+verzeihen      k2präsens   verziehe       verziehest       verziehe       verziehen       verziehet     
+                                                                                                        
+geschehen      partizip    geschehen                                                                    
+geschehen      hilfsverb   sein                                                                         
+geschehen      präsens     geschehe       geschiehst       geschieht      geschehen       gescheht      
+geschehen      präteritum  geschah        geschahst        geschah        geschahen       geschaht      
+geschehen      k2präsens   geschähe       geschähest       geschähe       geschähen       geschähet     
+                                                                                                        
+fliehen        partizip    geflohen                                                                     
+fliehen        hilfsverb   sein                                                                         
+fliehen        präsens     fliehe         fliehst          flieht         fliehen         flieht        
+fliehen        präteritum  floh           flohst           floh           flohen          floht         
+fliehen        k2präsens   flöhe          flöhest          flöhe          flöhen          flöhet        
+                                                                                                        
+gebären        partizip    geboren                                                                      
+gebären        hilfsverb   haben                                                                        
+gebären        präsens     gebäre         gebärst          gebärt         gebären         gebärt        
+gebären        präteritum  gebar          gebarst          gebar          gebaren         gebart        
+gebären        k2präsens   gebäre         gebärest         gebäre         gebären         gebäret       
+                                                                                                        
+aufwachen      partizip    aufgewacht                                                                   
+aufwachen      hilfsverb   sein                                                                         
+aufwachen      präsens     wache          wachst           wacht          wachen          wacht         
+aufwachen      präteritum  wachte         wachtest         wachte         wachten         wachtet       
+aufwachen      k2präsens   wachte         wachtest         wachte         wachten         wachtet       
+                                                                                                        
+einkaufen      partizip    eingekauft                                                                   
+einkaufen      hilfsverb   haben                                                                        
+einkaufen      präsens     kaufe          kaufst           kauft          kaufen          kauft         
+einkaufen      präteritum  kaufte         kauftest         kaufte         kauften         kauftet       
+einkaufen      k2präsens   kaufte         kauftest         kaufte         kauften         kauftet       
+                                                                                                        
+aufstehen      partizip    aufgestanden                                                                 
+aufstehen      hilfsverb   sein                                                                         
+aufstehen      präsens     stehe          stehst           steht          stehen          steht         
+aufstehen      präteritum  stand          standest         stand          standen         standet       
+aufstehen      k2präsens   stände         ständest         stände         ständen         ständet       
+                                                                                                        
+einschlafen    partizip    eingeschlafen                                                                
+einschlafen    hilfsverb   sein                                                                         
+einschlafen    präsens     schlafe        schläfst         schläft        schlafen        schlaft       
+einschlafen    präteritum  schlief        schliefst        schlief        schliefen       schlieft      
+einschlafen    k2präsens   schliefe       schliefest       schliefe       schliefen       schliefet     
+                                                                                                        
+wachen         partizip    gewacht                                                                      
+wachen         hilfsverb   haben                                                                        
+wachen         präsens     wache          wachst           wacht          wachen          wacht         
+wachen         präteritum  wachte         wachtest         wachte         wachten         wachtet       
+wachen         k2präsens   wachte         wachtest         wachte         wachten         wachtet       
+                                                                                                        
+einbrechen     partizip    eingebrochen                                                                 
+einbrechen     hilfsverb   sein                                                                         
+einbrechen     präsens     breche         brichst          bricht         brechen         brecht        
+einbrechen     präteritum  brach          brachst          brach          brachen         bracht        
+einbrechen     k2präsens   bräche         brächest         bräche         brächen         brächet       
+                                                                                                        
+aufsteigen     partizip    aufgestiegen                                                                 
+aufsteigen     hilfsverb   sein                                                                         
+aufsteigen     präsens     steige         steigst          steigt         steigen         steigt        
+aufsteigen     präteritum  stieg          stiegst          stieg          stiegen         stiegt        
+aufsteigen     k2präsens   stiege         stiegest         stiege         stiegen         stieget       
+                                                                                                        
+absteigen      partizip    abgestiegen                                                                  
+absteigen      hilfsverb   sein                                                                         
+absteigen      präsens     steige         steigst          steigt         steigen         steigt        
+absteigen      präteritum  stieg          stiegst          stieg          stiegen         stiegt        
+absteigen      k2präsens   stiege         stiegest         stiege         stiegen         stieget       
+                                                                                                        
+rutschen       partizip    gerutscht                                                                    
+rutschen       hilfsverb   sein                                                                         
+rutschen       präsens     rutsche        rutschst         rutscht        rutschen        rutscht       
+rutschen       präteritum  rutschte       rutschtest       rutschte       rutschten       rutschtet     
+rutschen       k2präsens   rutschte       rutschtest       rutschte       rutschten       rutschtet     
+                                                                                                        
+aufwachsen     partizip    aufgewachsen                                                                 
+aufwachsen     hilfsverb   sein                                                                         
+aufwachsen     präsens     wachse         wächst           wächst         wachsen         wachst        
+aufwachsen     präteritum  wuchs          wuchsest         wuchs          wuchsen         wuchst        
+aufwachsen     k2präsens   wüchse         wüchsest         wüchse         wüchsen         wüchset       
+                                                                                                        
+aufwaschen     partizip    aufgewaschen                                                                 
+aufwaschen     hilfsverb   haben                                                                        
+aufwaschen     präsens     wasche         wäschst          wäscht         waschen         wascht        
+aufwaschen     präteritum  wusch          wuschst          wusch          wuschen         wuscht        
+aufwaschen     k2präsens   wüsche         wüschest         wüsche         wüschen         wüschet       
+                                                                                                        
+anbieten       partizip    angeboten                                                                    
+anbieten       hilfsverb   haben                                                                        
+anbieten       präsens     biete          bietest          bietet         bieten          bietet        
+anbieten       präteritum  bot            botest           bot            boten           botet         
+anbieten       k2präsens   böte           bötest           böte           böten           bötet         
+                                                                                                        
+anfangen       partizip    angefangen                                                                   
+anfangen       hilfsverb   haben                                                                        
+anfangen       präsens     fange          fängst           fängt          fangen          fangt         
+anfangen       präteritum  fing           fingst           fing           fingen          fingt         
+anfangen       k2präsens   finge          fingest          finge          fingen          finget        
+                                                                                                        
+ansehen        partizip    angesehen                                                                    
+ansehen        hilfsverb   haben                                                                        
+ansehen        präsens     sehe           siehst           sieht          sehen           seht          
+ansehen        präteritum  sah            sahst            sah            sahen           saht          
+ansehen        k2präsens   sähe           sähest           sähe           sähen           sähet         
+                                                                                                        
+aussehen       partizip    ausgesehen                                                                   
+aussehen       hilfsverb   haben                                                                        
+aussehen       präsens     sehe           siehst           sieht          sehen           seht          
+aussehen       präteritum  sah            sahst            sah            sahen           saht          
+aussehen       k2präsens   sähe           sähest           sähe           sähen           sähet         
+                                                                                                        
+bekommen       partizip    bekommen                                                                     
+bekommen       hilfsverb   haben                                                                        
+bekommen       präsens     bekomme        bekommst         bekommt        bekommen        bekommt       
+bekommen       präteritum  bekam          bekamst          bekam          bekamen         bekamt        
+bekommen       k2präsens   bekäme         bekämest         bekäme         bekämen         bekämet       
+                                                                                                        
+bestehen       partizip    bestanden                                                                    
+bestehen       hilfsverb   haben                                                                        
+bestehen       präsens     bestehe        bestehst         besteht        bestehen        besteht       
+bestehen       präteritum  bestand        bestandest       bestand        bestanden       bestandet     
+bestehen       k2präsens   bestände       beständest       bestände       beständen       beständet     
+                                                                                                        
+betreffen      partizip    betroffen                                                                    
+betreffen      hilfsverb   haben                                                                        
+betreffen      präsens     betreffe       betriffst        betrifft       betreffen       betrefft      
+betreffen      präteritum  betraf         betrafst         betraf         betrafen        betraft       
+betreffen      k2präsens   beträfe        beträfest        beträfe        beträfen        beträfet      
+                                                                                                        
+bilden         partizip    gebildet                                                                     
+bilden         hilfsverb   haben                                                                        
+bilden         präsens     bilde          bildest          bildet         bilden          bildet        
+bilden         präteritum  bildete        bildetest        bildete        bildeten        bildetet      
+bilden         k2präsens   bildete        bildetest        bildete        bildeten        bildetet      
+                                                                                                        
+darstellen     partizip    dargestellt                                                                  
+darstellen     hilfsverb   haben                                                                        
+darstellen     präsens     stelle         stellst          stellt         stellen         stellt        
+darstellen     präteritum  stellte        stelltest        stellte        stellten        stelltet      
+darstellen     k2präsens   stellte        stelltest        stellte        stellten        stelltet      
+                                                                                                        
+entsprechen    partizip    entsprochen                                                                  
+entsprechen    hilfsverb   haben                                                                        
+entsprechen    präsens     entspreche     entsprichst      entspricht     entsprechen     entsprecht    
+entsprechen    präteritum  entsprach      entsprachst      entsprach      entsprachen     entspracht    
+entsprechen    k2präsens   entspräche     entsprächest     entspräche     entsprächen     entsprächet   
+                                                                                                        
+entstehen      partizip    entstanden                                                                   
+entstehen      hilfsverb   sein                                                                         
+entstehen      präsens     entstehe       entstehst        entsteht       entstehen       entsteht      
+entstehen      präteritum  entstand       entstandest      entstand       entstanden      entstandet    
+entstehen      k2präsens   entstände      entständest      entstände      entständen      entständet    
+                                                                                                        
+ergeben        partizip    ergeben                                                                      
+ergeben        hilfsverb   haben                                                                        
+ergeben        präsens     ergebe         ergibst          ergibt         ergeben         ergebt        
+ergeben        präteritum  ergab          ergabst          ergab          ergaben         ergabt        
+ergeben        k2präsens   ergäbe         ergäbest         ergäbe         ergäben         ergäbet       
+                                                                                                        
+erhalten       partizip    erhalten                                                                     
+erhalten       hilfsverb   haben                                                                        
+erhalten       präsens     erhalte        erhältst         erhält         erhalten        erhaltet      
+erhalten       präteritum  erhielt        erhieltest       erhielt        erhielten       erhieltet     
+erhalten       k2präsens   erhielte       erhieltest       erhielte       erhielten       erhieltet     
+                                                                                                        
+erkennen       partizip    erkannt                                                                      
+erkennen       hilfsverb   haben                                                                        
+erkennen       präsens     erkenne        erkennst         erkennt        erkennen        erkennt       
+erkennen       präteritum  erkannte       erkanntest       erkannte       erkannten       erkanntet     
+erkennen       k2präsens   erkennte       erkenntest       erkennte       erkennten       erkenntet     
+                                                                                                        
+erklären       partizip    erklärt                                                                      
+erklären       hilfsverb   haben                                                                        
+erklären       präsens     erkläre        erklärst         erklärt        erklären        erklärt       
+erklären       präteritum  erklärte       erklärtest       erklärte       erklärten       erklärtet     
+erklären       k2präsens   erklärte       erklärtest       erklärte       erklärten       erklärtet     
+                                                                                                        
+erreichen      partizip    erreicht                                                                     
+erreichen      hilfsverb   haben                                                                        
+erreichen      präsens     erreiche       erreichst        erreicht       erreichen       erreicht      
+erreichen      präteritum  erreichte      erreichtest      erreichte      erreichten      erreichtet    
+erreichen      k2präsens   erreichte      erreichtest      erreichte      erreichten      erreichtet    
+                                                                                                        
+erscheinen     partizip    erschienen                                                                   
+erscheinen     hilfsverb   sein                                                                         
+erscheinen     präsens     erscheine      erscheinst       erscheint      erscheinen      erscheint     
+erscheinen     präteritum  erschien       erschienst       erschien       erschienen      erschient     
+erscheinen     k2präsens   erschiene      erschienest      erschiene      erschienen      erschienet    
+                                                                                                        
+erwarten       partizip    erwartet                                                                     
+erwarten       hilfsverb   haben                                                                        
+erwarten       präsens     erwarte        erwartest        erwartet       erwarten        erwartet      
+erwarten       präteritum  erwartete      erwartetest      erwartete      erwarteten      erwartetet    
+erwarten       k2präsens   erwartete      erwartetest      erwartete      erwarteten      erwartetet    
+                                                                                                        
+erzählen       partizip    erzählt                                                                      
+erzählen       hilfsverb   haben                                                                        
+erzählen       präsens     erzähle        erzählst         erzählt        erzählen        erzählt       
+erzählen       präteritum  erzählte       erzähltest       erzählte       erzählten       erzähltet     
+erzählen       k2präsens   erzählte       erzähltest       erzählte       erzählten       erzähltet     
+                                                                                                        
+fehlen         partizip    gefehlt                                                                      
+fehlen         hilfsverb   haben                                                                        
+fehlen         präsens     fehle          fehlst           fehlt          fehlen          fehlt         
+fehlen         präteritum  fehlte         fehltest         fehlte         fehlten         fehltet       
+fehlen         k2präsens   fehlte         fehltest         fehlte         fehlten         fehltet       
+                                                                                                        
+fühlen         partizip    gefühlt                                                                      
+fühlen         hilfsverb   haben                                                                        
+fühlen         präsens     fühle          fühlst           fühlt          fühlen          fühlt         
+fühlen         präteritum  fühlte         fühltest         fühlte         fühlten         fühltet       
+fühlen         k2präsens   fühlte         fühltest         fühlte         fühlten         fühltet       
+                                                                                                        
+führen         partizip    geführt                                                                      
+führen         hilfsverb   haben                                                                        
+führen         präsens     führe          führst           führt          führen          führt         
+führen         präteritum  führte         führtest         führte         führten         führtet       
+führen         k2präsens   führte         führtest         führte         führten         führtet       
+                                                                                                        
+interessieren  partizip    interessiert                                                                 
+interessieren  hilfsverb   haben                                                                        
+interessieren  präsens     interessiere   interessierst    interessiert   interessieren   interessiert  
+interessieren  präteritum  interessierte  interessiertest  interessierte  interessierten  interessiertet
+interessieren  k2präsens   interessierte  interessiertest  interessierte  interessierten  interessiertet
+                                                                                                        
+legen          partizip    gelegt                                                                       
+legen          hilfsverb   haben                                                                        
+legen          präsens     lege           legst            legt           legen           legt          
+legen          präteritum  legte          legtest          legte          legten          legtet        
+legen          k2präsens   legte          legtest          legte          legten          legtet        
+                                                                                                        
+meinen         partizip    gemeint                                                                      
+meinen         hilfsverb   haben                                                                        
+meinen         präsens     meine          meinst           meint          meinen          meint         
+meinen         präteritum  meinte         meintest         meinte         meinten         meintet       
+meinen         k2präsens   meinte         meintest         meinte         meinten         meintet       
+                                                                                                        
+schaffen       partizip    geschafft                                                                    
+schaffen       hilfsverb   haben                                                                        
+schaffen       präsens     schaffe        schaffst         schafft        schaffen        schafft       
+schaffen       präteritum  schaffte       schafftest       schaffte       schafften       schafftet     
+schaffen       k2präsens   schaffte       schafftest       schaffte       schafften       schafftet     
+                                                                                                        
+stellen        partizip    gestellt                                                                     
+stellen        hilfsverb   haben                                                                        
+stellen        präsens     stelle         stellst          stellt         stellen         stellt        
+stellen        präteritum  stellte        stelltest        stellte        stellten        stelltet      
+stellen        k2präsens   stellte        stelltest        stellte        stellten        stelltet      
+                                                                                                        
+studieren      partizip    studiert                                                                     
+studieren      hilfsverb   haben                                                                        
+studieren      präsens     studiere       studierst        studiert       studieren       studiert      
+studieren      präteritum  studierte      studiertest      studierte      studierten      studiertet    
+studieren      k2präsens   studierte      studiertest      studierte      studierten      studiertet    
+                                                                                                        
+vergehen       partizip    vergangen                                                                    
+vergehen       hilfsverb   sein                                                                         
+vergehen       präsens     vergehe        vergehst         vergeht        vergehen        vergeht       
+vergehen       präteritum  verging        vergingst        verging        vergingen       vergingt      
+vergehen       k2präsens   verginge       vergingest       verginge       vergingen       verginget     
+                                                                                                        
+vergleichen    partizip    verglichen                                                                   
+vergleichen    hilfsverb   haben                                                                        
+vergleichen    präsens     vergleiche     vergleichst      vergleicht     vergleichen     vergleicht    
+vergleichen    präteritum  verglich       verglichst       verglich       verglichen      verglicht     
+vergleichen    k2präsens   vergliche      verglichest      vergliche      verglichen      verglichet    
+                                                                                                        
+vorstellen     partizip    vorgestellt                                                                  
+vorstellen     hilfsverb   haben                                                                        
+vorstellen     präsens     stelle         stellst          stellt         stellen         stellt        
+vorstellen     präteritum  stellte        stelltest        stellte        stellten        stelltet      
+vorstellen     k2präsens   stellte        stelltest        stellte        stellten        stelltet      
+                                                                                                        
+zeigen         partizip    gezeigt                                                                      
+zeigen         hilfsverb   haben                                                                        
+zeigen         präsens     zeige          zeigst           zeigt          zeigen          zeigt         
+zeigen         präteritum  zeigte         zeigtest         zeigte         zeigten         zeigtet       
+zeigen         k2präsens   zeigte         zeigtest         zeigte         zeigten         zeigtet       
+                                                                                                        
+gleichen       partizip    geglichen                                                                    
+gleichen       hilfsverb   haben                                                                        
+gleichen       präsens     gleiche        gleichst         gleicht        gleichen        gleicht       
+gleichen       präteritum  glich          glichst          glich          glichen         glicht        
+gleichen       k2präsens   gliche         glichest         gliche         glichen         glichet       
+                                                                                                        
+zuhören        partizip    zugehört                                                                     
+zuhören        hilfsverb   haben                                                                        
+zuhören        präsens     höre           hörst            hört           hören           hört          
+zuhören        präteritum  hörte          hörtest          hörte          hörten          hörtet        
+zuhören        k2präsens   hörte          hörtest          hörte          hörten          hörtet        
+                                                                                                        
+verstehen      partizip    verstanden                                                                   
+verstehen      hilfsverb   haben                                                                        
+verstehen      präsens     verstehe       verstehst        versteht       verstehen       versteht      
+verstehen      präteritum  verstand       verstandest      verstand       verstanden      verstandet    
+verstehen      k2präsens   verstände      verständest      verstände      verständen      verständet    
+                                                                                                        
+verbinden      partizip    verbunden                                                                    
+verbinden      hilfsverb   haben                                                                        
+verbinden      präsens     verbinde       verbindest       verbindet      verbinden       verbindet     
+verbinden      präteritum  verband        verbandest       verband        verbanden       verbandet     
+verbinden      k2präsens   verbände       verbändest       verbände       verbänden       verbändet     
+                                                                                                        
+gelten         partizip    gegolten                                                                     
+gelten         hilfsverb   haben                                                                        
+gelten         präsens     gelte          giltst           gilt           gelten          geltet        
+gelten         präteritum  galt           galtest          galt           galten          galtet        
+gelten         k2präsens   gälte          gältest          gälte          gälten          gältet        
+                                                                                                        
+handeln  partizip    gehandelt                                            
+handeln  hilfsverb   haben                                                
+handeln  präsens     handle     handelst    handelt   handeln    handelt  
+handeln  präteritum  handelte   handeltest  handelte  handelten  handeltet
+handeln  k2präsens   handelte   handeltest  handelte  handelten  handeltet
+entwickeln  partizip    entwickelt                                                         
+entwickeln  hilfsverb   haben                                                              
+entwickeln  präsens     entwickle    entwickelst    entwickelt   entwickeln    entwickelt  
+entwickeln  präteritum  entwickelte  entwickeltest  entwickelte  entwickelten  entwickeltet
+entwickeln  k2präsens   entwickelte  entwickeltest  entwickelte  entwickelten  entwickeltet
+erinnern  partizip    erinnert                                                 
+erinnern  hilfsverb   haben                                                    
+erinnern  präsens     erinnere   erinnerst    erinnert   erinnern    erinnert  
+erinnern  präteritum  erinnerte  erinnertest  erinnerte  erinnerten  erinnertet
+erinnern  k2präsens   erinnerte  erinnertest  erinnerte  erinnerten  erinnertet

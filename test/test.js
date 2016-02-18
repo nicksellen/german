@@ -8,35 +8,20 @@ var includeUndefined = false;
 
 //includeUndefined = true;
 
-fs.readFileSync(__dirname + '/test-verbs.txt', 'utf8').split("\n").map(function(line){
-  if (/^#/.test(line)) return;
-  if (!line) return;
-  var parts = line.split(/\ +/);
-  var infinitive = parts[0];
+var testVerbs = require(__dirname + '/test-verbs');
 
-  if (!all[infinitive]) all[infinitive] = [];
-  var tests = all[infinitive];
-
-  if (parts[1] === 'partizip') {
+Object.keys(testVerbs).forEach(function(infinitive){
+  var verb = testVerbs[infinitive];
+  var tests = [];
+  tests.push({ partizip: verb.partizip });
+  tests.push({ hilfsverb: verb.hilfsverb });
+  Object.keys(verb.tenses).forEach(function(tense){
     tests.push({
-      partizip: parts[2]
+      tense: tense,
+      expect: verb.tenses[tense]
     });
-  } else if (parts[1] === 'hilfsverb') {
-    tests.push({
-      hilfsverb: parts[2]
-    });
-  } else {
-    tests.push({
-      tense: parts[1],
-      expect: {
-        ich: parts[2],
-        du: parts[3],
-        es: parts[4],
-        wir: parts[5],
-        ihr: parts[6]
-      }
-    });
-  }
+  });
+  all[infinitive] = tests;
 });
 
 describe('conjuagtor', function(){

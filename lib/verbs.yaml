@@ -200,11 +200,6 @@ gebären:
 
 beraten:
   en: to advise, to discuss
-  strong:
-  stems:
-    präsens du/es: ä
-    präteritum: ie
-    k2präsens: ie
 
 #-------------------------------------------------------------------------------------
 
@@ -953,9 +948,28 @@ wachen:
 #-------------------------------------------------------------------------------
 # others
 
+fehlen:
+  en: to lack, to miss
+
 rutschen:
   en: to slip, to slide
   hilfsverb: sein
+  
+an|bieten:
+  en: to provide, to offer
+  
+an|fangen:
+  en: to begin
+
+an|sehen:
+  en: to inspect, to view
+  
+aus|sehen:
+  en: to look
+
+bekommen:
+  en: to get
+  hilfsverb: haben
 
 #-------------------------------------------------------------------------------
 
@@ -995,6 +1009,127 @@ auf|steigen:
 ab|steigen:
   en: to descend, to dismount
   hilfsverb: sein
+  
+bestehen:
+  en: to persist, to insist
+
+betreffen:
+  en: to concern, to affect
+  
+bilden:
+  en: to build
+  
+dar|stellen:
+  en: to constitute, to depict
+  
+entsprechen:
+  en: to match, to conform
+  
+entstehen:
+  en: to emerge, to arise
+  hilfsverb: sein
+  
+ergeben:
+  en: to yield
+  
+erhalten:
+  en: to obtain
+  
+erkennen:
+  en: to realize
+  
+erklären:
+  en: to explain, to declare
+  
+erreichen:
+  en: to achieve
+  
+erscheinen:
+  en: to appear, to seem
+  hilfsverb: sein
+  
+erwarten:
+  en: to expect, to await
+  
+erzählen:
+  en: to tell, to narrate
+  
+fühlen:
+  en: to feel, to sense
+  
+führen:
+  en: to lead, to guide
+
+# TODO:  should be 'interessiert' instead of 'geinteressiert'
+interessieren:
+  en: to interest
+  partizip: interessiert
+
+# TODO: should be 'studiert' not 'gestudiert'
+studieren:
+  en: to study
+  partizip: studiert
+
+legen:
+  en: to put, to lay
+  
+meinen:
+  en: to mean, to deem
+  
+schaffen:
+  en: to create, to accomplish
+  
+scheiben:
+  en: to slice
+  
+stellen:
+  en: to put, to place
+  
+vor|stellen:
+  en: to introduce, to suggest
+  
+vergehen:
+  en: to vanish, to slide
+  
+gleichen:
+  en: to equal
+  strong:
+  stems:
+    präteritum: i
+    k2präsens: i
+    partizip: i
+
+vergleichen:
+  en: to compare, to contrast
+  
+zeigen:
+  en: to exhibit, to feature
+
+zu|hören:
+  en: to listen
+
+verstehen:
+  en: to understand
+  
+verbinden:
+  en: to connect, to link
+  
+gelten:
+  en: to apply, to pertain
+  strong:
+  stems:
+    präsens du/es: i
+    präteritum: a
+    partizip: o
+
+entwickeln:
+  en: to develop, to evolve
+  
+handeln:
+  en: to deal, to negotiate
+  
+erinnern:
+  en: to remember
 
 #-------------------------------------------------------------------------------
 

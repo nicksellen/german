@@ -36,10 +36,6 @@ if (fs.existsSync(cachefilename)) {
 
 function transformWord(type, word, pronoun) {
   
-  // replace random - at end (not sure what it means actually, see
-  // http://www.verbformen.net/conjugation/geba:ren.htm for example)
-  //word = word.replace(/\-$/, '');
-  
   // turn "(e)+" into "e"
   word = word.replace( /\(([e])\)\+/, '$1');
   
@@ -48,8 +44,16 @@ function transformWord(type, word, pronoun) {
     word = word.replace(/\(e\)\*$/, 'e');
   }
   
+  // ich *(e)le -> le
+  if (type === 'präsens' && pronoun === 'ich') {
+    word = word.replace(/\(e\)le$/, 'le');
+  }
+  
   // replace "(e)*n" with "en"
   word = word.replace(/\(e\)\*n$/, 'en');
+  
+  // replace "(e)*re" with "ere"
+  word = word.replace(/\(e\)\*re$/, 'ere');
   
   // replace "(s)*t" with "st"
   word = word.replace(/\((e?s)\)\*t$/, '$1t');
@@ -57,7 +61,16 @@ function transformWord(type, word, pronoun) {
   // replace "(e)t" with "t"
   word = word.replace(/\(e\)t$/, 't');
   
-  word = word.replace(/^stünd.*\//, '');
+  // pick ständ over stünd
+  word = word.replace(/^(be|ent|ver)?stünd.*\//, '');
+  
+  // pick bänd over bünd
+  word = word.replace(/\/(ver)bünd.*$/, '');
+  
+  // gält over gölt
+  word = word.replace(/\/gölt[^\/]+$/, '');
+  
+  word = word.replace(/\/bekömms?t\+$/, '');
   
   word = {
     'gebärst/gebierst-' : 'gebärst',
