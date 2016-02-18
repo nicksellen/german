@@ -1066,18 +1066,21 @@ gelten         präsens     gelte          giltst           gilt           gelte
 gelten         präteritum  galt           galtest          galt           galten          galtet        
 gelten         k2präsens   gälte          gältest          gälte          gälten          gältet        
                                                                                                         
-handeln  partizip    gehandelt                                            
-handeln  hilfsverb   haben                                                
-handeln  präsens     handle     handelst    handelt   handeln    handelt  
-handeln  präteritum  handelte   handeltest  handelte  handelten  handeltet
-handeln  k2präsens   handelte   handeltest  handelte  handelten  handeltet
-entwickeln  partizip    entwickelt                                                         
-entwickeln  hilfsverb   haben                                                              
-entwickeln  präsens     entwickle    entwickelst    entwickelt   entwickeln    entwickelt  
-entwickeln  präteritum  entwickelte  entwickeltest  entwickelte  entwickelten  entwickeltet
-entwickeln  k2präsens   entwickelte  entwickeltest  entwickelte  entwickelten  entwickeltet
-erinnern  partizip    erinnert                                                 
-erinnern  hilfsverb   haben                                                    
-erinnern  präsens     erinnere   erinnerst    erinnert   erinnern    erinnert  
-erinnern  präteritum  erinnerte  erinnertest  erinnerte  erinnerten  erinnertet
-erinnern  k2präsens   erinnerte  erinnertest  erinnerte  erinnerten  erinnertet
+handeln        partizip    gehandelt                                                                    
+handeln        hilfsverb   haben                                                                        
+handeln        präsens     handle         handelst         handelt        handeln         handelt       
+handeln        präteritum  handelte       handeltest       handelte       handelten       handeltet     
+handeln        k2präsens   handelte       handeltest       handelte       handelten       handeltet     
+                                                                                                        
+entwickeln     partizip    entwickelt                                                                   
+entwickeln     hilfsverb   haben                                                                        
+entwickeln     präsens     entwickle      entwickelst      entwickelt     entwickeln      entwickelt    
+entwickeln     präteritum  entwickelte    entwickeltest    entwickelte    entwickelten    entwickeltet  
+entwickeln     k2präsens   entwickelte    entwickeltest    entwickelte    entwickelten    entwickeltet  
+                                                                                                        
+erinnern       partizip    erinnert                                                                     
+erinnern       hilfsverb   haben                                                                        
+erinnern       präsens     erinnere       erinnerst        erinnert       erinnern        erinnert      
+erinnern       präteritum  erinnerte      erinnertest      erinnerte      erinnerten      erinnertet    
+erinnern       k2präsens   erinnerte      erinnertest      erinnerte      erinnerten      erinnertet    
+                                                                                                        
