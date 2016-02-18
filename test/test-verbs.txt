@@ -820,3 +820,9 @@ gebären    präsens     gebäre       gebärst      gebärt     gebären     ge
 gebären    präteritum  gebar        gebarst      gebar      gebaren     gebart    
 gebären    k2präsens   gebäre       gebärest     gebäre     gebären     gebäret   
                                                                                   
+aufwachen  partizip    aufgewacht                                                 
+aufwachen  hilfsverb   sein                                                       
+aufwachen  präsens     wache        wachst       wacht      wachen      wacht     
+aufwachen  präteritum  wachte       wachtest     wachte     wachten     wachtet   
+aufwachen  k2präsens   wachte       wachtest     wachte     wachten     wachtet   
+                                                                                  

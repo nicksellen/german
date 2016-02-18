@@ -948,6 +948,13 @@ nennen:
     partizip: a
 
 #-------------------------------------------------------------------------------
+# seperable prefixes not implemented yet
+
+auf|wachen:
+  en: to wake up
+  hilfsverb: sein
+
+#-------------------------------------------------------------------------------
 
 testen:
   en: to test
