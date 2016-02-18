@@ -57,6 +57,8 @@ function transformWord(type, word, pronoun) {
   // replace "(e)t" with "t"
   word = word.replace(/\(e\)t$/, 't');
   
+  word = word.replace(/^stünd.*\//, '');
+  
   word = {
     'gebärst/gebierst-' : 'gebärst',
     'gebärt/gebiert-'   : 'gebärt'

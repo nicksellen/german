@@ -947,11 +947,53 @@ nennen:
     k2präsens: e
     partizip: a
 
+wachen:
+  en: to wake, to picket
+  
 #-------------------------------------------------------------------------------
-# seperable prefixes not implemented yet
+# others
+
+rutschen:
+  en: to slip, to slide
+  hilfsverb: sein
+
+#-------------------------------------------------------------------------------
+
+ein|kaufen:
+  en: to buy
 
 auf|wachen:
   en: to wake up
+  hilfsverb: sein
+
+auf|wachsen:
+  en: to grow up
+  
+auf|waschen:
+  en: to wash up
+
+auf|stehen:
+  en: to get up
+  hilfsverb: sein
+    
+ein|schlafen:
+  en: to fall asleep
+  hilfsverb: sein
+
+ein|brechen:
+  en: to crack, to burgle
+  hilfsverb: sein
+  
+er|frieren:
+  en: to freeze to death
+  hilfsverb: sein
+
+auf|steigen:
+  en: to soar, to ascend
+  hilfsverb: sein
+  
+ab|steigen:
+  en: to descend, to dismount
   hilfsverb: sein
 
 #-------------------------------------------------------------------------------
