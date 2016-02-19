@@ -744,7 +744,7 @@ brechen:
     partizip: o
 
 helfen:
-  en: help
+  en: to help
   strong:
   stems:
     präsens du/es: i
@@ -1135,6 +1135,83 @@ lehren:
   
 kosten:
   en: to cost
+  
+mit|bringen:
+  en: to bring, to bring along
+  
+packen:
+  en: to pack
+  
+versprechen:
+  en: to promise
+  
+vor|lesen:
+  en: to read to, to read aloud
+  
+mit|teilen:
+  en: to inform, to communicate
+  
+teilen:
+  en: to share, to divide
+  
+erkundigen:
+  en: to ask, to enquire
+  sich:
+  
+hoffen:
+  en: to hope
+  
+planen:
+  en: to plan
+  
+ein­|at­men:
+  en: to breathe in
+  
+at­men:
+  en: to breathe
+  
+verheimlichen:
+  en: to conceal  
+
+drehen:
+  en: to spin, to turn, to shoot [film]
+
+her|stellen:
+  en: to manufacture, to produce
+
+aus|denken:
+  en: to invent
+
+tauchen:
+  en: to dive, to plunge
+
+auf|tauchen:
+  en: to appear, to crop up, to come to light
+  hilfsverb: sein
+
+ein|richten:
+  en: to establish, to furnish, to organize
+
+aus|sagen:
+  en: to state, to testify
+
+sammeln:
+  en: to gather, to collect
+
+wischen:
+  en: to wipe, to mop
+
+erwischen:
+  en: to catch, to seize, to get hold of
+
+bestellen:
+  en: to order, to request, to comission, to book
+
+versetzen:
+  en: to relocate, to transfer, to deploy, to retort
+
+auf|gehen:
+  en: to rise, to realise, to pan out
 
 #-------------------------------------------------------------------------------
 

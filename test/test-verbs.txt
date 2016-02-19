@@ -1084,13 +1084,151 @@ erinnern       präsens     erinnere       erinnerst        erinnert       erinn
 erinnern       präteritum  erinnerte      erinnertest      erinnerte      erinnerten      erinnertet    
 erinnern       k2präsens   erinnerte      erinnertest      erinnerte      erinnerten      erinnertet    
                                                                                                         
-lehren  partizip    gelehrt                                    
-lehren  hilfsverb   haben                                      
-lehren  präsens     lehre    lehrst    lehrt   lehren   lehrt  
-lehren  präteritum  lehrte   lehrtest  lehrte  lehrten  lehrtet
-lehren  k2präsens   lehrte   lehrtest  lehrte  lehrten  lehrtet
-kosten  partizip    gekostet                                        
-kosten  hilfsverb   haben                                           
-kosten  präsens     koste     kostest    kostet   kosten    kostet  
-kosten  präteritum  kostete   kostetest  kostete  kosteten  kostetet
-kosten  k2präsens   kostete   kostetest  kostete  kosteten  kostetet
+lehren         partizip    gelehrt                                                                      
+lehren         hilfsverb   haben                                                                        
+lehren         präsens     lehre          lehrst           lehrt          lehren          lehrt         
+lehren         präteritum  lehrte         lehrtest         lehrte         lehrten         lehrtet       
+lehren         k2präsens   lehrte         lehrtest         lehrte         lehrten         lehrtet       
+                                                                                                        
+kosten         partizip    gekostet                                                                     
+kosten         hilfsverb   haben                                                                        
+kosten         präsens     koste          kostest          kostet         kosten          kostet        
+kosten         präteritum  kostete        kostetest        kostete        kosteten        kostetet      
+kosten         k2präsens   kostete        kostetest        kostete        kosteten        kostetet      
+                                                                                                        
+mitbringen     partizip    mitgebracht                                                                  
+mitbringen     hilfsverb   haben                                                                        
+mitbringen     präsens     bringe         bringst          bringt         bringen         bringt        
+mitbringen     präteritum  brachte        brachtest        brachte        brachten        brachtet      
+mitbringen     k2präsens   brächte        brächtest        brächte        brächten        brächtet      
+                                                                                                        
+packen         partizip    gepackt                                                                      
+packen         hilfsverb   haben                                                                        
+packen         präsens     packe          packst           packt          packen          packt         
+packen         präteritum  packte         packtest         packte         packten         packtet       
+packen         k2präsens   packte         packtest         packte         packten         packtet       
+                                                                                                        
+versprechen    partizip    versprochen                                                                  
+versprechen    hilfsverb   haben                                                                        
+versprechen    präsens     verspreche     versprichst      verspricht     versprechen     versprecht    
+versprechen    präteritum  versprach      versprachst      versprach      versprachen     verspracht    
+versprechen    k2präsens   verspräche     versprächest     verspräche     versprächen     versprächet   
+                                                                                                        
+vorlesen       partizip    vorgelesen                                                                   
+vorlesen       hilfsverb   haben                                                                        
+vorlesen       präsens     lese           liest            liest          lesen           lest          
+vorlesen       präteritum  las            lasest           las            lasen           last          
+vorlesen       k2präsens   läse           läsest           läse           läsen           läset         
+                                                                                                        
+mitteilen      partizip    mitgeteilt                                                                   
+mitteilen      hilfsverb   haben                                                                        
+mitteilen      präsens     teile          teilst           teilt          teilen          teilt         
+mitteilen      präteritum  teilte         teiltest         teilte         teilten         teiltet       
+mitteilen      k2präsens   teilte         teiltest         teilte         teilten         teiltet       
+                                                                                                        
+teilen         partizip    geteilt                                                                      
+teilen         hilfsverb   haben                                                                        
+teilen         präsens     teile          teilst           teilt          teilen          teilt         
+teilen         präteritum  teilte         teiltest         teilte         teilten         teiltet       
+teilen         k2präsens   teilte         teiltest         teilte         teilten         teiltet       
+                                                                                                        
+erkundigen     partizip    erkundigt                                                                    
+erkundigen     hilfsverb   haben                                                                        
+erkundigen     präsens     erkundige      erkundigst       erkundigt      erkundigen      erkundigt     
+erkundigen     präteritum  erkundigte     erkundigtest     erkundigte     erkundigten     erkundigtet   
+erkundigen     k2präsens   erkundigte     erkundigtest     erkundigte     erkundigten     erkundigtet   
+                                                                                                        
+hoffen         partizip    gehofft                                                                      
+hoffen         hilfsverb   haben                                                                        
+hoffen         präsens     hoffe          hoffst           hofft          hoffen          hofft         
+hoffen         präteritum  hoffte         hofftest         hoffte         hofften         hofftet       
+hoffen         k2präsens   hoffte         hofftest         hoffte         hofften         hofftet       
+                                                                                                        
+planen         partizip    geplant                                                                      
+planen         hilfsverb   haben                                                                        
+planen         präsens     plane          planst           plant          planen          plant         
+planen         präteritum  plante         plantest         plante         planten         plantet       
+planen         k2präsens   plante         plantest         plante         planten         plantet       
+                                                                                                        
+einatmen       partizip    eingeatmet                                                                   
+einatmen       hilfsverb   haben                                                                        
+einatmen       präsens     atme           atmest           atmet          atmen           atmet         
+einatmen       präteritum  atmete         atmetest         atmete         atmeten         atmetet       
+einatmen       k2präsens   atmete         atmetest         atmete         atmeten         atmetet       
+                                                                                                        
+atmen          partizip    geatmet                                                                      
+atmen          hilfsverb   haben                                                                        
+atmen          präsens     atme           atmest           atmet          atmen           atmet         
+atmen          präteritum  atmete         atmetest         atmete         atmeten         atmetet       
+atmen          k2präsens   atmete         atmetest         atmete         atmeten         atmetet       
+                                                                                                        
+verheimlichen  partizip    verheimlicht                                                                 
+verheimlichen  hilfsverb   haben                                                                        
+verheimlichen  präsens     verheimliche   verheimlichst    verheimlicht   verheimlichen   verheimlicht  
+verheimlichen  präteritum  verheimlichte  verheimlichtest  verheimlichte  verheimlichten  verheimlichtet
+verheimlichen  k2präsens   verheimlichte  verheimlichtest  verheimlichte  verheimlichten  verheimlichtet
+drehen  partizip    gedreht                                    
+drehen  hilfsverb   haben                                      
+drehen  präsens     drehe    drehst    dreht   drehen   dreht  
+drehen  präteritum  drehte   drehtest  drehte  drehten  drehtet
+drehen  k2präsens   drehte   drehtest  drehte  drehten  drehtet
+herstellen  partizip    hergestellt                                        
+herstellen  hilfsverb   haben                                              
+herstellen  präsens     stelle       stellst    stellt   stellen   stellt  
+herstellen  präteritum  stellte      stelltest  stellte  stellten  stelltet
+herstellen  k2präsens   stellte      stelltest  stellte  stellten  stelltet
+ausdenken  partizip    ausgedacht                                    
+ausdenken  hilfsverb   haben                                         
+ausdenken  präsens     denke       denkst    denkt   denken   denkt  
+ausdenken  präteritum  dachte      dachtest  dachte  dachten  dachtet
+ausdenken  k2präsens   dächte      dächtest  dächte  dächten  dächtet
+auftauchen  partizip    aufgetaucht                                        
+auftauchen  hilfsverb   sein                                               
+auftauchen  präsens     tauche       tauchst    taucht   tauchen   taucht  
+auftauchen  präteritum  tauchte      tauchtest  tauchte  tauchten  tauchtet
+auftauchen  k2präsens   tauchte      tauchtest  tauchte  tauchten  tauchtet
+tauchen  partizip    getaucht                                        
+tauchen  hilfsverb   haben                                           
+tauchen  präsens     tauche    tauchst    taucht   tauchen   taucht  
+tauchen  präteritum  tauchte   tauchtest  tauchte  tauchten  tauchtet
+tauchen  k2präsens   tauchte   tauchtest  tauchte  tauchten  tauchtet
+einrichten  partizip    eingerichtet                                            
+einrichten  hilfsverb   haben                                                   
+einrichten  präsens     richte        richtest    richtet   richten    richtet  
+einrichten  präteritum  richtete      richtetest  richtete  richteten  richtetet
+einrichten  k2präsens   richtete      richtetest  richtete  richteten  richtetet
+aussagen  partizip    ausgesagt                                
+aussagen  hilfsverb   haben                                    
+aussagen  präsens     sage       sagst    sagt   sagen   sagt  
+aussagen  präteritum  sagte      sagtest  sagte  sagten  sagtet
+aussagen  k2präsens   sagte      sagtest  sagte  sagten  sagtet
+sammeln  partizip    gesammelt                                            
+sammeln  hilfsverb   haben                                                
+sammeln  präsens     sammle     sammelst    sammelt   sammeln    sammelt  
+sammeln  präteritum  sammelte   sammeltest  sammelte  sammelten  sammeltet
+sammeln  k2präsens   sammelte   sammeltest  sammelte  sammelten  sammeltet
+wischen  partizip    gewischt                                        
+wischen  hilfsverb   haben                                           
+wischen  präsens     wische    wischst    wischt   wischen   wischt  
+wischen  präteritum  wischte   wischtest  wischte  wischten  wischtet
+wischen  k2präsens   wischte   wischtest  wischte  wischten  wischtet
+erwischen  partizip    erwischt                                                 
+erwischen  hilfsverb   haben                                                    
+erwischen  präsens     erwische   erwischst    erwischt   erwischen   erwischt  
+erwischen  präteritum  erwischte  erwischtest  erwischte  erwischten  erwischtet
+erwischen  k2präsens   erwischte  erwischtest  erwischte  erwischten  erwischtet
+bestellen  partizip    bestellt                                                 
+bestellen  hilfsverb   haben                                                    
+bestellen  präsens     bestelle   bestellst    bestellt   bestellen   bestellt  
+bestellen  präteritum  bestellte  bestelltest  bestellte  bestellten  bestelltet
+bestellen  k2präsens   bestellte  bestelltest  bestellte  bestellten  bestelltet
+versetzen  partizip    versetzt                                                 
+versetzen  hilfsverb   haben                                                    
+versetzen  präsens     versetze   versetzt     versetzt   versetzen   versetzt  
+versetzen  präteritum  versetzte  versetztest  versetzte  versetzten  versetztet
+versetzen  k2präsens   versetzte  versetztest  versetzte  versetzten  versetztet
+aufgehen  partizip    aufgegangen                                
+aufgehen  hilfsverb   sein                                       
+aufgehen  präsens     gehe         gehst    geht   gehen   geht  
+aufgehen  präteritum  ging         gingst   ging   gingen  gingt 
+aufgehen  k2präsens   ginge        gingest  ginge  gingen  ginget
