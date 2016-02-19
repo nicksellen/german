@@ -74,6 +74,8 @@ function transformWord(type, word, pronoun) {
   
   word = word.replace('gewinkt/gewunken*', 'gewinkt');
   
+  word = word.replace(/^(komm.*)\/kömm.*\+$/, '$1');
+  
   word = {
     'gebärst/gebierst-' : 'gebärst',
     'gebärt/gebiert-'   : 'gebärt'

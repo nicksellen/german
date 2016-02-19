@@ -1318,3 +1318,75 @@ anrufen        präsens     rufe            rufst            ruft           rufe
 anrufen        präteritum  rief            riefst           rief           riefen          rieft         
 anrufen        k2präsens   riefe           riefest          riefe          riefen          riefet        
                                                                                                          
+runterfallen   partizip    runtergefallen                                                                
+runterfallen   hilfsverb   sein                                                                          
+runterfallen   präsens     falle           fällst           fällt          fallen          fallt         
+runterfallen   präteritum  fiel            fielst           fiel           fielen          fielt         
+runterfallen   k2präsens   fiele           fielest          fiele          fielen          fielet        
+                                                                                                         
+weinen         partizip    geweint                                                                       
+weinen         hilfsverb   haben                                                                         
+weinen         präsens     weine           weinst           weint          weinen          weint         
+weinen         präteritum  weinte          weintest         weinte         weinten         weintet       
+weinen         k2präsens   weinte          weintest         weinte         weinten         weintet       
+                                                                                                         
+einfallen      partizip    eingefallen                                                                   
+einfallen      hilfsverb   sein                                                                          
+einfallen      präsens     falle           fällst           fällt          fallen          fallt         
+einfallen      präteritum  fiel            fielst           fiel           fielen          fielt         
+einfallen      k2präsens   fiele           fielest          fiele          fielen          fielet        
+                                                                                                         
+räumen         partizip    geräumt                                                                       
+räumen         hilfsverb   haben                                                                         
+räumen         präsens     räume           räumst           räumt          räumen          räumt         
+räumen         präteritum  räumte          räumtest         räumte         räumten         räumtet       
+räumen         k2präsens   räumte          räumtest         räumte         räumten         räumtet       
+                                                                                                         
+aufräumen      partizip    aufgeräumt                                                                    
+aufräumen      hilfsverb   haben                                                                         
+aufräumen      präsens     räume           räumst           räumt          räumen          räumt         
+aufräumen      präteritum  räumte          räumtest         räumte         räumten         räumtet       
+aufräumen      k2präsens   räumte          räumtest         räumte         räumten         räumtet       
+                                                                                                         
+reinkommen     partizip    reingekommen                                                                  
+reinkommen     hilfsverb   sein                                                                          
+reinkommen     präsens     komme           kommst           kommt          kommen          kommt         
+reinkommen     präteritum  kam             kamst            kam            kamen           kamt          
+reinkommen     k2präsens   käme            kämest           käme           kämen           kämet         
+                                                                                                         
+verstecken     partizip    versteckt                                                                     
+verstecken     hilfsverb   haben                                                                         
+verstecken     präsens     verstecke       versteckst       versteckt      verstecken      versteckt     
+verstecken     präteritum  versteckte      verstecktest     versteckte     versteckten     verstecktet   
+verstecken     k2präsens   versteckte      verstecktest     versteckte     versteckten     verstecktet   
+                                                                                                         
+stottern       partizip    gestottert                                                                    
+stottern       hilfsverb   haben                                                                         
+stottern       präsens     stottere        stotterst        stottert       stottern        stottert      
+stottern       präteritum  stotterte       stottertest      stotterte      stotterten      stottertet    
+stottern       k2präsens   stotterte       stottertest      stotterte      stotterten      stottertet    
+                                                                                                         
+überlegen      partizip    übergelegt                                                                    
+überlegen      hilfsverb   haben                                                                         
+überlegen      präsens     lege            legst            legt           legen           legt          
+überlegen      präteritum  legte           legtest          legte          legten          legtet        
+überlegen      k2präsens   legte           legtest          legte          legten          legtet        
+                                                                                                         
+enthalten      partizip    enthalten                                                                     
+enthalten      hilfsverb   haben                                                                         
+enthalten      präsens     enthalte        enthältst        enthält        enthalten       enthaltet     
+enthalten      präteritum  enthielt        enthieltest      enthielt       enthielten      enthieltet    
+enthalten      k2präsens   enthielte       enthieltest      enthielte      enthielten      enthieltet    
+                                                                                                         
+verlassen      partizip    verlassen                                                                     
+verlassen      hilfsverb   haben                                                                         
+verlassen      präsens     verlasse        verlässt         verlässt       verlassen       verlasst      
+verlassen      präteritum  verließ         verließest       verließ        verließen       verließt      
+verlassen      k2präsens   verließe        verließest       verließe       verließen       verließet     
+                                                                                                         
+stecken        partizip    gesteckt                                                                      
+stecken        hilfsverb   haben                                                                         
+stecken        präsens     stecke          steckst          steckt         stecken         steckt        
+stecken        präteritum  steckte         stecktest        steckte        steckten        stecktet      
+stecken        k2präsens   steckte         stecktest        steckte        steckten        stecktet      
+                                                                                                         
