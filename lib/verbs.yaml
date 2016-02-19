@@ -667,7 +667,7 @@ leihen:
     partizip: ie
     
 scheinen:
-  en: to shine
+  en: to shine, to seem
   strong:
   stems:
     präteritum: ie
@@ -1212,6 +1212,47 @@ versetzen:
 
 auf|gehen:
   en: to rise, to realise, to pan out
+
+schnappen:
+  en: to snatch, to grab
+
+klettern:
+  en: to climb
+  hilfsverb: sein
+
+ergreifen:
+  en: to seize, to grasp
+
+winken:
+  en: to wave
+
+antworten:
+  en: to answer, to reply
+
+fassen:
+  en: to grip, to catch, to comprehend
+
+wackeln:
+  en: to wobble, to shake, to wiggle
+
+schauen:
+  en: to look, to see
+
+begreifen:
+  en: to understand, to fathom
+
+hoch|klettern:
+  en: to climb up
+
+rufen:
+  en: to call, to exclaim
+  strong:
+  stems:
+    präteritum: ie
+    k2präsens: ie
+
+an|rufen:
+  en: to call up
 
 #-------------------------------------------------------------------------------
 
