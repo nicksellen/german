@@ -9,6 +9,7 @@ var includeUndefined = false;
 //includeUndefined = true;
 
 var testVerbs = require(__dirname + '/test-verbs');
+var verbs = require(__dirname + '/../lib/verbs').verbs;
 
 Object.keys(testVerbs).forEach(function(infinitive){
   var verb = testVerbs[infinitive];
@@ -30,7 +31,8 @@ describe('conjuagtor', function(){
     if (ignored[infinitive]) return;
     var tests = all[infinitive];
     describe('verb: ' + infinitive, function(){
-      if (!conjugator.hasVerb(infinitive)) {
+      var verb = verbs[infinitive];
+      if (!verb) {
         if (includeUndefined) {
           it('is defined', function(){
             assert.fail(undefined, undefined, 'missing');
@@ -41,16 +43,16 @@ describe('conjuagtor', function(){
         });
         tests.forEach(function(test){
           if (test.partizip) {
-            it('partizip: ' + conjugator.partizip(infinitive), function(){
-              assert.equal(conjugator.partizip(infinitive), test.partizip);
+            it('partizip: ' + conjugator.partizip(verb), function(){
+              assert.equal(conjugator.partizip(verb), test.partizip);
             });
           } else if (test.hilfsverb) {
-            it('hilfsverb: ' + conjugator.hilfsverb(infinitive), function(){
-              assert.equal(conjugator.hilfsverb(infinitive), test.hilfsverb);
+            it('hilfsverb: ' + conjugator.hilfsverb(verb).infinitive, function(){
+              assert.equal(conjugator.hilfsverb(verb).infinitive, test.hilfsverb);
             });
           } else if (test.tense) {
             describe('tense: ' + test.tense, function(){
-              var result = conjugator(infinitive, test.tense);
+              var result = conjugator(verb, test.tense);
               Object.keys(test.expect).forEach(function(pronoun){
                 it(pronoun + ' ' + result[pronoun], function(){
                   assert.equal(result[pronoun], test.expect[pronoun]);

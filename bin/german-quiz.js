@@ -113,7 +113,7 @@ var combinations = [];
 infinitives.forEach(function(infinitive){
   var verb = verbs[infinitive];
   tenses.forEach(function(tense){
-    var conjugations = conjugator(infinitive, tense);
+    var conjugations = conjugator(verb, tense);
     pronouns.forEach(function(pronoun){
       var conjugation = conjugations[pronoun];
       combinations.push({
@@ -144,6 +144,7 @@ var errors = [];
 function askQuestion() {
   var combination = nextCombination();
   var infinitive = combination.infinitive;
+  var verb = combination.verb;
   var tense = combination.tense;
   var pronoun = combination.pronoun;
   var conjugation = combination.conjugation;
@@ -155,7 +156,7 @@ function askQuestion() {
       errors.push(combination);
       nextCombination.push(combination);
       console.log(colors.red(nextNegativeWord() + ' ' + colors.bold('✕')), colors.grey('Die richtige Antwort ist:', conjugation));
-      printFullConjugation(infinitive);
+      printFullConjugation(verb);
     }
     if (nextCombination.isEmpty()) {
       var resultText;
@@ -221,16 +222,16 @@ function pronounName(pronoun) {
   return pronoun === 'es' ? 'er/sie/es' : pronoun;
 }
 
-function printFullConjugation(infinitive) {
-  var results = conjugator(infinitive, Tenses.simple);
+function printFullConjugation(verb) {
+  var results = conjugator(verb, Tenses.simple);
   var data = [];
-  var partizip = conjugator.partizip(infinitive);
+  var partizip = conjugator.partizip(verb);
   if (partizip) {
     data.push(['partizip', partizip]);
   }
-  var hilfsverb = conjugator.hilfsverb(infinitive);
+  var hilfsverb = conjugator.hilfsverb(verb);
   if (hilfsverb) {
-    data.push(['hilfsverb', hilfsverb]);
+    data.push(['hilfsverb', hilfsverb.infinitive]);
   }
   Object.keys(results).forEach(function(tense){
     var words = results[tense];

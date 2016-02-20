@@ -1395,3 +1395,4 @@ aufhören       hilfsverb   haben
 aufhören       präsens     höre            hörst            hört           hören           hört          
 aufhören       präteritum  hörte           hörtest          hörte          hörten          hörtet        
 aufhören       k2präsens   hörte           hörtest          hörte          hörten          hörtet        
+                                                                                                         
