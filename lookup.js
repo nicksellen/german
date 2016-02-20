@@ -106,6 +106,12 @@ function extract(html) {
   if (m) {
     verb.hilfsverb = m[1];
   }
+  
+  var hint = $('.hinweis').text();
+  if (hint) {
+    console.error(hint.split('.')[0]);
+    process.exit(1);
+  }
 
   $('#ueberblickaufzu').find('div.v').each(function(_, div){
     div = $(div);
