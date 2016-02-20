@@ -1390,3 +1390,8 @@ stecken        präsens     stecke          steckst          steckt         stec
 stecken        präteritum  steckte         stecktest        steckte        steckten        stecktet      
 stecken        k2präsens   steckte         stecktest        steckte        steckten        stecktet      
                                                                                                          
+aufhören       partizip    aufgehört                                                                     
+aufhören       hilfsverb   haben                                                                         
+aufhören       präsens     höre            hörst            hört           hören           hört          
+aufhören       präteritum  hörte           hörtest          hörte          hörten          hörtet        
+aufhören       k2präsens   hörte           hörtest          hörte          hörten          hörtet        
