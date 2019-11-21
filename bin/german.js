@@ -7,8 +7,6 @@ var command = app.command.bind(app);
 command('list', 'list the verbs I know about');
 command('conjugate', 'conjugate a verb');
 command('quiz', 'take a quiz!');
-command('foo', 'foo!');
-command('foo2', 'foo2!');
 
 app.parse(process.argv);
 
