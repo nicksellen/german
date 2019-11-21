@@ -10,6 +10,12 @@ It has a quiz feature too.
 
 ![screenshot](http://nicksellen.co.uk/upld/german-example.png)
 
+## Installation
+
+```
+npm install -g german
+```
+
 ## Example usage
 
 ### list available verbs
